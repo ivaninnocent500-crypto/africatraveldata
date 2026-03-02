@@ -1,0 +1,123 @@
+{
+  "events": [
+    {
+      "id": "event_001",
+      "name": "Lake of Stars Festival",
+      "date": "2024-09-27",
+      "endDate": "2024-09-29",
+      "location": "Sunbird Nkopola, Mangochi, Malawi",
+      "description": "Malawi's premier music and arts festival held on the shores of Lake Malawi. Features international and African artists, workshops, and cultural activities.",
+      "popularityImpact": 0.85,
+      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3",
+      "expectedCrowdLevel": "HIGH",
+      "estimatedBudget": 800.0
+    },
+    {
+      "id": "event_002",
+      "name": "Timkat (Ethiopian Epiphany)",
+      "date": "2024-01-19",
+      "endDate": "2024-01-20",
+      "location": "Gondar, Ethiopia",
+      "description": "Celebration of the Baptism of Jesus, UNESCO-listed festival featuring colorful processions, blessing of water, and reenactments. Most spectacular in Gondar with its ancient castles.",
+      "popularityImpact": 0.9,
+      "imageUrl": "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa",
+      "expectedCrowdLevel": "VERY_HIGH",
+      "estimatedBudget": 1200.0
+    },
+    {
+      "id": "event_003",
+      "name": "Marrakech Popular Arts Festival",
+      "date": "2024-07-04",
+      "endDate": "2024-07-08",
+      "location": "Marrakech, Morocco",
+      "description": "One of Morocco's oldest festivals celebrating traditional music, dance, and performance arts. Features storytellers, acrobats, musicians, and dancers from across the country.",
+      "popularityImpact": 0.8,
+      "imageUrl": "https://images.unsplash.com/photo-1548015209-e6e1d4b9e0b3",
+      "expectedCrowdLevel": "HIGH",
+      "estimatedBudget": 900.0
+    },
+    {
+      "id": "event_004",
+      "name": "Sauti za Busara",
+      "date": "2025-02-13",
+      "endDate": "2025-02-16",
+      "location": "Stone Town, Zanzibar, Tanzania",
+      "description": "East Africa's biggest music festival celebrating Swahili culture and African music. Held in the historic Stone Town amphitheater with stunning ocean views.",
+      "popularityImpact": 0.88,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819",
+      "expectedCrowdLevel": "HIGH",
+      "estimatedBudget": 1100.0
+    },
+    {
+      "id": "event_005",
+      "name": "FESPACO Film Festival",
+      "date": "2025-02-22",
+      "endDate": "2025-03-01",
+      "location": "Ouagadougou, Burkina Faso",
+      "description": "Africa's largest film festival, held biennially. Showcases African cinema with screenings, workshops, and awards. A must for film enthusiasts.",
+      "popularityImpact": 0.75,
+      "imageUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e26",
+      "expectedCrowdLevel": "MEDIUM",
+      "estimatedBudget": 1500.0
+    },
+    {
+      "id": "event_006",
+      "name": "Cape Town International Jazz Festival",
+      "date": "2025-03-28",
+      "endDate": "2025-03-30",
+      "location": "Cape Town, South Africa",
+      "description": "Africa's Grandest Gathering, featuring world-class jazz and soul artists on multiple stages. Over 40 international and African acts perform.",
+      "popularityImpact": 0.92,
+      "imageUrl": "https://images.unsplash.com/photo-1511192336575-5a79af67a629",
+      "expectedCrowdLevel": "VERY_HIGH",
+      "estimatedBudget": 1300.0
+    },
+    {
+      "id": "event_007",
+      "name": "Festival au Désert",
+      "date": "2025-01-15",
+      "endDate": "2025-01-17",
+      "location": "Essakane, Timbuktu, Mali",
+      "description": "The legendary Festival in the Desert celebrating Tuareg culture and music. A unique experience camping in the Sahara with nomadic musicians.",
+      "popularityImpact": 0.7,
+      "imageUrl": "https://images.unsplash.com/photo-1547234935-80c7145ec969",
+      "expectedCrowdLevel": "LOW",
+      "estimatedBudget": 2000.0
+    },
+    {
+      "id": "event_008",
+      "name": "Zanzibar International Film Festival",
+      "date": "2024-07-06",
+      "endDate": "2024-07-14",
+      "location": "Stone Town, Zanzibar, Tanzania",
+      "description": "Celebrating the best of Swahili and African cinema, with screenings across historic venues in Stone Town. Includes music performances and dhow sailing events.",
+      "popularityImpact": 0.78,
+      "imageUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c",
+      "expectedCrowdLevel": "MEDIUM",
+      "estimatedBudget": 1000.0
+    },
+    {
+      "id": "event_009",
+      "name": "Kirstenbosch Summer Concerts",
+      "date": "2024-11-15",
+      "endDate": "2025-03-30",
+      "location": "Cape Town, South Africa",
+      "description": "Weekly outdoor concerts at the stunning Kirstenbosch National Botanical Garden. Pack a picnic and enjoy sunset performances by top South African artists.",
+      "popularityImpact": 0.82,
+      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7",
+      "expectedCrowdLevel": "HIGH",
+      "estimatedBudget": 600.0
+    },
+    {
+      "id": "event_010",
+      "name": "Fête du Vodoun",
+      "date": "2025-01-10",
+      "location": "Ouidah, Benin",
+      "description": "National Voodoo Day celebration with ceremonies, processions, and rituals along the historic Route des Esclaves. A unique insight into West African spirituality.",
+      "popularityImpact": 0.72,
+      "imageUrl": "https://images.unsplash.com/photo-1528605248644-14dd04022da1",
+      "expectedCrowdLevel": "MEDIUM",
+      "estimatedBudget": 850.0
+    }
+  ]
+}
