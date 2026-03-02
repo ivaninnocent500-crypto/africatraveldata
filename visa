@@ -1,0 +1,344 @@
+{
+  "visaRequirements": [
+    {
+      "country": "Tanzania",
+      "nationality": "US",
+      "visaRequired": true,
+      "visaType": "VISA_ON_ARRIVAL",
+      "applyUrl": "https://immigration.go.tz/",
+      "processingDays": 0,
+      "cost": 50.0,
+      "notes": "Visa on arrival available at major airports and borders. Valid for 90 days."
+    },
+    {
+      "country": "Tanzania",
+      "nationality": "UK",
+      "visaRequired": true,
+      "visaType": "VISA_ON_ARRIVAL",
+      "applyUrl": "https://immigration.go.tz/",
+      "processingDays": 0,
+      "cost": 50.0,
+      "notes": "Visa on arrival available. Valid for 90 days."
+    },
+    {
+      "country": "Tanzania",
+      "nationality": "CA",
+      "visaRequired": true,
+      "visaType": "VISA_ON_ARRIVAL",
+      "applyUrl": "https://immigration.go.tz/",
+      "processingDays": 0,
+      "cost": 50.0,
+      "notes": "Visa on arrival available. Valid for 90 days."
+    },
+    {
+      "country": "Tanzania",
+      "nationality": "DE",
+      "visaRequired": true,
+      "visaType": "VISA_ON_ARRIVAL",
+      "applyUrl": "https://immigration.go.tz/",
+      "processingDays": 0,
+      "cost": 50.0,
+      "notes": "Visa on arrival available. Valid for 90 days."
+    },
+    {
+      "country": "Tanzania",
+      "nationality": "FR",
+      "visaRequired": true,
+      "visaType": "VISA_ON_ARRIVAL",
+      "applyUrl": "https://immigration.go.tz/",
+      "processingDays": 0,
+      "cost": 50.0,
+      "notes": "Visa on arrival available. Valid for 90 days."
+    },
+    {
+      "country": "Tanzania",
+      "nationality": "CN",
+      "visaRequired": true,
+      "visaType": "VISA_REQUIRED",
+      "applyUrl": "https://immigration.go.tz/",
+      "processingDays": 7,
+      "cost": 50.0,
+      "notes": "Visa must be obtained in advance from Tanzanian embassy."
+    },
+    {
+      "country": "Kenya",
+      "nationality": "US",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://www.evisa.go.ke/",
+      "processingDays": 3,
+      "cost": 51.0,
+      "notes": "E-visa must be obtained before travel. Valid for 90 days."
+    },
+    {
+      "country": "Kenya",
+      "nationality": "UK",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://www.evisa.go.ke/",
+      "processingDays": 3,
+      "cost": 51.0,
+      "notes": "E-visa must be obtained before travel. Valid for 90 days."
+    },
+    {
+      "country": "Kenya",
+      "nationality": "DE",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://www.evisa.go.ke/",
+      "processingDays": 3,
+      "cost": 51.0,
+      "notes": "E-visa must be obtained before travel. Valid for 90 days."
+    },
+    {
+      "country": "Kenya",
+      "nationality": "IN",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://www.evisa.go.ke/",
+      "processingDays": 3,
+      "cost": 51.0,
+      "notes": "E-visa must be obtained before travel. Valid for 90 days."
+    },
+    {
+      "country": "South Africa",
+      "nationality": "US",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "South Africa",
+      "nationality": "UK",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "South Africa",
+      "nationality": "DE",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "South Africa",
+      "nationality": "CN",
+      "visaRequired": true,
+      "visaType": "VISA_REQUIRED",
+      "applyUrl": "https://www.southafrica-consulate.org/",
+      "processingDays": 5,
+      "cost": 45.0,
+      "notes": "Visa must be obtained in advance from South African embassy."
+    },
+    {
+      "country": "Namibia",
+      "nationality": "US",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Namibia",
+      "nationality": "UK",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Namibia",
+      "nationality": "DE",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Namibia",
+      "nationality": "CN",
+      "visaRequired": true,
+      "visaType": "VISA_REQUIRED",
+      "applyUrl": "https://www.namibia-embassy.com/",
+      "processingDays": 5,
+      "cost": 75.0,
+      "notes": "Visa required. Apply at Namibian embassy in advance."
+    },
+    {
+      "country": "Botswana",
+      "nationality": "US",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Botswana",
+      "nationality": "UK",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Botswana",
+      "nationality": "DE",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Uganda",
+      "nationality": "US",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://visas.immigration.go.ug/",
+      "processingDays": 5,
+      "cost": 50.0,
+      "notes": "East Africa Tourist Visa ($100) covers Uganda, Kenya, Rwanda."
+    },
+    {
+      "country": "Uganda",
+      "nationality": "UK",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://visas.immigration.go.ug/",
+      "processingDays": 5,
+      "cost": 50.0,
+      "notes": "East Africa Tourist Visa ($100) covers Uganda, Kenya, Rwanda."
+    },
+    {
+      "country": "Uganda",
+      "nationality": "DE",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://visas.immigration.go.ug/",
+      "processingDays": 5,
+      "cost": 50.0,
+      "notes": "East Africa Tourist Visa ($100) covers Uganda, Kenya, Rwanda."
+    },
+    {
+      "country": "Morocco",
+      "nationality": "US",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Morocco",
+      "nationality": "UK",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Morocco",
+      "nationality": "DE",
+      "visaRequired": false,
+      "visaType": "VISA_FREE",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": null,
+      "notes": "Visa-free for up to 90 days for tourism."
+    },
+    {
+      "country": "Egypt",
+      "nationality": "US",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://visa2egypt.gov.eg/",
+      "processingDays": 5,
+      "cost": 25.0,
+      "notes": "E-visa recommended. Valid for 30 days."
+    },
+    {
+      "country": "Egypt",
+      "nationality": "UK",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://visa2egypt.gov.eg/",
+      "processingDays": 5,
+      "cost": 25.0,
+      "notes": "E-visa recommended. Valid for 30 days."
+    },
+    {
+      "country": "Egypt",
+      "nationality": "DE",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://visa2egypt.gov.eg/",
+      "processingDays": 5,
+      "cost": 25.0,
+      "notes": "E-visa recommended. Valid for 30 days."
+    },
+    {
+      "country": "Zimbabwe",
+      "nationality": "US",
+      "visaRequired": true,
+      "visaType": "VISA_ON_ARRIVAL",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": 50.0,
+      "notes": "KAZA UniVisa ($50) allows access to both Zimbabwe and Zambia."
+    },
+    {
+      "country": "Zimbabwe",
+      "nationality": "UK",
+      "visaRequired": true,
+      "visaType": "VISA_ON_ARRIVAL",
+      "applyUrl": null,
+      "processingDays": 0,
+      "cost": 50.0,
+      "notes": "KAZA UniVisa ($50) allows access to both Zimbabwe and Zambia."
+    },
+    {
+      "country": "Zambia",
+      "nationality": "US",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://eservices.zambiaimmigration.gov.zm/",
+      "processingDays": 5,
+      "cost": 50.0,
+      "notes": "KAZA UniVisa ($50) available for both countries."
+    },
+    {
+      "country": "Zambia",
+      "nationality": "UK",
+      "visaRequired": true,
+      "visaType": "E_VISA",
+      "applyUrl": "https://eservices.zambiaimmigration.gov.zm/",
+      "processingDays": 5,
+      "cost": 50.0,
+      "notes": "KAZA UniVisa ($50) available for both countries."
+    }
+  ]
+}
