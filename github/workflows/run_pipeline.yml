@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run Step 2 (Scraper)
+       - name: Run Step 2 (Scraper)
         run: python scraper.py
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -27,3 +27,6 @@ jobs:
 
       - name: Run Step 3 (Processor)
         run: python environmental_features.py
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
