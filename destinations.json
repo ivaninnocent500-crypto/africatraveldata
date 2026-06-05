@@ -3,11 +3,11 @@
     "id": "serengeti_001",
     "name": "Serengeti National Park",
     "country": "Tanzania",
-    "heroImageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://static.wixstatic.com/media/0d5186_b896b5b5ce284759b19f5259b3aa3c52~mv2.jpg/v1/fill/w_670,h_444,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/0d5186_b896b5b5ce284759b19f5259b3aa3c52~mv2.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1600&q=80"
+      "https://cdn-cmaef.nitrocdn.com/jRrqUCcBXKJwaLsDAONdssgqlBCcrZDS/assets/images/optimized/rev-1fb6975/www.naturaltoursandsafaris.com/wp-content/webp-express/webp-images/wp-content/uploads/2023/02/Serengeti-National-Park-Africa-Kenya-Safaris2.jpg.webp",
+      "https://cdn.sanity.io/images/s82b6z49/production/88cf83748704019163d6dfd531d7e1b7d79ccdb6-1800x1200.webp?w=1200&h=800&q=82&fit=crop&auto=format",
+      "https://www.tanzania-experience.com/wp-content/uploads/2024/01/serengeti-national-park.jpg"
     ],
     "description": "Experience the Great Migration, sweeping savannah sunsets, and year-round predator action in one of Africa's most iconic safari landscapes.",
     "shortDescription": "Migration drama, classic safaris, and huge wildlife density.",
@@ -33,11 +33,11 @@
     "id": "masai_mara_002",
     "name": "Masai Mara National Reserve",
     "country": "Kenya",
-    "heroImageUrl": "https://images.unsplash.com/photo-1534180477871-5d6cc81f3920?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://www.habariugandatours.com/wp-content/uploads/2017/05/3-Days-Masai-Mara.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1534180477871-5d6cc81f3920?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1547976152-ac413db63bcf?auto=format&fit=crop&w=1600&q=80"
+      "https://www.masaimara.travel/images/gamedrive%20vehicles%20kenya.jpg",
+      "https://www.kenya-experience.com/wp-content/uploads/2025/01/view-sunrise-mara-siria-camp-masai-mara.jpg",
+      "https://media.blacktomato.com/cdn-cgi/image/width=1520,height=800,fit=cover,quality=82,format=auto/https://media.blacktomato.com/2020/08/WEB-Boma-Deck.jpg"
     ],
     "description": "Kenya's flagship safari reserve, known for big cats, dramatic river crossings, and high-end camp experiences.",
     "shortDescription": "Big cats, migration crossings, and premium safari camps.",
@@ -63,11 +63,11 @@
     "id": "victoria_falls_003",
     "name": "Victoria Falls",
     "country": "Zimbabwe / Zambia",
-    "heroImageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://images.unsplash.com/photo-1618811308896-d279d72fdf4d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmljdG9yaWElMjBmYWxsc3xlbnwwfHwwfHx8MA%3D%3D",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1589801258098-2a743bee2c0d?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1579606033100-1c35ec7a4c81?auto=format&fit=crop&w=1600&q=80"
+      "https://i0.wp.com/brookebeyond.com/wp-content/uploads/2017/10/IMG_2166.jpg?ssl=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67iFg1gLp-wq_EbYexBBYuH-61bmzYr7HVg&s",
+      "https://a.storyblok.com/f/108167/800x400/4b061c5677/e3baf2cf-6958-46ad-9be0-eba5ea433e82.jpg/m/1920x0/filters:quality(50)"
     ],
     "description": "A thunderous natural wonder pairing waterfall viewpoints, helicopter rides, rafting, and sunset cruises.",
     "shortDescription": "Epic waterfall power with adventure and river sunsets.",
@@ -183,11 +183,11 @@
     "id": "zanzibar_011",
     "name": "Zanzibar Archipelago",
     "country": "Tanzania",
-    "heroImageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://dailynews.co.tz/wp-content/uploads/2025/06/16028946-pemba-island-zanzibar-archipelago-780x470.webp",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1542314772-63fc44eb7e6c?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1522858547137-f1dcec554f55?auto=format&fit=crop&w=1600&q=80"
+      "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/66/c5/dc.jpg",
+      "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/dc/fe/b5.jpg",
+      "https://safari-guru.com/wp-content/uploads/2021/09/diving-zanzibar-island-fish.jpg"
     ],
     "description": "Beach escape meets Swahili heritage, reef adventures, spice farms, and boutique island stays.",
     "shortDescription": "Beaches, Stone Town, spice trails, and warm Indian Ocean water.",
