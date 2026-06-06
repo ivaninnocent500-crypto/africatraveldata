@@ -1,0 +1,258 @@
+[
+  {
+    "id": "op_serengeti_explorations",
+    "name": "Serengeti Explorations",
+    "logoUrl": null,
+    "location": "Arusha, Tanzania",
+    "specialization": "Safari & Wildlife Tours",
+    "establishedYear": 2018,
+    "trustScore": 95,
+    "isVerified": true,
+    "isLicensed": true,
+    "hasVerifiedOffice": true,
+    "insuranceValid": true,
+    "overallRating": 4.8,
+    "reviewCount": 1248,
+    "responseTimeMinutes": 12,
+    "bookingSuccessRate": 0.98,
+    "cancellationRate": 0.02,
+    "repeatCustomerRate": 0.61,
+    "reviews": [
+      {
+        "reviewerName": "Sarah J.",
+        "avatarUrl": null,
+        "comment": "Amazing experience and professional team.",
+        "rating": 5.0,
+        "date": "May 2024"
+      },
+      {
+        "reviewerName": "Michael T.",
+        "avatarUrl": null,
+        "comment": "Communication was excellent from start to finish.",
+        "rating": 5.0,
+        "date": "Apr 2024"
+      },
+      {
+        "reviewerName": "Emily R.",
+        "avatarUrl": null,
+        "comment": "Best safari of our life! Highly recommended.",
+        "rating": 5.0,
+        "date": "Apr 2024"
+      }
+    ],
+    "reviewTags": ["Professional Guides", "Great Communication", "Excellent Value", "On-Time Departures", "Knowledgeable Guides", "Safe Vehicles"],
+    "isOnline": true,
+    "guidesInField": 3,
+    "activeToursToday": 12,
+    "lastBookingMinutesAgo": 14,
+    "happyTravelersToday": 28,
+    "aiMatchPercentage": 93,
+    "bestForTags": ["Families", "First-Time Safari", "Luxury Travelers"],
+    "destinationIds": ["serengeti_001", "ngorongoro_012"]
+  },
+  {
+    "id": "op_ocean_paradise",
+    "name": "Ocean Paradise Tours",
+    "logoUrl": null,
+    "location": "Stone Town, Zanzibar",
+    "specialization": "Island & Marine Tours",
+    "establishedYear": 2015,
+    "trustScore": 88,
+    "isVerified": true,
+    "isLicensed": true,
+    "hasVerifiedOffice": true,
+    "insuranceValid": true,
+    "overallRating": 4.5,
+    "reviewCount": 876,
+    "responseTimeMinutes": 18,
+    "bookingSuccessRate": 0.95,
+    "cancellationRate": 0.05,
+    "repeatCustomerRate": 0.55,
+    "reviews": [
+      {
+        "reviewerName": "James K.",
+        "avatarUrl": null,
+        "comment": "Incredible dhow cruise and snorkeling trip.",
+        "rating": 5.0,
+        "date": "Jun 2024"
+      },
+      {
+        "reviewerName": "Amina S.",
+        "avatarUrl": null,
+        "comment": "Stone Town walking tour was very informative.",
+        "rating": 4.5,
+        "date": "May 2024"
+      },
+      {
+        "reviewerName": "Carlos R.",
+        "avatarUrl": null,
+        "comment": "Spice farm visit exceeded expectations.",
+        "rating": 5.0,
+        "date": "Apr 2024"
+      }
+    ],
+    "reviewTags": ["Marine Experts", "Cultural Tours", "Great Snorkeling", "Friendly Staff"],
+    "isOnline": true,
+    "guidesInField": 5,
+    "activeToursToday": 8,
+    "lastBookingMinutesAgo": 22,
+    "happyTravelersToday": 34,
+    "aiMatchPercentage": 87,
+    "bestForTags": ["Couples", "Beach Lovers", "Adventure Seekers"],
+    "destinationIds": ["zanzibar_011"]
+  },
+  {
+    "id": "op_zambezi_explorers",
+    "name": "Zambezi Explorers",
+    "logoUrl": null,
+    "location": "Livingstone, Zambia",
+    "specialization": "Adventure & Falls Tours",
+    "establishedYear": 2012,
+    "trustScore": 91,
+    "isVerified": true,
+    "isLicensed": true,
+    "hasVerifiedOffice": true,
+    "insuranceValid": true,
+    "overallRating": 4.7,
+    "reviewCount": 654,
+    "responseTimeMinutes": 20,
+    "bookingSuccessRate": 0.97,
+    "cancellationRate": 0.03,
+    "repeatCustomerRate": 0.48,
+    "reviews": [
+      {
+        "reviewerName": "Hannah M.",
+        "avatarUrl": null,
+        "comment": "Bungee jump and rafting combo was incredible.",
+        "rating": 5.0,
+        "date": "Mar 2025"
+      },
+      {
+        "reviewerName": "David L.",
+        "avatarUrl": null,
+        "comment": "Helicopter flight over the falls was breathtaking.",
+        "rating": 5.0,
+        "date": "Feb 2025"
+      },
+      {
+        "reviewerName": "Priya N.",
+        "avatarUrl": null,
+        "comment": "Sunset cruise on the Zambezi was magical.",
+        "rating": 4.5,
+        "date": "Jan 2025"
+      }
+    ],
+    "reviewTags": ["Adventure Specialists", "Safety First", "Great Views", "Experienced Guides"],
+    "isOnline": false,
+    "guidesInField": 2,
+    "activeToursToday": 4,
+    "lastBookingMinutesAgo": 45,
+    "happyTravelersToday": 12,
+    "aiMatchPercentage": 89,
+    "bestForTags": ["Adrenaline Seekers", "Couples", "Solo Travelers"],
+    "destinationIds": ["victoria_falls_003"]
+  },
+  {
+    "id": "op_mara_kings",
+    "name": "Mara Kings Safaris",
+    "logoUrl": null,
+    "location": "Nairobi, Kenya",
+    "specialization": "Big Cat Safari Specialists",
+    "establishedYear": 2010,
+    "trustScore": 93,
+    "isVerified": true,
+    "isLicensed": true,
+    "hasVerifiedOffice": true,
+    "insuranceValid": true,
+    "overallRating": 4.9,
+    "reviewCount": 1102,
+    "responseTimeMinutes": 9,
+    "bookingSuccessRate": 0.99,
+    "cancellationRate": 0.01,
+    "repeatCustomerRate": 0.72,
+    "reviews": [
+      {
+        "reviewerName": "Tom W.",
+        "avatarUrl": null,
+        "comment": "Witnessed a river crossing – absolutely surreal.",
+        "rating": 5.0,
+        "date": "Aug 2024"
+      },
+      {
+        "reviewerName": "Lisa C.",
+        "avatarUrl": null,
+        "comment": "Our guide found lions with cubs on day one.",
+        "rating": 5.0,
+        "date": "Jul 2024"
+      },
+      {
+        "reviewerName": "Omar F.",
+        "avatarUrl": null,
+        "comment": "The balloon safari at sunrise is unforgettable.",
+        "rating": 5.0,
+        "date": "Jul 2024"
+      }
+    ],
+    "reviewTags": ["Big Cat Experts", "Exclusive Access", "Premium Camps", "Personalized Service"],
+    "isOnline": true,
+    "guidesInField": 6,
+    "activeToursToday": 15,
+    "lastBookingMinutesAgo": 8,
+    "happyTravelersToday": 42,
+    "aiMatchPercentage": 96,
+    "bestForTags": ["Honeymoon", "Luxury Travelers", "Wildlife Photographers"],
+    "destinationIds": ["masai_mara_002"]
+  },
+  {
+    "id": "op_namib_dunes",
+    "name": "Namib Dune Expeditions",
+    "logoUrl": null,
+    "location": "Swakopmund, Namibia",
+    "specialization": "Desert & Dune Expeditions",
+    "establishedYear": 2016,
+    "trustScore": 86,
+    "isVerified": true,
+    "isLicensed": true,
+    "hasVerifiedOffice": false,
+    "insuranceValid": true,
+    "overallRating": 4.6,
+    "reviewCount": 421,
+    "responseTimeMinutes": 25,
+    "bookingSuccessRate": 0.94,
+    "cancellationRate": 0.06,
+    "repeatCustomerRate": 0.38,
+    "reviews": [
+      {
+        "reviewerName": "Katja B.",
+        "avatarUrl": null,
+        "comment": "Sunrise climb on Dune 45 was absolutely magical.",
+        "rating": 5.0,
+        "date": "Jun 2024"
+      },
+      {
+        "reviewerName": "Raj P.",
+        "avatarUrl": null,
+        "comment": "Deadvlei photography tour was world-class.",
+        "rating": 5.0,
+        "date": "May 2024"
+      },
+      {
+        "reviewerName": "Sophie A.",
+        "avatarUrl": null,
+        "comment": "Scenic flight over the dunes – stunning.",
+        "rating": 4.5,
+        "date": "Apr 2024"
+      }
+    ],
+    "reviewTags": ["Photography Focused", "Desert Expertise", "Small Groups", "Sunrise Specialists"],
+    "isOnline": true,
+    "guidesInField": 2,
+    "activeToursToday": 5,
+    "lastBookingMinutesAgo": 60,
+    "happyTravelersToday": 14,
+    "aiMatchPercentage": 82,
+    "bestForTags": ["Photographers", "Solo Travelers", "Nature Lovers"],
+    "destinationIds": ["sossusvlei_004"]
+  }
+]
+
