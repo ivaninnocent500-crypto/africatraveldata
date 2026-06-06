@@ -19,6 +19,23 @@
     "trendGrowth": 23.5,
     "bestMonths": [5, 6, 7, 8, 9, 10],
     "activities": ["Game Drives", "Hot Air Balloon Safaris", "Walking Safaris", "Photography Workshops"],
+    "topExperiences": [
+      {
+        "title": "Game Drive",
+        "subtitle": "Most Popular",
+        "imageUrl": "https://cdn.sanity.io/images/s82b6z49/production/88cf83748704019163d6dfd531d7e1b7d79ccdb6-1800x1200.webp?w=600&h=400&q=82&fit=crop&auto=format"
+      },
+      {
+        "title": "Balloon Safari",
+        "subtitle": "Best View",
+        "imageUrl": "https://www.tanzania-experience.com/wp-content/uploads/2024/01/serengeti-national-park.jpg"
+      },
+      {
+        "title": "Luxury Lodge",
+        "subtitle": "Premium Stay",
+        "imageUrl": "https://static.wixstatic.com/media/0d5186_b896b5b5ce284759b19f5259b3aa3c52~mv2.jpg/v1/fill/w_670,h_444,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/0d5186_b896b5b5ce284759b19f5259b3aa3c52~mv2.jpg"
+      }
+    ],
     "visaRequired": true,
     "visaType": "VISA_ON_ARRIVAL",
     "visaApplyUrl": "https://immigration.go.tz/",
@@ -49,6 +66,23 @@
     "trendGrowth": 18.2,
     "bestMonths": [6, 7, 8, 9, 10],
     "activities": ["Game Drives", "Balloon Safaris", "Guided Nature Walks", "Maasai Cultural Visits"],
+    "topExperiences": [
+      {
+        "title": "Game Drive",
+        "subtitle": "Big Cat Country",
+        "imageUrl": "https://www.masaimara.travel/images/gamedrive%20vehicles%20kenya.jpg"
+      },
+      {
+        "title": "River Crossing",
+        "subtitle": "Migration Wonder",
+        "imageUrl": "https://www.kenya-experience.com/wp-content/uploads/2025/01/view-sunrise-mara-siria-camp-masai-mara.jpg"
+      },
+      {
+        "title": "Maasai Village",
+        "subtitle": "Cultural Experience",
+        "imageUrl": "https://www.habariugandatours.com/wp-content/uploads/2017/05/3-Days-Masai-Mara.jpg"
+      }
+    ],
     "visaRequired": true,
     "visaType": "E_VISA",
     "visaApplyUrl": "https://www.etakenya.go.ke/en",
@@ -79,6 +113,23 @@
     "trendGrowth": 15.7,
     "bestMonths": [3, 4, 5, 6, 7, 8],
     "activities": ["Helicopter Flights", "Bungee Jumping", "White Water Rafting", "Sunset Cruises"],
+    "topExperiences": [
+      {
+        "title": "Helicopter Flight",
+        "subtitle": "Most Popular",
+        "imageUrl": "https://images.unsplash.com/photo-1618811308896-d279d72fdf4d?fm=jpg&q=60&w=600&auto=format&fit=crop"
+      },
+      {
+        "title": "White Water Rafting",
+        "subtitle": "Adrenaline Rush",
+        "imageUrl": "https://i0.wp.com/brookebeyond.com/wp-content/uploads/2017/10/IMG_2166.jpg?ssl=1"
+      },
+      {
+        "title": "Sunset Cruise",
+        "subtitle": "Romantic & Scenic",
+        "imageUrl": "https://a.storyblok.com/f/108167/800x400/4b061c5677/e3baf2cf-6958-46ad-9be0-eba5ea433e82.jpg/m/1920x0/filters:quality(50)"
+      }
+    ],
     "visaRequired": true,
     "visaType": "VISA_ON_ARRIVAL",
     "visaApplyUrl": null,
@@ -109,6 +160,23 @@
     "trendGrowth": 32.4,
     "bestMonths": [4, 5, 6, 7, 8, 9],
     "activities": ["Dune Climbing", "Scenic Flights", "Photography Tours", "Nature Drives"],
+    "topExperiences": [
+      {
+        "title": "Dune 45 Sunrise",
+        "subtitle": "Iconic Climb",
+        "imageUrl": "https://images.unsplash.com/photo-1547976152-ac413d2e44ed?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Deadvlei Walk",
+        "subtitle": "Photography Heaven",
+        "imageUrl": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Scenic Flight",
+        "subtitle": "Aerial Views",
+        "imageUrl": "https://www.namibie-en-liberte.com/uploads/sites/2/2018/07/paysage-deadvlei-sossusvlei-namibie.jpeg"
+      }
+    ],
     "visaRequired": false,
     "visaType": "VISA_FREE",
     "visaApplyUrl": null,
@@ -139,6 +207,23 @@
     "trendGrowth": 14.2,
     "bestMonths": [10, 11, 0, 1, 2, 3],
     "activities": ["Table Mountain", "Winelands", "Robben Island", "Surfing", "Food Tours"],
+    "topExperiences": [
+      {
+        "title": "Table Mountain",
+        "subtitle": "Iconic Hike",
+        "imageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Winelands Tour",
+        "subtitle": "World-Class Wines",
+        "imageUrl": "https://images.unsplash.com/photo-1579613832125-5d34a13ffe2a?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Robben Island",
+        "subtitle": "Historic Journey",
+        "imageUrl": "https://images.unsplash.com/photo-1567609893881-6b4f2e4ef6d9?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
     "visaRequired": false,
     "visaType": "VISA_FREE",
     "visaApplyUrl": null,
@@ -169,6 +254,23 @@
     "trendGrowth": 19.7,
     "bestMonths": [2, 3, 4, 8, 9, 10],
     "activities": ["Medina Exploration", "Souk Shopping", "Cooking Classes", "Atlas Day Trips"],
+    "topExperiences": [
+      {
+        "title": "Medina Walking Tour",
+        "subtitle": "Cultural Immersion",
+        "imageUrl": "https://images.unsplash.com/photo-1548015209-e6e1d4b9e0b3?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Cooking Class",
+        "subtitle": "Flavors of Morocco",
+        "imageUrl": "https://images.unsplash.com/photo-1597212618440-806262de4f6d?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Atlas Mountains",
+        "subtitle": "Day Expedition",
+        "imageUrl": "https://www.wanderingredhead.com/wp-content/uploads/2018/06/LRM_EXPORT_20180606_141618.jpg"
+      }
+    ],
     "visaRequired": false,
     "visaType": "VISA_FREE",
     "visaApplyUrl": null,
@@ -199,6 +301,23 @@
     "trendGrowth": 41.2,
     "bestMonths": [5, 6, 7, 8, 11, 0, 1],
     "activities": ["Stone Town Tours", "Snorkeling", "Dhow Cruises", "Spice Plantation Visits"],
+    "topExperiences": [
+      {
+        "title": "Dhow Cruise",
+        "subtitle": "Sunset on the Ocean",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/66/c5/dc.jpg"
+      },
+      {
+        "title": "Snorkeling & Diving",
+        "subtitle": "Coral Reef Adventure",
+        "imageUrl": "https://safari-guru.com/wp-content/uploads/2021/09/diving-zanzibar-island-fish.jpg"
+      },
+      {
+        "title": "Stone Town Tour",
+        "subtitle": "UNESCO Heritage",
+        "imageUrl": "https://dailynews.co.tz/wp-content/uploads/2025/06/16028946-pemba-island-zanzibar-archipelago-780x470.webp"
+      }
+    ],
     "visaRequired": true,
     "visaType": "VISA_ON_ARRIVAL",
     "visaApplyUrl": "https://immigration.go.tz/",
@@ -229,6 +348,23 @@
     "trendGrowth": 26.8,
     "bestMonths": [5, 6, 7, 8, 9, 0, 1],
     "activities": ["Crater Game Drives", "Bird Watching", "Olduvai Gorge", "Cultural Visits"],
+    "topExperiences": [
+      {
+        "title": "Crater Game Drive",
+        "subtitle": "Big Five in One Day",
+        "imageUrl": "https://images.unsplash.com/photo-1564767298108-45c5a04b32b0?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Bird Watching",
+        "subtitle": "500+ Species",
+        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Olduvai Gorge",
+        "subtitle": "Cradle of Mankind",
+        "imageUrl": "https://www.exploretanzaniatours.com/wp-content/uploads/2024/07/c4657c85af75dc59b2fed7bf0f7dfa13-750x450.jpg"
+      }
+    ],
     "visaRequired": true,
     "visaType": "VISA_ON_ARRIVAL",
     "visaApplyUrl": "https://immigration.go.tz/",
@@ -240,3 +376,4 @@
     "seasonalScores": {"jan": 0.90, "feb": 0.90, "mar": 0.80, "apr": 0.62, "may": 0.62, "jun": 0.86, "jul": 0.96, "aug": 0.96, "sep": 0.90, "oct": 0.86, "nov": 0.72, "dec": 0.86}
   }
 ]
+
