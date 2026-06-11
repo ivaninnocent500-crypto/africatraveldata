@@ -109,5 +109,2115 @@
       "event_002",
       "event_005"
     ]
+  },
+  {
+    "id": "event_002",
+    "destinationIds": [
+      "cape_town_007"
+    ],
+    "name": "Cape Town International Jazz Festival",
+    "shortDescription": "World-class jazz over two iconic Cape Town nights.",
+    "description": "Major international jazz event and one of Africa's best-known urban festivals featuring local and global jazz legends across multiple stages.",
+    "location": "Cape Town, South Africa",
+    "latitude": -33.9249,
+    "longitude": 18.4241,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_002_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-03-28T18:00:00Z",
+    "endDate": "2025-03-30T23:00:00Z",
+    "organizer": {
+      "id": "org_002",
+      "name": "espAfrika",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_002.png"
+    },
+    "logistics": {
+      "venueName": "Cape Town ICC",
+      "fullAddress": "1 Lower Long St, Cape Town, 8001",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Smart casual",
+      "ageRestriction": "18+",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 95.0,
+        "remainingSpots": 540,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 320.0,
+        "remainingSpots": 80,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://capetownjazzfest.com",
+    "ticketUrl": "https://tickets.capetownjazzfest.com",
+    "expectedCrowdLevel": "VERY_HIGH",
+    "attendees": 37000,
+    "goingCount": 22000,
+    "interestedCount": 41000,
+    "friendsAttending": 22,
+    "popularityImpact": 0.94,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "music",
+      "city",
+      "nightlife",
+      "jazz"
+    ],
+    "faqs": [
+      {
+        "question": "Are children allowed?",
+        "answer": "Attendees must be 18+ after 8PM."
+      },
+      {
+        "question": "Is food available?",
+        "answer": "Yes, multiple food vendors are on-site."
+      }
+    ],
+    "similarEventIds": [
+      "event_001",
+      "event_005"
+    ]
+  },
+  {
+    "id": "event_003",
+    "destinationIds": [
+      "marrakech_009"
+    ],
+    "name": "Marrakech Popular Arts Festival",
+    "shortDescription": "Traditional Moroccan music, dance and street arts.",
+    "description": "Traditional music, storytelling, dance, and performance art across Marrakech's historic squares and palaces.",
+    "location": "Marrakech, Morocco",
+    "latitude": 31.6295,
+    "longitude": -7.9811,
+    "media": [
+      {
+        "imageUrl": "https://moroccotravelblog.com/wp-content/uploads/2013/07/Marrakech-National-Festival-of-Popular-Arts-Parade-1.jpg",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_003_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1562679299-8e5d1e7c29cb?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-07-04T17:00:00Z",
+    "endDate": "2025-07-08T23:00:00Z",
+    "organizer": {
+      "id": "org_003",
+      "name": "Marrakech Cultural Office",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_003.png"
+    },
+    "logistics": {
+      "venueName": "El Badi Palace",
+      "fullAddress": "Ksibat Nhass, Marrakech 40000",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Light traditional or casual",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 25.0,
+        "remainingSpots": 600,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 90.0,
+        "remainingSpots": 60,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://marrakechfestival.ma",
+    "ticketUrl": "https://tickets.marrakechfestival.ma",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 12000,
+    "goingCount": 7500,
+    "interestedCount": 15000,
+    "friendsAttending": 8,
+    "popularityImpact": 0.8,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "culture",
+      "festival",
+      "arts",
+      "tradition"
+    ],
+    "faqs": [
+      {
+        "question": "Is the festival free?",
+        "answer": "Some performances are free; others require tickets."
+      },
+      {
+        "question": "Best time to attend?",
+        "answer": "Evenings are coolest and most lively."
+      }
+    ],
+    "similarEventIds": [
+      "event_017",
+      "event_092"
+    ]
+  },
+  {
+    "id": "event_004",
+    "destinationIds": [
+      "cape_town_007"
+    ],
+    "name": "Kirstenbosch Summer Concerts",
+    "shortDescription": "Sunset picnic concerts in a botanical paradise.",
+    "description": "Outdoor concert series in Cape Town's botanical gardens with sunset energy and picnic-friendly crowds.",
+    "location": "Cape Town, South Africa",
+    "latitude": -33.9881,
+    "longitude": 18.4326,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_004_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-11-15T16:00:00Z",
+    "endDate": "2026-03-30T20:00:00Z",
+    "organizer": {
+      "id": "org_004",
+      "name": "Kirstenbosch Trust",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_004.png"
+    },
+    "logistics": {
+      "venueName": "Kirstenbosch National Botanical Garden",
+      "fullAddress": "Rhodes Dr, Newlands, Cape Town",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Casual picnic attire",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 28.0,
+        "remainingSpots": 480,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 75.0,
+        "remainingSpots": 95,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://kirstenbosch.co.za",
+    "ticketUrl": "https://tickets.kirstenbosch.co.za",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 18000,
+    "goingCount": 11000,
+    "interestedCount": 22000,
+    "friendsAttending": 19,
+    "popularityImpact": 0.82,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "music",
+      "outdoor",
+      "summer",
+      "picnic"
+    ],
+    "faqs": [
+      {
+        "question": "Can I bring food?",
+        "answer": "Yes, picnic baskets are welcome."
+      },
+      {
+        "question": "Is alcohol allowed?",
+        "answer": "Wine and beer are permitted, no spirits."
+      }
+    ],
+    "similarEventIds": [
+      "event_002",
+      "event_064"
+    ]
+  },
+  {
+    "id": "event_005",
+    "destinationIds": [
+      "zanzibar_011"
+    ],
+    "name": "Zanzibar International Film Festival",
+    "shortDescription": "Swahili and African cinema by the sea.",
+    "description": "Swahili and African cinema, live performances, and waterfront cultural energy across Stone Town venues.",
+    "location": "Stone Town, Zanzibar, Tanzania",
+    "latitude": -6.1659,
+    "longitude": 39.2026,
+    "media": [
+      {
+        "imageUrl": "https://a.storyblok.com/f/301902/720x900/270cba9151/1730935375061.jpg",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_005_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-07-06T17:00:00Z",
+    "endDate": "2025-07-14T23:00:00Z",
+    "organizer": {
+      "id": "org_005",
+      "name": "ZIFF Organization",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_005.png"
+    },
+    "logistics": {
+      "venueName": "Old Fort & Forodhani Gardens",
+      "fullAddress": "Mizingani Rd, Stone Town, Zanzibar",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Beach casual",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 35.0,
+        "remainingSpots": 400,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 120.0,
+        "remainingSpots": 70,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://ziff.or.tz",
+    "ticketUrl": "https://tickets.ziff.or.tz",
+    "expectedCrowdLevel": "MEDIUM",
+    "attendees": 9500,
+    "goingCount": 6000,
+    "interestedCount": 12000,
+    "friendsAttending": 6,
+    "popularityImpact": 0.78,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "film",
+      "culture",
+      "island",
+      "swahili"
+    ],
+    "faqs": [
+      {
+        "question": "Are screenings in English?",
+        "answer": "Most have English subtitles."
+      },
+      {
+        "question": "Are passes available?",
+        "answer": "Yes, full festival passes are sold online."
+      }
+    ],
+    "similarEventIds": [
+      "event_001",
+      "event_054"
+    ]
+  },
+  {
+    "id": "event_006",
+    "destinationIds": [
+      "victoria_falls_003"
+    ],
+    "name": "Victoria Falls Carnival Week",
+    "shortDescription": "End-of-year music, adventure and falls.",
+    "description": "An end-of-year celebration combining concerts, adventure tourism, and holiday travel momentum at the iconic Victoria Falls.",
+    "location": "Victoria Falls, Zimbabwe",
+    "latitude": -17.9243,
+    "longitude": 25.8572,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_006_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-12-28T15:00:00Z",
+    "endDate": "2025-12-31T23:59:00Z",
+    "organizer": {
+      "id": "org_006",
+      "name": "Vic Falls Carnival",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_006.png"
+    },
+    "logistics": {
+      "venueName": "Elephant Hills Resort Grounds",
+      "fullAddress": "Squire Cummings Rd, Victoria Falls",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Festival casual",
+      "ageRestriction": "18+",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 110.0,
+        "remainingSpots": 380,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 320.0,
+        "remainingSpots": 50,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://victoriafallscarnival.com",
+    "ticketUrl": "https://tickets.vicfallscarnival.com",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 8200,
+    "goingCount": 5200,
+    "interestedCount": 11000,
+    "friendsAttending": 11,
+    "popularityImpact": 0.84,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "holiday",
+      "music",
+      "adventure",
+      "nightlife"
+    ],
+    "faqs": [
+      {
+        "question": "Are camping passes available?",
+        "answer": "Yes, on-site camping is included with some passes."
+      },
+      {
+        "question": "Are activities included?",
+        "answer": "Adventure activities are sold separately."
+      }
+    ],
+    "similarEventIds": [
+      "event_039",
+      "event_073"
+    ]
+  },
+  {
+    "id": "event_007",
+    "destinationIds": [
+      "gondar_042"
+    ],
+    "name": "Timkat Festival",
+    "shortDescription": "Ethiopia's spectacular Epiphany pilgrimage.",
+    "description": "Ethiopian Orthodox Epiphany celebration featuring spectacular processions of the Tabot, mass baptisms, drumming, and white-robed pilgrims at Fasilides Bath.",
+    "location": "Gondar, Ethiopia",
+    "latitude": 12.603,
+    "longitude": 37.4521,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_007_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-01-19T05:00:00Z",
+    "endDate": "2025-01-21T20:00:00Z",
+    "organizer": {
+      "id": "org_007",
+      "name": "Ethiopian Orthodox Church",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_007.png"
+    },
+    "logistics": {
+      "venueName": "Fasilides Bath",
+      "fullAddress": "Fasil Ghebbi, Gondar, Ethiopia",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Modest white attire encouraged",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 0.0,
+        "remainingSpots": 1000,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 60.0,
+        "remainingSpots": 100,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://ethiopia.travel/timkat",
+    "ticketUrl": "https://tickets.ethiopia.travel",
+    "expectedCrowdLevel": "VERY_HIGH",
+    "attendees": 55000,
+    "goingCount": 38000,
+    "interestedCount": 62000,
+    "friendsAttending": 4,
+    "popularityImpact": 0.95,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "religion",
+      "culture",
+      "drums",
+      "heritage"
+    ],
+    "faqs": [
+      {
+        "question": "Can tourists attend?",
+        "answer": "Yes, visitors are warmly welcomed."
+      },
+      {
+        "question": "Is photography allowed?",
+        "answer": "Yes, but respectfully during ceremonies."
+      }
+    ],
+    "similarEventIds": [
+      "event_025",
+      "event_085"
+    ]
+  },
+  {
+    "id": "event_008",
+    "destinationIds": [
+      "ouidah_031"
+    ],
+    "name": "Ouidah Voodoo Festival",
+    "shortDescription": "West Africa's iconic Vodun celebration.",
+    "description": "Benin's most colourful spiritual festival celebrating Vodun religion with drumming, dancing, ceremonies, and vibrant processions drawing diaspora from Brazil and the Caribbean.",
+    "location": "Ouidah, Benin",
+    "latitude": 6.3622,
+    "longitude": 2.0852,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_008_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-01-10T08:00:00Z",
+    "endDate": "2025-01-10T22:00:00Z",
+    "organizer": {
+      "id": "org_008",
+      "name": "Benin Ministry of Culture",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_008.png"
+    },
+    "logistics": {
+      "venueName": "Place du Marché Zobè",
+      "fullAddress": "Ouidah, Atlantique, Benin",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Respectful traditional or casual",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 0.0,
+        "remainingSpots": 1500,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 50.0,
+        "remainingSpots": 150,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://benin-tourisme.com",
+    "ticketUrl": "https://tickets.benintourism.com",
+    "expectedCrowdLevel": "VERY_HIGH",
+    "attendees": 28000,
+    "goingCount": 18000,
+    "interestedCount": 35000,
+    "friendsAttending": 5,
+    "popularityImpact": 0.91,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "religion",
+      "spiritual",
+      "drums",
+      "culture"
+    ],
+    "faqs": [
+      {
+        "question": "Is it open to outsiders?",
+        "answer": "Yes, all visitors are welcome."
+      },
+      {
+        "question": "Is photography allowed?",
+        "answer": "Ask before photographing ritual moments."
+      }
+    ],
+    "similarEventIds": [
+      "event_059",
+      "event_041"
+    ]
+  },
+  {
+    "id": "event_009",
+    "destinationIds": [
+      "kano_028"
+    ],
+    "name": "Durbar Festival — Eid al-Fitr",
+    "shortDescription": "Royal cavalry charge marking Eid in Kano.",
+    "description": "Royal horseback procession marking the end of Ramadan. Emirs ride at the head of cavalry, trumpeters fill the air, and riders charge in formation before the palace gates.",
+    "location": "Kano, Nigeria",
+    "latitude": 12.0022,
+    "longitude": 8.5919,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1597149937226-39c3b57f9dc0?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_009_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-03-31T09:00:00Z",
+    "endDate": "2025-04-01T18:00:00Z",
+    "organizer": {
+      "id": "org_009",
+      "name": "Emirate of Kano",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_009.png"
+    },
+    "logistics": {
+      "venueName": "Kano Emir's Palace",
+      "fullAddress": "Kofar Kudu, Kano, Nigeria",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Modest, culturally respectful",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 0.0,
+        "remainingSpots": 2000,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 80.0,
+        "remainingSpots": 80,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://kanostate.gov.ng/durbar",
+    "ticketUrl": "https://tickets.kanodurbar.ng",
+    "expectedCrowdLevel": "VERY_HIGH",
+    "attendees": 60000,
+    "goingCount": 42000,
+    "interestedCount": 70000,
+    "friendsAttending": 3,
+    "popularityImpact": 0.93,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "royal",
+      "tradition",
+      "drums",
+      "culture",
+      "religion"
+    ],
+    "faqs": [
+      {
+        "question": "Is there reserved seating?",
+        "answer": "Yes, VIP grandstands can be booked."
+      },
+      {
+        "question": "Best vantage point?",
+        "answer": "The palace gates offer the best view."
+      }
+    ],
+    "similarEventIds": [
+      "event_040",
+      "event_080"
+    ]
+  },
+  {
+    "id": "event_010",
+    "destinationIds": [
+      "accra_022"
+    ],
+    "name": "Homowo Festival",
+    "shortDescription": "Ga people's joyous harvest celebration.",
+    "description": "Harvest festival of the Ga people meaning 'hooting at hunger.' Features sacred kpokpoi cooking, ancestral libations, drumming, singing, and joyful parades led by chiefs and priests.",
+    "location": "Accra, Ghana",
+    "latitude": 5.6037,
+    "longitude": -0.187,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_010_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-08-01T10:00:00Z",
+    "endDate": "2025-08-15T22:00:00Z",
+    "organizer": {
+      "id": "org_010",
+      "name": "Ga Traditional Council",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_010.png"
+    },
+    "logistics": {
+      "venueName": "Ga Mashie, Jamestown",
+      "fullAddress": "James Town, Accra, Ghana",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Traditional or casual",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 0.0,
+        "remainingSpots": 1200,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 60.0,
+        "remainingSpots": 100,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://gatraditionalcouncil.org",
+    "ticketUrl": "https://tickets.homowo.gh",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 22000,
+    "goingCount": 13000,
+    "interestedCount": 26000,
+    "friendsAttending": 9,
+    "popularityImpact": 0.86,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "harvest",
+      "tradition",
+      "drums",
+      "culture"
+    ],
+    "faqs": [
+      {
+        "question": "Can I taste kpokpoi?",
+        "answer": "Yes, it's offered freely during the festival."
+      },
+      {
+        "question": "When is the main parade?",
+        "answer": "The grand parade is on the opening Saturday."
+      }
+    ],
+    "similarEventIds": [
+      "event_011",
+      "event_038"
+    ]
+  },
+  {
+    "id": "event_011",
+    "destinationIds": [
+      "accra_022"
+    ],
+    "name": "PANAFEST — Pan African Historical Theatre Festival",
+    "shortDescription": "Pan-African heritage at the slave forts.",
+    "description": "Ghana's biggest cultural gathering celebrating Pan-African heritage. Features durbar of chiefs at Elmina Castle, atonement rituals, naming ceremonies, and memorial services at slave trade sites.",
+    "location": "Cape Coast & Accra, Ghana",
+    "latitude": 5.1053,
+    "longitude": -1.2466,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_011_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-07-25T09:00:00Z",
+    "endDate": "2025-08-03T22:00:00Z",
+    "organizer": {
+      "id": "org_011",
+      "name": "PANAFEST Foundation",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_011.png"
+    },
+    "logistics": {
+      "venueName": "Elmina Castle & National Theatre",
+      "fullAddress": "Castle Rd, Cape Coast, Ghana",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Smart casual",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 60.0,
+        "remainingSpots": 800,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 200.0,
+        "remainingSpots": 75,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://panafest.org",
+    "ticketUrl": "https://tickets.panafest.org",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 16000,
+    "goingCount": 9500,
+    "interestedCount": 19000,
+    "friendsAttending": 12,
+    "popularityImpact": 0.87,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": false,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "culture",
+      "heritage",
+      "diaspora",
+      "traditional"
+    ],
+    "faqs": [
+      {
+        "question": "Is the durbar open to all?",
+        "answer": "Yes, but VIP seating is reserved."
+      },
+      {
+        "question": "Are tours included?",
+        "answer": "Castle tours are included with full passes."
+      }
+    ],
+    "similarEventIds": [
+      "event_010",
+      "event_038"
+    ]
+  },
+  {
+    "id": "event_012",
+    "destinationIds": [
+      "abalak_niger_055"
+    ],
+    "name": "Gerewol Festival",
+    "shortDescription": "Wodaabe male beauty contest in the Sahel.",
+    "description": "Spectacular Wodaabe male beauty and courtship contest. Men paint faces elaborately and perform the Yaake dance. Also features camel racing and traditional feasting.",
+    "location": "Abalak, Niger",
+    "latitude": 15.4567,
+    "longitude": 6.2823,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_012_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-10-01T10:00:00Z",
+    "endDate": "2025-10-05T22:00:00Z",
+    "organizer": {
+      "id": "org_012",
+      "name": "Wodaabe Cultural Council",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_012.png"
+    },
+    "logistics": {
+      "venueName": "Abalak Open Grounds",
+      "fullAddress": "Abalak Commune, Tahoua Region, Niger",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Light desert clothing",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 200.0,
+        "remainingSpots": 150,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 600.0,
+        "remainingSpots": 30,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://nigertourism.org/gerewol",
+    "ticketUrl": "https://tickets.nigertourism.org",
+    "expectedCrowdLevel": "MEDIUM",
+    "attendees": 4200,
+    "goingCount": 2800,
+    "interestedCount": 6500,
+    "friendsAttending": 2,
+    "popularityImpact": 0.89,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "traditional",
+      "culture",
+      "courtship",
+      "nomadic"
+    ],
+    "faqs": [
+      {
+        "question": "Is camping available?",
+        "answer": "Yes, tented camps are arranged for visitors."
+      },
+      {
+        "question": "Best month?",
+        "answer": "Always early October, after the rains."
+      }
+    ],
+    "similarEventIds": [
+      "event_055",
+      "event_071"
+    ]
+  },
+  {
+    "id": "event_013",
+    "destinationIds": [
+      "lagos_027"
+    ],
+    "name": "Eyo Festival",
+    "shortDescription": "White-robed masquerade parade in Lagos.",
+    "description": "Iconic Yoruba masquerade festival where thousands of Eyo masqueraders in white robes and tall hats parade through Lagos Island streets honouring Yoruba royalty and the deceased.",
+    "location": "Lagos Island, Lagos, Nigeria",
+    "latitude": 6.4541,
+    "longitude": 3.3947,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_013_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-04-20T08:00:00Z",
+    "endDate": "2025-04-20T20:00:00Z",
+    "organizer": {
+      "id": "org_013",
+      "name": "Lagos State Government",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_013.png"
+    },
+    "logistics": {
+      "venueName": "Tafawa Balewa Square",
+      "fullAddress": "Lagos Island, Lagos, Nigeria",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "White attire encouraged",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 0.0,
+        "remainingSpots": 2000,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 40.0,
+        "remainingSpots": 200,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://lagosstate.gov.ng/eyo",
+    "ticketUrl": "https://tickets.lagoseyo.ng",
+    "expectedCrowdLevel": "VERY_HIGH",
+    "attendees": 45000,
+    "goingCount": 30000,
+    "interestedCount": 55000,
+    "friendsAttending": 16,
+    "popularityImpact": 0.88,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": false,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "masquerade",
+      "tradition",
+      "culture",
+      "yoruba"
+    ],
+    "faqs": [
+      {
+        "question": "Can women dress as Eyo?",
+        "answer": "No, only men traditionally participate."
+      },
+      {
+        "question": "Is it free?",
+        "answer": "Yes, the public parade is free."
+      }
+    ],
+    "similarEventIds": [
+      "event_041",
+      "event_009"
+    ]
+  },
+  {
+    "id": "event_014",
+    "destinationIds": [
+      "calabar_029"
+    ],
+    "name": "Calabar Carnival",
+    "shortDescription": "Africa's Biggest Street Party.",
+    "description": "A month-long celebration featuring carnival parades, cultural displays, music, dance, beauty pageants, and food from Nigeria's diverse ethnic groups.",
+    "location": "Calabar, Nigeria",
+    "latitude": 4.9757,
+    "longitude": 8.3417,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_014_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-12-01T10:00:00Z",
+    "endDate": "2025-12-31T23:59:00Z",
+    "organizer": {
+      "id": "org_014",
+      "name": "Cross River State Tourism Bureau",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_014.png"
+    },
+    "logistics": {
+      "venueName": "Calabar Carnival Village",
+      "fullAddress": "Murtala Mohammed Highway, Calabar",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Carnival/costume optional",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 15.0,
+        "remainingSpots": 3000,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 100.0,
+        "remainingSpots": 200,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://calabarcarnival.com",
+    "ticketUrl": "https://tickets.calabarcarnival.com",
+    "expectedCrowdLevel": "VERY_HIGH",
+    "attendees": 120000,
+    "goingCount": 85000,
+    "interestedCount": 150000,
+    "friendsAttending": 25,
+    "popularityImpact": 0.9,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "carnival",
+      "music",
+      "culture",
+      "dance"
+    ],
+    "faqs": [
+      {
+        "question": "When is the main parade?",
+        "answer": "December 26th–30th annually."
+      },
+      {
+        "question": "Are grandstands available?",
+        "answer": "Yes, paid seating along the route."
+      }
+    ],
+    "similarEventIds": [
+      "event_056",
+      "event_064"
+    ]
+  },
+  {
+    "id": "event_015",
+    "destinationIds": [
+      "ouagadougou_036"
+    ],
+    "name": "FESPACO — Pan-African Film Festival",
+    "shortDescription": "Africa's biggest film festival.",
+    "description": "Africa's largest film festival showcasing films reflecting diverse African cultures and stories. A major platform for continental filmmakers, artists, and cultural exchange.",
+    "location": "Ouagadougou, Burkina Faso",
+    "latitude": 12.3714,
+    "longitude": -1.5197,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_015_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-02-22T10:00:00Z",
+    "endDate": "2025-03-01T23:00:00Z",
+    "organizer": {
+      "id": "org_015",
+      "name": "FESPACO Secretariat",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_015.png"
+    },
+    "logistics": {
+      "venueName": "Ciné Burkina & Ciné Neerwaya",
+      "fullAddress": "Avenue Kwame N'Krumah, Ouagadougou",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Smart casual",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 12.0,
+        "remainingSpots": 700,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 80.0,
+        "remainingSpots": 90,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://fespaco.org",
+    "ticketUrl": "https://tickets.fespaco.org",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 19000,
+    "goingCount": 12000,
+    "interestedCount": 22000,
+    "friendsAttending": 7,
+    "popularityImpact": 0.85,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": false,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "film",
+      "arts",
+      "culture",
+      "cinema"
+    ],
+    "faqs": [
+      {
+        "question": "Are screenings free?",
+        "answer": "Some are free; premieres require passes."
+      },
+      {
+        "question": "How often is it held?",
+        "answer": "Biennial, in odd years."
+      }
+    ],
+    "similarEventIds": [
+      "event_054",
+      "event_061"
+    ]
+  },
+  {
+    "id": "event_016",
+    "destinationIds": [
+      "dedougou_037"
+    ],
+    "name": "FESTIMA — Festival International des Masques et des Arts",
+    "shortDescription": "West Africa's largest mask festival.",
+    "description": "West Africa's largest celebration of traditional mask cultures bringing together over 50 ethnic groups from Burkina Faso, Mali, Benin, Côte d'Ivoire, Togo, and Senegal.",
+    "location": "Dédougou, Burkina Faso",
+    "latitude": 12.4644,
+    "longitude": -3.4642,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_016_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2026-02-01T09:00:00Z",
+    "endDate": "2026-02-07T22:00:00Z",
+    "organizer": {
+      "id": "org_016",
+      "name": "Association ASAMA",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_016.png"
+    },
+    "logistics": {
+      "venueName": "FESTIMA Grounds",
+      "fullAddress": "Dédougou, Boucle du Mouhoun, Burkina Faso",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Casual",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 25.0,
+        "remainingSpots": 500,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 120.0,
+        "remainingSpots": 60,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://festima.org",
+    "ticketUrl": "https://tickets.festima.org",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 14000,
+    "goingCount": 8500,
+    "interestedCount": 17000,
+    "friendsAttending": 6,
+    "popularityImpact": 0.84,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": false,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "masks",
+      "traditional",
+      "culture",
+      "drums"
+    ],
+    "faqs": [
+      {
+        "question": "Is photography allowed?",
+        "answer": "Yes, but respect dancer requests."
+      },
+      {
+        "question": "Are guided tours offered?",
+        "answer": "Yes, by ASAMA volunteers."
+      }
+    ],
+    "similarEventIds": [
+      "event_059",
+      "event_008"
+    ]
+  },
+  {
+    "id": "event_017",
+    "destinationIds": [
+      "fes_010"
+    ],
+    "name": "Fes Festival of World Sacred Music",
+    "shortDescription": "Spiritual music inside the Fes medina.",
+    "description": "Global musicians perform sacred and spiritual music in the historic medina venues of Fes. One of Morocco's most important cultural gatherings blending faith, heritage, and world music.",
+    "location": "Fes, Morocco",
+    "latitude": 34.0181,
+    "longitude": -5.0078,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1562679299-8e5d1e7c29cb?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_017_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-04-25T18:00:00Z",
+    "endDate": "2025-05-03T23:00:00Z",
+    "organizer": {
+      "id": "org_017",
+      "name": "Fondation Esprit de Fès",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_017.png"
+    },
+    "logistics": {
+      "venueName": "Bab Al Makina",
+      "fullAddress": "Place Boujloud, Fes, Morocco",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Smart casual / modest",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 40.0,
+        "remainingSpots": 700,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 220.0,
+        "remainingSpots": 90,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://fesfestival.com",
+    "ticketUrl": "https://tickets.fesfestival.com",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 20000,
+    "goingCount": 12500,
+    "interestedCount": 24000,
+    "friendsAttending": 10,
+    "popularityImpact": 0.87,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "music",
+      "religion",
+      "sacred",
+      "heritage"
+    ],
+    "faqs": [
+      {
+        "question": "Are passes needed?",
+        "answer": "Yes, evening concerts are ticketed."
+      },
+      {
+        "question": "Are dress codes enforced?",
+        "answer": "Modest dress is appreciated."
+      }
+    ],
+    "similarEventIds": [
+      "event_018",
+      "event_045"
+    ]
+  },
+  {
+    "id": "event_018",
+    "destinationIds": [
+      "essaouira_012"
+    ],
+    "name": "Gnaoua World Music Festival",
+    "shortDescription": "Healing trance music by the Atlantic.",
+    "description": "Celebrates the spiritual healing music of the Gnaoua people alongside world music artists. Essaouira transforms into a vibrant hub with concerts, workshops, and street performances.",
+    "location": "Essaouira, Morocco",
+    "latitude": 31.5085,
+    "longitude": -9.7595,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_018_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1562679299-8e5d1e7c29cb?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-06-19T17:00:00Z",
+    "endDate": "2025-06-22T23:30:00Z",
+    "organizer": {
+      "id": "org_018",
+      "name": "A3 Communication",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_018.png"
+    },
+    "logistics": {
+      "venueName": "Place Moulay Hassan",
+      "fullAddress": "Place Moulay Hassan, Essaouira, Morocco",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Beach casual",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 0.0,
+        "remainingSpots": 2000,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 90.0,
+        "remainingSpots": 100,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://festival-gnaoua.net",
+    "ticketUrl": "https://tickets.festival-gnaoua.net",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 45000,
+    "goingCount": 30000,
+    "interestedCount": 55000,
+    "friendsAttending": 14,
+    "popularityImpact": 0.86,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "music",
+      "spiritual",
+      "culture",
+      "world-music"
+    ],
+    "faqs": [
+      {
+        "question": "Is the festival free?",
+        "answer": "Most main stages are free; some are paid."
+      },
+      {
+        "question": "Can I attend lila ceremonies?",
+        "answer": "Yes, all-night ceremonies welcome respectful guests."
+      }
+    ],
+    "similarEventIds": [
+      "event_017",
+      "event_055"
+    ]
+  },
+  {
+    "id": "event_019",
+    "destinationIds": [
+      "lake_of_stars_malawi_018"
+    ],
+    "name": "Lake of Stars Festival",
+    "shortDescription": "Lakeside global music gathering in Malawi.",
+    "description": "International 3-day music festival on the shores of Lake Malawi blending local Malawian musicians with international bands, DJs, talks, poetry, film, and wellness activities.",
+    "location": "Lake Malawi, Malawi",
+    "latitude": -13.7833,
+    "longitude": 34.4667,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_019_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-09-26T16:00:00Z",
+    "endDate": "2025-09-28T23:59:00Z",
+    "organizer": {
+      "id": "org_019",
+      "name": "Lake of Stars Ltd",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_019.png"
+    },
+    "logistics": {
+      "venueName": "Sunbird Nkopola Lodge Beach",
+      "fullAddress": "Mangochi District, Lake Malawi",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Beach/festival wear",
+      "ageRestriction": "18+",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 80.0,
+        "remainingSpots": 400,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 280.0,
+        "remainingSpots": 60,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://lakeofstars.org",
+    "ticketUrl": "https://tickets.lakeofstars.org",
+    "expectedCrowdLevel": "HIGH",
+    "attendees": 6800,
+    "goingCount": 4500,
+    "interestedCount": 9200,
+    "friendsAttending": 13,
+    "popularityImpact": 0.82,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "music",
+      "lake",
+      "outdoor",
+      "international"
+    ],
+    "faqs": [
+      {
+        "question": "Is camping included?",
+        "answer": "Yes, with festival passes."
+      },
+      {
+        "question": "Is swimming safe?",
+        "answer": "Yes, the lake is bilharzia-treated in festival areas."
+      }
+    ],
+    "similarEventIds": [
+      "event_024",
+      "event_046"
+    ]
+  },
+  {
+    "id": "event_020",
+    "destinationIds": [
+      "mbabane_eswatini_020"
+    ],
+    "name": "Umhlanga Reed Dance",
+    "shortDescription": "Eswatini's royal reed-dance pageantry.",
+    "description": "Annual royal ceremony where thousands of unmarried Swazi girls present freshly cut reeds to the Queen Mother. Features royal dance attended by the King, traditional beadwork, and national cultural pride.",
+    "location": "Ludzidzini Royal Village, Eswatini",
+    "latitude": -26.4615,
+    "longitude": 31.2057,
+    "media": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1523464862212-d6631d073194?auto=format&fit=crop&w=1600&q=80",
+        "videoPreviewUrl": "https://cdn.africaguide.com/events/event_020_preview.mp4"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    "date": "2025-08-28T08:00:00Z",
+    "endDate": "2025-09-05T18:00:00Z",
+    "organizer": {
+      "id": "org_020",
+      "name": "Eswatini Royal Council",
+      "verified": true,
+      "rating": 4.6,
+      "totalEvents": 18,
+      "responseRate": 95,
+      "logoUrl": "https://cdn.africaguide.com/logos/org_020.png"
+    },
+    "logistics": {
+      "venueName": "Ludzidzini Royal Residence",
+      "fullAddress": "Ludzidzini, Lobamba, Eswatini",
+      "parkingInfo": "Limited parking available near venue.",
+      "transportInfo": "Reachable by taxi, rideshare, or walking from nearby hotels.",
+      "dressCode": "Traditional or modest attire",
+      "ageRestriction": "All ages",
+      "accessibilityInfo": "Wheelchair accessible entrances available."
+    },
+    "ticketTiers": [
+      {
+        "id": "tier_standard",
+        "name": "Standard Pass",
+        "price": 0.0,
+        "remainingSpots": 1500,
+        "perks": [
+          "Festival Access",
+          "General Standing"
+        ]
+      },
+      {
+        "id": "tier_vip",
+        "name": "VIP Experience",
+        "price": 70.0,
+        "remainingSpots": 100,
+        "perks": [
+          "VIP Lounge",
+          "Priority Entry",
+          "Backstage Access"
+        ]
+      }
+    ],
+    "timeSlots": [
+      {
+        "id": "slot_day",
+        "label": "Day Entry • 12:00 PM",
+        "remainingSpots": 200,
+        "isPeak": false
+      },
+      {
+        "id": "slot_evening",
+        "label": "Evening Entry • 6:00 PM",
+        "remainingSpots": 120,
+        "isPeak": true
+      }
+    ],
+    "websiteUrl": "https://thekingdomofeswatini.com",
+    "ticketUrl": "https://tickets.eswatinitourism.com",
+    "expectedCrowdLevel": "VERY_HIGH",
+    "attendees": 40000,
+    "goingCount": 28000,
+    "interestedCount": 48000,
+    "friendsAttending": 5,
+    "popularityImpact": 0.88,
+    "isLive": true,
+    "isFeatured": true,
+    "isRecurringAnnual": true,
+    "allowWaitlist": true,
+    "isSoldOut": false,
+    "tags": [
+      "royal",
+      "tradition",
+      "culture",
+      "ceremony"
+    ],
+    "faqs": [
+      {
+        "question": "Can tourists attend?",
+        "answer": "Yes, with respectful conduct."
+      },
+      {
+        "question": "Is photography allowed?",
+        "answer": "Yes, but not of the King without permission."
+      }
+    ],
+    "similarEventIds": [
+      "event_080",
+      "event_088"
+    ]
   }
 ]
