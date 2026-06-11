@@ -101,6 +101,73 @@
     "bestForTags": ["Couples", "Beach Lovers", "Adventure Seekers"],
     "destinationIds": ["zanzibar_011"]
   },
+   {
+    "id": "op_discover_africa_safaris",
+    "name": "Discover Africa Safaris",
+    "logoUrl": null,
+    "location": "Cape Town, Western Cape, South Africa",
+    "specialization": "Bespoke Luxury Safaris across Southern & East Africa",
+    "establishedYear": 2010,
+    "trustScore": null,
+    "isVerified": true,
+    "isLicensed": null,
+    "hasVerifiedOffice": true,
+    "insuranceValid": null,
+    "overallRating": 4.9,
+    "reviewCount": 160,
+    "responseTimeMinutes": null,
+    "bookingSuccessRate": null,
+    "cancellationRate": null,
+    "repeatCustomerRate": null,
+    "reviews": [
+      {
+        "reviewerName": "Jake Sanderson",
+        "avatarUrl": null,
+        "comment": "Excellent trip -- tour operators were professional and on time. Safari lodge choices excellent. Adelle communicated issues that cropped up in a timely manner and the whole process was a pleasure.",
+        "rating": null,
+        "date": "29 May 2026"
+      },
+      {
+        "reviewerName": "Julie Ferguson",
+        "avatarUrl": null,
+        "comment": "Our entire experience was magnificent. Everything was in place and perfectly reliable. We wanted for nothing and were taken care of every step of the way.",
+        "rating": null,
+        "date": "03 May 2026"
+      },
+      {
+        "reviewerName": "Tamara Thompson",
+        "avatarUrl": null,
+        "comment": "Cayleigh put together an 18 day tour of Victoria Falls, Botswana and Namibia that was the best trip we have ever taken! The service was so personal and professional, we were taken care of every single step of the way.",
+        "rating": null,
+        "date": "17 Dec 2025"
+      }
+    ],
+    "reviewTags": [
+      "Luxury Planning",
+      "Professional Support",
+      "Seamless Logistics",
+      "Multi-Country Trips"
+    ],
+    "isOnline": true,
+    "guidesInField": null,
+    "activeToursToday": null,
+    "lastBookingMinutesAgo": null,
+    "happyTravelersToday": null,
+    "aiMatchPercentage": null,
+    "bestForTags": [
+      "Luxury Travelers",
+      "Honeymooners",
+      "Multi-Country Safari"
+    ],
+    "destinationIds": [
+      "cape_town_south_africa",
+      "victoria_falls_zimbabwe",
+      "botswana",
+      "namibia",
+      "kenya",
+      "tanzania"
+    ]
+  },
   {
     "id": "op_zambezi_explorers",
     "name": "Zambezi Explorers",
