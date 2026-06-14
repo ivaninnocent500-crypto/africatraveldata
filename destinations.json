@@ -241,7 +241,7 @@
     "country": "Morocco",
     "heroImageUrl": "https://www.wanderingredhead.com/wp-content/uploads/2018/06/LRM_EXPORT_20180606_141618.jpg",
     "galleryImages": [
-      "https://marrakech.show/pictures/pub-slider/slider-16/marrakech-night.jpg",
+      "https://media.worldnomads.com/Travel-Safety/morocco/souksafety-Pavliha.jpg",
       "https://cdn.ventrata.com/image/upload/s--fhGDwtDa--/v1651341474/22_uz8ly1.jpg",
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/e5/a9/84/caption.jpg?w=500&h=400&s=1"
     ],
@@ -259,17 +259,17 @@
       {
         "title": "Medina Walking ",
         "subtitle": "Cultural Immersion",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyET3pkA5h7Gm8yunAcS5IhSM9YSQ6tGHow&s"
+        "imageUrl": "https://media.worldnomads.com/Travel-Safety/morocco/souksafety-Pavliha.jpg"
       },
       {
         "title": "Cooking Class",
         "subtitle": "Flavors of Morocco",
-        "imageUrl": "https://images.unsplash.com/photo-1597212618440-806262de4f6d?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://cdn.ventrata.com/image/upload/s--fhGDwtDa--/v1651341474/22_uz8ly1.jpg"
       },
       {
         "title": "Atlas Mountains",
         "subtitle": "Day Expedition",
-        "imageUrl": "https://www.wanderingredhead.com/wp-content/uploads/2018/06/LRM_EXPORT_20180606_141618.jpg"
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/e5/a9/84/caption.jpg?w=500&h=400&s=1"
       }
     ],
     "visaRequired": false,
