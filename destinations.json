@@ -219,9 +219,10 @@
         "imageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/cape-winelands-south-africa.jpg"
       },
       {
-        "title": "Robben Island",
-        "subtitle": "Historic Journey",
-        "imageUrl": "https://images.unsplash.com/photo-1567609893881-6b4f2e4ef6d9?auto=format&fit=crop&w=600&q=80"
+       "title": "Boulders Beach",
+      "subtitle": "Penguin Colony",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/a6/a7/fb.jpg"
+
       }
     ],
     "visaRequired": false,
