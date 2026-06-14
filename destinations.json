@@ -3,7 +3,7 @@
     "id": "serengeti_001",
     "name": "Serengeti National Park",
     "country": "Tanzania",
-    "heroImageUrl": "https://static.wixstatic.com/media/0d5186_b896b5b5ce284759b19f5259b3aa3c52~mv2.jpg/v1/fill/w_670,h_444,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/0d5186_b896b5b5ce284759b19f5259b3aa3c52~mv2.jpg",
+    "heroImageUrl": "https://static.wixstatic.com/media/0d5186_b896b5b5ce284759b19f5259b3aa3c52mv2.jpg/v1/fill/w_670,h_444,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/0d5186_b896b5b5ce284759b19f5259b3aa3c52mv2.jpg",
     "galleryImages": [
       "https://cdn-cmaef.nitrocdn.com/jRrqUCcBXKJwaLsDAONdssgqlBCcrZDS/assets/images/optimized/rev-1fb6975/www.naturaltoursandsafaris.com/wp-content/webp-express/webp-images/wp-content/uploads/2023/02/Serengeti-National-Park-Africa-Kenya-Safaris2.jpg.webp",
       "https://cdn.sanity.io/images/s82b6z49/production/88cf83748704019163d6dfd531d7e1b7d79ccdb6-1800x1200.webp?w=1200&h=800&q=82&fit=crop&auto=format",
@@ -219,10 +219,9 @@
         "imageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/cape-winelands-south-africa.jpg"
       },
       {
-       "title": "Boulders Beach",
-      "subtitle": "Penguin Colony",
-      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/a6/a7/fb.jpg"
-
+        "title": "Boulders Beach",
+        "subtitle": "Penguin Colony",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/a6/a7/fb.jpg"
       }
     ],
     "visaRequired": false,
@@ -257,7 +256,7 @@
     "activities": ["Medina Exploration", "Souk Shopping", "Cooking Classes", "Atlas Day Trips"],
     "topExperiences": [
       {
-        "title": "Medina Walking ",
+        "title": "Medina Walking",
         "subtitle": "Cultural Immersion",
         "imageUrl": "https://media.worldnomads.com/Travel-Safety/morocco/souksafety-Pavliha.jpg"
       },
@@ -375,6 +374,851 @@
     "latitude": -3.1833,
     "longitude": 35.5833,
     "seasonalScores": {"jan": 0.90, "feb": 0.90, "mar": 0.80, "apr": 0.62, "may": 0.62, "jun": 0.86, "jul": 0.96, "aug": 0.96, "sep": 0.90, "oct": 0.86, "nov": 0.72, "dec": 0.86}
+  },
+  {
+    "id": "seychelles_013",
+    "name": "Seychelles",
+    "country": "Seychelles",
+    "heroImageUrl": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A jewel-like Indian Ocean archipelago of 115 islands, renowned for granite boulder beaches, turquoise lagoons, coral reefs, and exceptional luxury resorts.",
+    "shortDescription": "Granite boulders, turquoise lagoons, and barefoot luxury.",
+    "basePrice": 4500.0,
+    "budgetPrice": 2800.0,
+    "luxuryPrice": 9000.0,
+    "ultraLuxuryPrice": 18000.0,
+    "popularityScore": 0.91,
+    "trendGrowth": 28.3,
+    "bestMonths": [3, 4, 5, 9, 10, 11],
+    "activities": ["Snorkeling", "Diving", "Island Hopping", "Nature Walks", "Deep-Sea Fishing"],
+    "topExperiences": [
+      {
+        "title": "Anse Source d'Argent",
+        "subtitle": "World's Most Beautiful Beach",
+        "imageUrl": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Coral Reef Diving",
+        "subtitle": "Marine Paradise",
+        "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Island Hopping",
+        "subtitle": "115 Islands to Explore",
+        "imageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "All nationalities receive a free visitor's permit on arrival for up to 30 days.",
+    "visaCost": null,
+    "latitude": -4.6796,
+    "longitude": 55.4920,
+    "seasonalScores": {"jan": 0.62, "feb": 0.60, "mar": 0.72, "apr": 0.90, "may": 0.96, "jun": 0.86, "jul": 0.82, "aug": 0.80, "sep": 0.88, "oct": 0.92, "nov": 0.88, "dec": 0.70}
+  },
+  {
+    "id": "mauritius_014",
+    "name": "Mauritius",
+    "country": "Mauritius",
+    "heroImageUrl": "https://images.unsplash.com/photo-1504464182387-22cb64a27dba?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A stunning volcanic island in the Indian Ocean offering emerald lagoons, world-class golf, luxury beach resorts, and a rich multicultural heritage.",
+    "shortDescription": "Lagoon beaches, luxury resorts, and vibrant Creole culture.",
+    "basePrice": 3200.0,
+    "budgetPrice": 1800.0,
+    "luxuryPrice": 7500.0,
+    "ultraLuxuryPrice": 15000.0,
+    "popularityScore": 0.89,
+    "trendGrowth": 21.5,
+    "bestMonths": [4, 5, 6, 7, 8, 9],
+    "activities": ["Beach Relaxation", "Snorkeling", "Golf", "Catamaran Cruises", "Cultural Tours"],
+    "topExperiences": [
+      {
+        "title": "Lagoon Snorkeling",
+        "subtitle": "Crystal Clear Waters",
+        "imageUrl": "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Catamaran Cruise",
+        "subtitle": "Sunset on the Lagoon",
+        "imageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Chamarel Seven Colours",
+        "subtitle": "Natural Wonder",
+        "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for most nationalities for stays up to 90 days.",
+    "visaCost": null,
+    "latitude": -20.3484,
+    "longitude": 57.5522,
+    "seasonalScores": {"jan": 0.58, "feb": 0.55, "mar": 0.65, "apr": 0.80, "may": 0.92, "jun": 0.96, "jul": 1.0, "aug": 0.96, "sep": 0.90, "oct": 0.78, "nov": 0.68, "dec": 0.60}
+  },
+  {
+    "id": "dakar_goree_015",
+    "name": "Dakar & Gorée Island",
+    "country": "Senegal",
+    "heroImageUrl": "https://images.unsplash.com/photo-1589825743636-94e75b25773e?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1611348586840-ea9872d33411?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1614531341773-3bff8b7cb3fc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A dynamic West African capital where vibrant street art, Afrobeat rhythms, and Teranga hospitality fuse with the haunting history of Gorée Island's UNESCO-listed slave house.",
+    "shortDescription": "West African culture, music, and poignant colonial history.",
+    "basePrice": 1600.0,
+    "budgetPrice": 900.0,
+    "luxuryPrice": 3500.0,
+    "ultraLuxuryPrice": 7000.0,
+    "popularityScore": 0.76,
+    "trendGrowth": 34.8,
+    "bestMonths": [10, 11, 0, 1, 2, 3],
+    "activities": ["Gorée Island Visit", "Street Art Tours", "Live Music", "Seafood Dining", "Surfing at Yoff"],
+    "topExperiences": [
+      {
+        "title": "Gorée Island",
+        "subtitle": "UNESCO World Heritage",
+        "imageUrl": "https://images.unsplash.com/photo-1589825743636-94e75b25773e?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Dakar Street Art",
+        "subtitle": "Africa's Creative Capital",
+        "imageUrl": "https://images.unsplash.com/photo-1611348586840-ea9872d33411?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Live Music & Teranga",
+        "subtitle": "West African Soul",
+        "imageUrl": "https://images.unsplash.com/photo-1614531341773-3bff8b7cb3fc?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for many nationalities for up to 90 days.",
+    "visaCost": null,
+    "latitude": 14.6928,
+    "longitude": -17.4467,
+    "seasonalScores": {"jan": 0.90, "feb": 0.90, "mar": 0.88, "apr": 0.82, "may": 0.70, "jun": 0.58, "jul": 0.48, "aug": 0.46, "sep": 0.52, "oct": 0.78, "nov": 0.88, "dec": 0.90}
+  },
+  {
+    "id": "etosha_016",
+    "name": "Etosha National Park",
+    "country": "Namibia",
+    "heroImageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A vast salt pan safari destination in Namibia where elephants, lions, rhinos, and hundreds of bird species converge at floodlit waterholes for dramatic night and day wildlife encounters.",
+    "shortDescription": "Salt pan wildlife watching, floodlit waterholes, and big game.",
+    "basePrice": 2800.0,
+    "budgetPrice": 1500.0,
+    "luxuryPrice": 5500.0,
+    "ultraLuxuryPrice": 10500.0,
+    "popularityScore": 0.84,
+    "trendGrowth": 22.1,
+    "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+    "activities": ["Self-Drive Safaris", "Night Waterhole Watching", "Guided Game Drives", "Bird Watching"],
+    "topExperiences": [
+      {
+        "title": "Waterhole Night Watch",
+        "subtitle": "Floodlit Wildlife Drama",
+        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Self-Drive Safari",
+        "subtitle": "Freedom on the Pan",
+        "imageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Rhino Tracking",
+        "subtitle": "Big Five Encounter",
+        "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for many nationalities; always verify latest Namibia immigration rules.",
+    "visaCost": null,
+    "latitude": -18.8554,
+    "longitude": 16.3297,
+    "seasonalScores": {"jan": 0.48, "feb": 0.48, "mar": 0.55, "apr": 0.72, "may": 0.88, "jun": 0.96, "jul": 1.0, "aug": 1.0, "sep": 0.92, "oct": 0.88, "nov": 0.60, "dec": 0.48}
+  },
+  {
+    "id": "kruger_017",
+    "name": "Kruger National Park",
+    "country": "South Africa",
+    "heroImageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "One of Africa's largest game reserves, Kruger offers self-drive and guided safari experiences, a guaranteed Big Five sighting, and a wide range of accommodation from bush camps to ultra-luxury lodges.",
+    "shortDescription": "Big Five safaris, self-drives, and world-class bush lodges.",
+    "basePrice": 2500.0,
+    "budgetPrice": 1200.0,
+    "luxuryPrice": 6000.0,
+    "ultraLuxuryPrice": 12500.0,
+    "popularityScore": 0.92,
+    "trendGrowth": 17.9,
+    "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+    "activities": ["Game Drives", "Bush Walks", "Self-Drive Safari", "Night Drives", "Photography"],
+    "topExperiences": [
+      {
+        "title": "Big Five Game Drive",
+        "subtitle": "Classic Safari",
+        "imageUrl": "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Guided Bush Walk",
+        "subtitle": "On Foot in the Wild",
+        "imageUrl": "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Luxury Private Lodge",
+        "subtitle": "Sabi Sand & Beyond",
+        "imageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for many travelers; South Africa visa rules apply.",
+    "visaCost": null,
+    "latitude": -23.9884,
+    "longitude": 31.5547,
+    "seasonalScores": {"jan": 0.52, "feb": 0.52, "mar": 0.60, "apr": 0.78, "may": 0.90, "jun": 0.96, "jul": 1.0, "aug": 1.0, "sep": 0.92, "oct": 0.84, "nov": 0.62, "dec": 0.52}
+  },
+  {
+    "id": "kilimanjaro_018",
+    "name": "Mount Kilimanjaro",
+    "country": "Tanzania",
+    "heroImageUrl": "https://images.unsplash.com/photo-1589825743636-94e75b25773e?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1609185534588-c0b4e7012e0d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1489493887464-892be6d1daae?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1522010793854-13b5c3b27cc2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Africa's highest peak and the world's tallest freestanding mountain. Trekkers of varying fitness levels ascend through five distinct ecological zones to reach Uhuru Peak at 5,895 m.",
+    "shortDescription": "Africa's roof — a bucket-list trek through five climate zones.",
+    "basePrice": 3000.0,
+    "budgetPrice": 2000.0,
+    "luxuryPrice": 5500.0,
+    "ultraLuxuryPrice": 10000.0,
+    "popularityScore": 0.90,
+    "trendGrowth": 25.6,
+    "bestMonths": [0, 1, 7, 8, 9],
+    "activities": ["Trekking", "Scenic Flights", "Cultural Visits", "Photography"],
+    "topExperiences": [
+      {
+        "title": "Uhuru Peak Summit",
+        "subtitle": "Roof of Africa",
+        "imageUrl": "https://images.unsplash.com/photo-1609185534588-c0b4e7012e0d?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Lemosho Route Trek",
+        "subtitle": "Scenic & High Success Rate",
+        "imageUrl": "https://images.unsplash.com/photo-1489493887464-892be6d1daae?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Rainforest Zone Walk",
+        "subtitle": "Through Five Ecosystems",
+        "imageUrl": "https://images.unsplash.com/photo-1522010793854-13b5c3b27cc2?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "visaApplyUrl": "https://immigration.go.tz/",
+    "visaProcessingDays": 0,
+    "visaNotes": "Standard Tanzanian visa rules apply.",
+    "visaCost": 50.0,
+    "latitude": -3.0674,
+    "longitude": 37.3556,
+    "seasonalScores": {"jan": 0.88, "feb": 0.90, "mar": 0.60, "apr": 0.48, "may": 0.52, "jun": 0.72, "jul": 0.82, "aug": 0.90, "sep": 0.88, "oct": 0.70, "nov": 0.52, "dec": 0.80}
+  },
+  {
+    "id": "volcanoes_019",
+    "name": "Volcanoes National Park",
+    "country": "Rwanda",
+    "heroImageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Home to over a third of the world's mountain gorillas, this Rwandan park offers profoundly intimate wildlife encounters in misty Virunga volcano forests, paired with golden monkey tracking and cultural experiences.",
+    "shortDescription": "Mountain gorilla trekking in Rwanda's misty Virunga volcanoes.",
+    "basePrice": 4500.0,
+    "budgetPrice": 3500.0,
+    "luxuryPrice": 8500.0,
+    "ultraLuxuryPrice": 16000.0,
+    "popularityScore": 0.88,
+    "trendGrowth": 38.4,
+    "bestMonths": [0, 1, 5, 6, 7, 8],
+    "activities": ["Gorilla Trekking", "Golden Monkey Tracking", "Volcano Hiking", "Cultural Visits"],
+    "topExperiences": [
+      {
+        "title": "Gorilla Trekking",
+        "subtitle": "Once-in-a-Lifetime Encounter",
+        "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Volcano Hike",
+        "subtitle": "Karisimbi Summit",
+        "imageUrl": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Golden Monkey Trek",
+        "subtitle": "Playful Primates",
+        "imageUrl": "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Rwanda offers visa-free entry to all African Union members and many other nationalities.",
+    "visaCost": null,
+    "latitude": -1.4833,
+    "longitude": 29.5333,
+    "seasonalScores": {"jan": 0.90, "feb": 0.90, "mar": 0.62, "apr": 0.52, "may": 0.58, "jun": 0.92, "jul": 0.96, "aug": 0.96, "sep": 0.86, "oct": 0.60, "nov": 0.54, "dec": 0.82}
+  },
+  {
+    "id": "sahara_020",
+    "name": "Sahara Desert",
+    "country": "Morocco / Algeria / Tunisia",
+    "heroImageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The world's largest hot desert stretching across 11 countries, offering camel treks through golden dunes of Erg Chebbi, stargazing under unpolluted skies, and authentic Berber camp experiences.",
+    "shortDescription": "Camel treks, towering dunes, and a billion stars at night.",
+    "basePrice": 1500.0,
+    "budgetPrice": 800.0,
+    "luxuryPrice": 4000.0,
+    "ultraLuxuryPrice": 8000.0,
+    "popularityScore": 0.85,
+    "trendGrowth": 29.2,
+    "bestMonths": [9, 10, 11, 0, 1, 2, 3],
+    "activities": ["Camel Trekking", "Sandboarding", "Stargazing", "Berber Camp Stay", "4x4 Excursions"],
+    "topExperiences": [
+      {
+        "title": "Camel Trek at Sunrise",
+        "subtitle": "Golden Dune Crossing",
+        "imageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Sahara Stargazing",
+        "subtitle": "Clearest Night Skies on Earth",
+        "imageUrl": "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Berber Desert Camp",
+        "subtitle": "Authentic Nomadic Experience",
+        "imageUrl": "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa requirements vary by country of entry; Morocco is visa-free for most nationalities.",
+    "visaCost": null,
+    "latitude": 23.4162,
+    "longitude": 25.6628,
+    "seasonalScores": {"jan": 0.86, "feb": 0.86, "mar": 0.80, "apr": 0.68, "may": 0.52, "jun": 0.40, "jul": 0.36, "aug": 0.36, "sep": 0.52, "oct": 0.82, "nov": 0.88, "dec": 0.88}
+  },
+  {
+    "id": "fez_021",
+    "name": "Fez",
+    "country": "Morocco",
+    "heroImageUrl": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1553701879-aca7e6dada3a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Morocco's spiritual and intellectual capital, home to the world's oldest university and the largest living medieval city. The 9th-century medina of Fes el-Bali is a sensory maze of tanneries, madrasas, and artisan workshops.",
+    "shortDescription": "Medieval medina, ancient tanneries, and Moroccan craftsmanship.",
+    "basePrice": 1400.0,
+    "budgetPrice": 750.0,
+    "luxuryPrice": 3800.0,
+    "ultraLuxuryPrice": 7500.0,
+    "popularityScore": 0.82,
+    "trendGrowth": 24.3,
+    "bestMonths": [2, 3, 4, 9, 10, 11],
+    "activities": ["Medina Walking Tours", "Tannery Visits", "Cooking Classes", "Madrasa Exploration", "Pottery Workshops"],
+    "topExperiences": [
+      {
+        "title": "Chouara Tannery",
+        "subtitle": "Ancient Leather Dyeing",
+        "imageUrl": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Fes el-Bali Medina",
+        "subtitle": "UNESCO World Heritage",
+        "imageUrl": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Bou Inania Madrasa",
+        "subtitle": "Islamic Architecture",
+        "imageUrl": "https://images.unsplash.com/photo-1553701879-aca7e6dada3a?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for most nationalities for stays up to 90 days.",
+    "visaCost": null,
+    "latitude": 34.0181,
+    "longitude": -5.0078,
+    "seasonalScores": {"jan": 0.65, "feb": 0.70, "mar": 0.88, "apr": 0.92, "may": 0.86, "jun": 0.72, "jul": 0.52, "aug": 0.48, "sep": 0.80, "oct": 0.90, "nov": 0.82, "dec": 0.68}
+  },
+  {
+    "id": "okavango_022",
+    "name": "Okavango Delta",
+    "country": "Botswana",
+    "heroImageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The world's largest inland delta, a UNESCO World Heritage Site where floodwaters transform the Kalahari into an extraordinary ecosystem teeming with elephants, hippos, leopards, and wild dogs, best explored by mokoro canoe.",
+    "shortDescription": "Mokoro canoes, floodplain wildlife, and wild dog country.",
+    "basePrice": 5000.0,
+    "budgetPrice": 3200.0,
+    "luxuryPrice": 10000.0,
+    "ultraLuxuryPrice": 20000.0,
+    "popularityScore": 0.90,
+    "trendGrowth": 31.7,
+    "bestMonths": [4, 5, 6, 7, 8, 9],
+    "activities": ["Mokoro Canoe Safaris", "Game Drives", "Bush Walks", "Fly-In Safaris", "Bird Watching"],
+    "topExperiences": [
+      {
+        "title": "Mokoro Canoe Safari",
+        "subtitle": "Silent Delta Gliding",
+        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Wild Dog Tracking",
+        "subtitle": "Africa's Rarest Predator",
+        "imageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Fly-In Camp Experience",
+        "subtitle": "Ultimate Wilderness Luxury",
+        "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for most nationalities for stays up to 90 days.",
+    "visaCost": null,
+    "latitude": -19.3000,
+    "longitude": 22.9000,
+    "seasonalScores": {"jan": 0.52, "feb": 0.52, "mar": 0.60, "apr": 0.78, "may": 0.92, "jun": 1.0, "jul": 1.0, "aug": 0.96, "sep": 0.90, "oct": 0.72, "nov": 0.58, "dec": 0.50}
+  },
+  {
+    "id": "luxor_023",
+    "name": "Luxor",
+    "country": "Egypt",
+    "heroImageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583422409516-2895a77efde9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The world's greatest open-air museum, where the Valley of the Kings, Karnak Temple, and Luxor Temple sit along the Nile, offering an unmatched concentration of pharaonic monuments.",
+    "shortDescription": "Valley of the Kings, Karnak Temple, and Nile felucca cruises.",
+    "basePrice": 1800.0,
+    "budgetPrice": 900.0,
+    "luxuryPrice": 4500.0,
+    "ultraLuxuryPrice": 9000.0,
+    "popularityScore": 0.86,
+    "trendGrowth": 27.5,
+    "bestMonths": [9, 10, 11, 0, 1, 2],
+    "activities": ["Valley of the Kings", "Karnak Temple Tour", "Hot Air Balloon", "Felucca Cruise", "Luxor Temple at Night"],
+    "topExperiences": [
+      {
+        "title": "Valley of the Kings",
+        "subtitle": "Pharaoh Tombs Revealed",
+        "imageUrl": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Hot Air Balloon",
+        "subtitle": "Sunrise Over the Nile",
+        "imageUrl": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Karnak Temple",
+        "subtitle": "Ancient Egypt's Greatest Complex",
+        "imageUrl": "https://images.unsplash.com/photo-1583422409516-2895a77efde9?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "visaApplyUrl": "https://visa2egypt.gov.eg/",
+    "visaProcessingDays": 0,
+    "visaNotes": "E-visa or visa on arrival available for most nationalities.",
+    "visaCost": 25.0,
+    "latitude": 25.6872,
+    "longitude": 32.6396,
+    "seasonalScores": {"jan": 0.90, "feb": 0.92, "mar": 0.86, "apr": 0.72, "may": 0.58, "jun": 0.44, "jul": 0.40, "aug": 0.40, "sep": 0.58, "oct": 0.82, "nov": 0.90, "dec": 0.92}
+  },
+  {
+    "id": "pyramids_giza_024",
+    "name": "Pyramids of Giza",
+    "country": "Egypt",
+    "heroImageUrl": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1553416519-e9edb01e6b36?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The last surviving wonder of the ancient world. The Great Pyramid of Khufu, the Sphinx, and the Giza Necropolis deliver an incomparable encounter with human civilisation's most ambitious construction.",
+    "shortDescription": "The last ancient wonder — pyramids, Sphinx, and desert mystique.",
+    "basePrice": 1600.0,
+    "budgetPrice": 800.0,
+    "luxuryPrice": 4200.0,
+    "ultraLuxuryPrice": 8500.0,
+    "popularityScore": 0.95,
+    "trendGrowth": 22.8,
+    "bestMonths": [9, 10, 11, 0, 1, 2],
+    "activities": ["Pyramid Exploration", "Sphinx Visit", "Sound & Light Show", "Camel Rides", "Egyptian Museum"],
+    "topExperiences": [
+      {
+        "title": "Great Pyramid of Khufu",
+        "subtitle": "Last of the Seven Wonders",
+        "imageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "The Great Sphinx",
+        "subtitle": "Guardian of the Giza Plateau",
+        "imageUrl": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Sound & Light Show",
+        "subtitle": "History After Dark",
+        "imageUrl": "https://images.unsplash.com/photo-1553416519-e9edb01e6b36?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "visaApplyUrl": "https://visa2egypt.gov.eg/",
+    "visaProcessingDays": 0,
+    "visaNotes": "E-visa or visa on arrival available for most nationalities.",
+    "visaCost": 25.0,
+    "latitude": 29.9792,
+    "longitude": 31.1342,
+    "seasonalScores": {"jan": 0.90, "feb": 0.92, "mar": 0.84, "apr": 0.70, "may": 0.56, "jun": 0.44, "jul": 0.40, "aug": 0.40, "sep": 0.58, "oct": 0.80, "nov": 0.90, "dec": 0.92}
+  },
+  {
+    "id": "chefchaouen_025",
+    "name": "Chefchaouen",
+    "country": "Morocco",
+    "heroImageUrl": "https://images.unsplash.com/photo-1553601566-f48e4d1e9b19?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1533421821268-37c9d3ceab8e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The 'Blue Pearl' of Morocco, a mountain medina of infinite blue-washed lanes, artisan shops, and Rif Mountain hikes that has become one of Africa's most Instagrammed destinations.",
+    "shortDescription": "Blue-washed medina lanes, mountain air, and artisan markets.",
+    "basePrice": 1200.0,
+    "budgetPrice": 600.0,
+    "luxuryPrice": 3000.0,
+    "ultraLuxuryPrice": 6500.0,
+    "popularityScore": 0.84,
+    "trendGrowth": 36.9,
+    "bestMonths": [2, 3, 4, 5, 9, 10],
+    "activities": ["Medina Wandering", "Rif Mountain Hikes", "Photography", "Craft Shopping", "Local Food Tours"],
+    "topExperiences": [
+      {
+        "title": "Blue Medina Stroll",
+        "subtitle": "Instagram's Favourite City",
+        "imageUrl": "https://images.unsplash.com/photo-1553601566-f48e4d1e9b19?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Rif Mountain Trek",
+        "subtitle": "Panoramic Hilltop Views",
+        "imageUrl": "https://images.unsplash.com/photo-1533421821268-37c9d3ceab8e?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Artisan Craft Market",
+        "subtitle": "Handmade Moroccan Goods",
+        "imageUrl": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for most nationalities for stays up to 90 days.",
+    "visaCost": null,
+    "latitude": 35.1688,
+    "longitude": -5.2636,
+    "seasonalScores": {"jan": 0.60, "feb": 0.68, "mar": 0.86, "apr": 0.92, "may": 0.90, "jun": 0.82, "jul": 0.68, "aug": 0.65, "sep": 0.82, "oct": 0.88, "nov": 0.78, "dec": 0.62}
+  },
+  {
+    "id": "bazaruto_026",
+    "name": "Bazaruto Archipelago",
+    "country": "Mozambique",
+    "heroImageUrl": "https://images.unsplash.com/photo-1504464182387-22cb64a27dba?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A remote Indian Ocean archipelago of five pristine islands in Mozambique, protecting the last viable population of dugongs in East Africa and offering world-class diving, flamingo dunes, and exclusive island lodges.",
+    "shortDescription": "Dugong sanctuary, flamingo dunes, and untouched Indian Ocean reef.",
+    "basePrice": 4800.0,
+    "budgetPrice": 3000.0,
+    "luxuryPrice": 9500.0,
+    "ultraLuxuryPrice": 18000.0,
+    "popularityScore": 0.78,
+    "trendGrowth": 42.3,
+    "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+    "activities": ["Diving & Snorkeling", "Dhow Sailing", "Flamingo Dune Walks", "Deep-Sea Fishing", "Dugong Snorkeling"],
+    "topExperiences": [
+      {
+        "title": "Dugong Snorkeling",
+        "subtitle": "Rare Gentle Giants",
+        "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Flamingo Dune Walk",
+        "subtitle": "Pink Lakes & White Sand",
+        "imageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Coral Reef Diving",
+        "subtitle": "Untouched East African Reef",
+        "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa on arrival available at Mozambique entry points for most nationalities.",
+    "visaCost": 60.0,
+    "latitude": -21.7000,
+    "longitude": 35.4700,
+    "seasonalScores": {"jan": 0.52, "feb": 0.50, "mar": 0.58, "apr": 0.78, "may": 0.90, "jun": 0.96, "jul": 1.0, "aug": 1.0, "sep": 0.92, "oct": 0.88, "nov": 0.68, "dec": 0.54}
+  },
+  {
+    "id": "ouidah_pendjari_027",
+    "name": "Ouidah & Pendjari National Park",
+    "country": "Benin",
+    "heroImageUrl": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1611348586840-ea9872d33411?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A dual experience combining Ouidah's living Voodoo culture and slave-trade heritage on the Slave Route with Pendjari's remote safari ecosystem, home to one of West Africa's last significant populations of lions, elephants, and hippos.",
+    "shortDescription": "Voodoo heritage meets West Africa's wildest safari ecosystem.",
+    "basePrice": 2000.0,
+    "budgetPrice": 1100.0,
+    "luxuryPrice": 4500.0,
+    "ultraLuxuryPrice": 9000.0,
+    "popularityScore": 0.68,
+    "trendGrowth": 45.2,
+    "bestMonths": [10, 11, 0, 1, 2],
+    "activities": ["Voodoo Heritage Tours", "Slave Route Walk", "Pendjari Game Drives", "Lion Tracking", "Hippo Watching"],
+    "topExperiences": [
+      {
+        "title": "Route des Esclaves",
+        "subtitle": "UNESCO Slave Trade Heritage",
+        "imageUrl": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Voodoo Temple Visit",
+        "subtitle": "Living Spiritual Tradition",
+        "imageUrl": "https://images.unsplash.com/photo-1611348586840-ea9872d33411?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Pendjari Lion Safari",
+        "subtitle": "West Africa's Last Lions",
+        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "E_VISA",
+    "visaApplyUrl": "https://evisa.gouv.bj/",
+    "visaProcessingDays": 3,
+    "visaNotes": "E-visa required for most visitors; apply online before travel.",
+    "visaCost": 50.0,
+    "latitude": 6.3612,
+    "longitude": 2.0833,
+    "seasonalScores": {"jan": 0.88, "feb": 0.90, "mar": 0.80, "apr": 0.62, "may": 0.50, "jun": 0.44, "jul": 0.40, "aug": 0.42, "sep": 0.52, "oct": 0.72, "nov": 0.86, "dec": 0.88}
+  },
+  {
+    "id": "simbavati_waterberg_028",
+    "name": "Simbavati Waterberg",
+    "country": "South Africa",
+    "heroImageUrl": "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A malaria-free safari retreat set within the Waterberg Biosphere Reserve, offering intimate Big Five encounters, horseback safaris, and sustainable luxury lodge experiences in a UNESCO-listed highland wilderness.",
+    "shortDescription": "Malaria-free Big Five safaris in a UNESCO biosphere reserve.",
+    "basePrice": 3500.0,
+    "budgetPrice": 2200.0,
+    "luxuryPrice": 7000.0,
+    "ultraLuxuryPrice": 13000.0,
+    "popularityScore": 0.75,
+    "trendGrowth": 33.6,
+    "bestMonths": [4, 5, 6, 7, 8, 9],
+    "activities": ["Big Five Game Drives", "Horseback Safaris", "Bush Walks", "Bird Watching", "Stargazing"],
+    "topExperiences": [
+      {
+        "title": "Horseback Safari",
+        "subtitle": "Big Five on Horseback",
+        "imageUrl": "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Rhino Tracking Walk",
+        "subtitle": "On Foot with White Rhino",
+        "imageUrl": "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Waterberg Sunset Drive",
+        "subtitle": "Highland Savannah Magic",
+        "imageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for many travelers; standard South Africa entry rules apply.",
+    "visaCost": null,
+    "latitude": -24.1667,
+    "longitude": 28.5000,
+    "seasonalScores": {"jan": 0.52, "feb": 0.52, "mar": 0.60, "apr": 0.78, "may": 0.90, "jun": 0.96, "jul": 1.0, "aug": 1.0, "sep": 0.90, "oct": 0.80, "nov": 0.60, "dec": 0.52}
+  },
+  {
+    "id": "meroe_pyramids_029",
+    "name": "Meroë Pyramids",
+    "country": "Sudan",
+    "heroImageUrl": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The forgotten pyramids of the ancient Kushite Kingdom, more numerous than Egypt's, rising steeply from red desert dunes near the Nile. Virtually crowd-free, they offer a profound off-the-beaten-path encounter with African antiquity.",
+    "shortDescription": "More pyramids than Egypt, in the Sudanese desert, crowd-free.",
+    "basePrice": 1800.0,
+    "budgetPrice": 1000.0,
+    "luxuryPrice": 4000.0,
+    "ultraLuxuryPrice": 8000.0,
+    "popularityScore": 0.62,
+    "trendGrowth": 48.7,
+    "bestMonths": [9, 10, 11, 0, 1, 2],
+    "activities": ["Pyramid Exploration", "Desert Camel Rides", "Nile Village Visits", "Archaeological Tours", "Sunset Photography"],
+    "topExperiences": [
+      {
+        "title": "Meroitic Pyramid Field",
+        "subtitle": "Ancient Nubian Kingdom",
+        "imageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Camel Sunset Ride",
+        "subtitle": "Desert Dunes at Dusk",
+        "imageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Nile Riverside Villages",
+        "subtitle": "Living Sudanese Culture",
+        "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "E_VISA",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 7,
+    "visaNotes": "Sudan requires a visa for most nationalities; check current situation before travel.",
+    "visaCost": 70.0,
+    "latitude": 16.9349,
+    "longitude": 33.7489,
+    "seasonalScores": {"jan": 0.88, "feb": 0.86, "mar": 0.78, "apr": 0.58, "may": 0.40, "jun": 0.34, "jul": 0.32, "aug": 0.32, "sep": 0.46, "oct": 0.78, "nov": 0.88, "dec": 0.90}
+  },
+  {
+    "id": "tsingy_030",
+    "name": "Tsingy de Bemaraha",
+    "country": "Madagascar",
+    "heroImageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A UNESCO World Heritage wilderness of razor-sharp limestone pinnacles in western Madagascar, accessible only by suspension bridges and via ferrata, sheltering unique lemur species and endemic flora found nowhere else on Earth.",
+    "shortDescription": "Razor-sharp limestone labyrinths, lemurs, and Malagasy wilderness.",
+    "basePrice": 3500.0,
+    "budgetPrice": 2200.0,
+    "luxuryPrice": 6500.0,
+    "ultraLuxuryPrice": 12000.0,
+    "popularityScore": 0.72,
+    "trendGrowth": 40.1,
+    "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+    "activities": ["Via Ferrata Climbing", "Suspension Bridge Walks", "Lemur Spotting", "Bird Watching", "Night Wildlife Walks"],
+    "topExperiences": [
+      {
+        "title": "Via Ferrata Traverse",
+        "subtitle": "Across the Stone Forest",
+        "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Lemur Spotting",
+        "subtitle": "Madagascar's Unique Primates",
+        "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Suspension Bridge Walk",
+        "subtitle": "Above the Limestone Pinnacles",
+        "imageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Tourist visa on arrival available for most nationalities at Madagascar entry points.",
+    "visaCost": 35.0,
+    "latitude": -18.6000,
+    "longitude": 44.7833,
+    "seasonalScores": {"jan": 0.40, "feb": 0.42, "mar": 0.50, "apr": 0.72, "may": 0.88, "jun": 0.96, "jul": 1.0, "aug": 1.0, "sep": 0.92, "oct": 0.82, "nov": 0.58, "dec": 0.42}
   }
 ]
-
