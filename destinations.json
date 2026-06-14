@@ -256,7 +256,7 @@
     "activities": ["Medina Exploration", "Souk Shopping", "Cooking Classes", "Atlas Day Trips"],
     "topExperiences": [
       {
-        "title": "Medina Walking Tour",
+        "title": "Medina Walking ",
         "subtitle": "Cultural Immersion",
         "imageUrl": "https://images.unsplash.com/photo-1548015209-e6e1d4b9e0b3?auto=format&fit=crop&w=600&q=80"
       },
