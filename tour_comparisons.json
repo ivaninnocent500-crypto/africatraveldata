@@ -1,0 +1,133 @@
+[
+  {
+    "destinationId": "serengeti_001",
+    "destinationName": "Serengeti",
+    "tours": [
+      {
+        "id": "tour_serengeti_easy_travel",
+        "operatorId": "op_easy_travel",
+        "operatorName": "Easy Travel & Tours",
+        "operatorLogoUrl": null,
+        "operatorRating": 4.9,
+        "operatorReviewCount": 127,
+        "isVerified": true,
+        "licenseNumber": "TALA-0021",
+        "establishedYear": 2008,
+        "pricePerPerson": 2450.0,
+        "totalPrice": 4900.0,
+        "durationDays": 7,
+        "durationNights": 6,
+        "inclusionsCount": 18,
+        "exclusionsCount": 7,
+        "includedActivities": ["Game drives","Sunset safari","Bush breakfast","Cultural visit","Hot air balloon (optional)","Walking safari","Photography session","Bird watching","Night drive","Picnic lunch"],
+        "itinerarySummary": "Same route",
+        "transportation": {
+          "vehicleType": "4x4 Land Cruiser",
+          "maxPassengers": 6,
+          "features": ["Window seat guaranteed","Charging ports","Fridge"]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:6",
+          "experienceYears": "10+ years",
+          "languages": ["EN","Swahili"],
+          "certifications": ["Expert Naturalists","First Aid Certified"]
+        },
+        "accommodation": {
+          "propertyName": "Sanctuary Serengeti Camp",
+          "propertyType": "Luxury Tent",
+          "starRating": 5,
+          "photoUrls": ["https://example.com/camp1.jpg","https://example.com/camp2.jpg","https://example.com/camp3.jpg"]
+        },
+        "safetyHealth": {
+          "insuranceType": "Allianz Comprehensive + Medical Evacuation",
+          "medicalEvacuation": true,
+          "supportAvailability": "24/7 support",
+          "flyingDoctors": true
+        },
+        "departureDates": [
+          { "date": "Aug 12", "isAvailable": true, "isGuaranteed": true },
+          { "date": "Aug 19", "isAvailable": true, "isGuaranteed": true },
+          { "date": "Sep 2", "isAvailable": true, "isGuaranteed": true }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 14,
+          "refundPercent": 50,
+          "refundDeadlineDays": 7,
+          "noRefundAfterDays": 0
+        },
+        "sustainability": {
+          "impactLevel": "High Impact",
+          "impactScore": 90,
+          "certifications": ["Fair Trade Tourism Certified"],
+          "communityProjects": ["Local school support","Wildlife conservation"]
+        },
+        "isBestPrice": true,
+        "priceLockedHours": 48,
+        "hasHiddenFees": false
+      },
+      {
+        "id": "tour_serengeti_asilia",
+        "operatorId": "op_asilia_africa",
+        "operatorName": "Asilia Africa",
+        "operatorLogoUrl": null,
+        "operatorRating": 4.7,
+        "operatorReviewCount": 98,
+        "isVerified": true,
+        "licenseNumber": "TALA-0015",
+        "establishedYear": 2004,
+        "pricePerPerson": 2950.0,
+        "totalPrice": 5900.0,
+        "durationDays": 7,
+        "durationNights": 6,
+        "inclusionsCount": 16,
+        "exclusionsCount": 9,
+        "includedActivities": ["Game drives","Sunset safari","Bush breakfast","Cultural visit","Photography session"],
+        "itinerarySummary": "Same route",
+        "transportation": {
+          "vehicleType": "4x4 Safari Vehicle",
+          "maxPassengers": 8,
+          "features": ["Roof hatch","Charging ports"]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:8",
+          "experienceYears": "5-10 years",
+          "languages": ["EN"],
+          "certifications": ["Naturalists"]
+        },
+        "accommodation": {
+          "propertyName": "Serengeti Pioneer Camp",
+          "propertyType": "Comfort Lodge",
+          "starRating": 4,
+          "photoUrls": ["https://example.com/lodge1.jpg","https://example.com/lodge2.jpg"]
+        },
+        "safetyHealth": {
+          "insuranceType": "Standard Travel Insurance",
+          "medicalEvacuation": false,
+          "supportAvailability": "Office hours support",
+          "flyingDoctors": false
+        },
+        "departureDates": [
+          { "date": "Aug 12", "isAvailable": true, "isGuaranteed": false },
+          { "date": "Aug 19", "isAvailable": true, "spotsLeft": 2, "isGuaranteed": false },
+          { "date": "Sep 2", "isAvailable": true, "isGuaranteed": false }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 7,
+          "refundPercent": 0,
+          "refundDeadlineDays": 7,
+          "noRefundAfterDays": 7
+        },
+        "sustainability": {
+          "impactLevel": "Good",
+          "impactScore": 70,
+          "certifications": [],
+          "communityProjects": ["Community partner projects"]
+        },
+        "isBestPrice": false,
+        "priceLockedHours": 48,
+        "hasHiddenFees": false
+      }
+    ]
+  }
+]
+
