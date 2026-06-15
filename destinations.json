@@ -520,7 +520,7 @@
     "id": "etosha_016",
     "name": "Etosha National Park",
     "country": "Namibia",
-    "heroImageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_UYAEDdwIK1vUcfZd9w5S6AoGka11AZWn3g&s",
     "galleryImages": [
       "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=800&q=80",
@@ -540,12 +540,12 @@
       {
         "title": "Waterhole Night Watch",
         "subtitle": "Floodlit Wildlife Drama",
-        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREaoyxpXf3d-Yyblwlprd_6t5labwouiLeLQ&s"
       },
       {
         "title": "Self-Drive Safari",
         "subtitle": "Freedom on the Pan",
-        "imageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://explore-namibia.com/wp-content/uploads/2023/04/Namibia-Self-Drive-Safari-Tours-Route-All-Round-Etosha-National-Park-04.webp"
       },
       {
         "title": "Rhino Tracking",
@@ -567,7 +567,7 @@
     "id": "kruger_017",
     "name": "Kruger National Park",
     "country": "South Africa",
-    "heroImageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://www.arebbusch.com/wp-content/uploads/2022/04/Kruger-National-Park.jpg",
     "galleryImages": [
       "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=800&q=80",
@@ -587,17 +587,17 @@
       {
         "title": "Big Five Game Drive",
         "subtitle": "Classic Safari",
-        "imageUrl": "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://www.lukimbi.com/wp-content/uploads/2020/08/IMG_1151-1500x650.jpg"
       },
       {
         "title": "Guided Bush Walk",
         "subtitle": "On Foot in the Wild",
-        "imageUrl": "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://www.krugerpark.co.za/images/plains-camp-walk-01-786x416.jpg"
       },
       {
         "title": "Luxury Private Lodge",
         "subtitle": "Sabi Sand & Beyond",
-        "imageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://www.safari.co.za/images/kruger-national-park-luxury-accommodaiton-786x416.jpg"
       }
     ],
     "visaRequired": false,
