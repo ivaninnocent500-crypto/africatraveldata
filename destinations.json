@@ -943,7 +943,7 @@
     "id": "chefchaouen_025",
     "name": "Chefchaouen",
     "country": "Morocco",
-    "heroImageUrl": "https://images.unsplash.com/photo-1553601566-f48e4d1e9b19?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/2c/a9/51.jpg",
     "galleryImages": [
       "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1533421821268-37c9d3ceab8e?auto=format&fit=crop&w=800&q=80",
@@ -963,17 +963,17 @@
       {
         "title": "Blue Medina Stroll",
         "subtitle": "Instagram's Favourite City",
-        "imageUrl": "https://images.unsplash.com/photo-1553601566-f48e4d1e9b19?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/15/10/dd/b1.jpg"
       },
       {
         "title": "Rif Mountain Trek",
         "subtitle": "Panoramic Hilltop Views",
-        "imageUrl": "https://images.unsplash.com/photo-1533421821268-37c9d3ceab8e?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://cdn.getyourguide.com/img/tour/d5e54dc83283e05b8b2f5f0c4b82982b96f99a5c2b7e1cc9213dd17e6416314a.jpg/68.jpg"
       },
       {
         "title": "Artisan Craft Market",
         "subtitle": "Handmade Moroccan Goods",
-        "imageUrl": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/ac/1a/f8/the-store-entrance.jpg?w=900&h=500&s=1"
       }
     ],
     "visaRequired": false,
@@ -1037,7 +1037,7 @@
     "id": "ouidah_pendjari_027",
     "name": "Ouidah & Pendjari National Park",
     "country": "Benin",
-    "heroImageUrl": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://www.fieldandmoor.co.uk/cdn/shop/articles/Pendjari_safari_Benin_08ea2159-d832-4f20-b210-151babebef97_1024x.jpg?v=1759451730",
     "galleryImages": [
       "https://images.unsplash.com/photo-1611348586840-ea9872d33411?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=800&q=80",
@@ -1057,17 +1057,17 @@
       {
         "title": "Route des Esclaves",
         "subtitle": "UNESCO Slave Trade Heritage",
-        "imageUrl": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/0d/ab/49/slave-route-view-from.jpg?w=1200&h=-1&s=1"
       },
       {
         "title": "Voodoo Temple Visit",
         "subtitle": "Living Spiritual Tradition",
-        "imageUrl": "https://images.unsplash.com/photo-1611348586840-ea9872d33411?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://rexclarkeadventures.com/wp-content/uploads/2026/05/20250113-Benin-Abomey-Temple-of-the-Chameleon-16-HDR.webp"
       },
       {
         "title": "Pendjari Lion Safari",
         "subtitle": "West Africa's Last Lions",
-        "imageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://jewelsafaris.com/wp-content/uploads/2022/11/Game-Drive-in-Murchison-Falls-National-park..jpg"
       }
     ],
     "visaRequired": true,
