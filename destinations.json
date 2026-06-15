@@ -379,7 +379,7 @@
     "id": "seychelles_013",
     "name": "Seychelles",
     "country": "Seychelles",
-    "heroImageUrl": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://cdn.mahlatini.com/Clear-kayak-tour-Image-courtesy-of-Michel-Denousse-Tourism-Seychelles.jpg",
     "galleryImages": [
       "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=800&q=80",
@@ -399,17 +399,17 @@
       {
         "title": "Anse Source d'Argent",
         "subtitle": "World's Most Beautiful Beach",
-        "imageUrl": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://www.thediscoveriesof.com/wp-content/uploads/2023/02/Anse-Source-DArgent-Seychelles-shutterstock_2255882697.jpg.webp"
       },
       {
         "title": "Coral Reef Diving",
         "subtitle": "Marine Paradise",
-        "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://edelweiss.scene7.com/is/image/flyedelweiss/diving-sez-header-1:page-header-teaser-800w?ts=1745499227425&dpr=on,2.625"
       },
       {
         "title": "Island Hopping",
         "subtitle": "115 Islands to Explore",
-        "imageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://aardvarksafaris.com/wp-content/uploads/2021/04/Seychelles-alphonse-header.jpg"
       }
     ],
     "visaRequired": false,
