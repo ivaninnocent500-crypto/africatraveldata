@@ -426,7 +426,7 @@
     "id": "mauritius_014",
     "name": "Mauritius",
     "country": "Mauritius",
-    "heroImageUrl": "https://images.unsplash.com/photo-1504464182387-22cb64a27dba?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://pohcdn.com/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/Mauritius-2.jpg",
     "galleryImages": [
       "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=800&q=80",
@@ -446,7 +446,7 @@
       {
         "title": "Lagoon Snorkeling",
         "subtitle": "Crystal Clear Waters",
-        "imageUrl": "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://media.istockphoto.com/id/1469530518/photo/diving-teenage-boy-snorkeling-over-the-coral-reefs-underwater-photo-in-the-clean-turquoise.jpg?s=612x612&w=0&k=20&c=Z-FNeGmH9CtuTqwM9S1iAcDRnlN7UftdxwyB4TbQdfs=0"
       },
       {
         "title": "Catamaran Cruise",
@@ -661,7 +661,7 @@
     "id": "volcanoes_019",
     "name": "Volcanoes National Park",
     "country": "Rwanda",
-    "heroImageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCc3DKWYm1QMF3ZJ69MAfto5B0x3cb3VCLAw&s",
     "galleryImages": [
       "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=800&q=80",
@@ -681,12 +681,12 @@
       {
         "title": "Gorilla Trekking",
         "subtitle": "Once-in-a-Lifetime Encounter",
-        "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjvKkL61qtXkdK9YH3UvA5ZbhUP-ejN94Tw&s"
       },
       {
         "title": "Volcano Hike",
         "subtitle": "Karisimbi Summit",
-        "imageUrl": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://www.insidevolcanoesnationalpark.com/wp-content/uploads/2020/08/mount-karisimbi-in-rwanda.jpg"
       },
       {
         "title": "Golden Monkey Trek",
@@ -990,7 +990,7 @@
     "id": "bazaruto_026",
     "name": "Bazaruto Archipelago",
     "country": "Mozambique",
-    "heroImageUrl": "https://images.unsplash.com/photo-1504464182387-22cb64a27dba?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://www.fondationsegre.org/wp-content/uploads/2018/10/Bazaruto-copyright-Scott-Ramsay-www.LoveWildAfrica.com-10-750x400.jpg",
     "galleryImages": [
       "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=800&q=80",
