@@ -1,0 +1,109 @@
+{
+  "inclusions": [
+    {
+      "category": "Park Fees",
+      "items": [
+        "All park entrance fees",
+        "Conservation fees for Serengeti",
+        "Ngorongoro Crater descent fee",
+        "Tarangire National Park fees"
+      ],
+      "iconType": "park"
+    },
+    {
+      "category": "Transport",
+      "items": [
+        "4x4 Safari Land Cruiser with pop-up roof",
+        "Professional English-speaking driver/guide",
+        "Airport transfers (arrival & departure)",
+        "Fuel and vehicle maintenance"
+      ],
+      "iconType": "vehicle"
+    },
+    {
+      "category": "Meals",
+      "items": [
+        "All meals as specified in itinerary",
+        "Bush picnic lunches",
+        "Welcome dinner on Day 1",
+        "Bottled drinking water during game drives"
+      ],
+      "iconType": "meal"
+    },
+    {
+      "category": "Accommodation",
+      "items": [
+        "Lodge/camp accommodation as per itinerary",
+        "Room with en-suite bathroom",
+        "Daily housekeeping"
+      ],
+      "iconType": "lodge"
+    },
+    {
+      "category": "Activities",
+      "items": [
+        "Daily game drives",
+        "En-route game viewing",
+        "Sundowner experience",
+        "Cultural visit to Maasai village"
+      ],
+      "iconType": "activity"
+    },
+    {
+      "category": "Guide Services",
+      "items": [
+        "Professional safari guide",
+        "Spotter during game drives",
+        "Wildlife interpretation and education"
+      ],
+      "iconType": "guide"
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "International Flights",
+      "items": [
+        "International airfare to/from Tanzania",
+        "Domestic flights unless specified"
+      ],
+      "iconType": "flight"
+    },
+    {
+      "category": "Travel Insurance",
+      "items": [
+        "Comprehensive travel insurance",
+        "Medical evacuation coverage (recommended)",
+        "Trip cancellation insurance"
+      ],
+      "iconType": "insurance"
+    },
+    {
+      "category": "Personal Expenses",
+      "items": [
+        "Alcoholic beverages",
+        "Laundry services",
+        "Souvenirs and personal items",
+        "Tips and gratuities"
+      ],
+      "iconType": "personal"
+    },
+    {
+      "category": "Optional Activities",
+      "items": [
+        "Hot air balloon safari ($550)",
+        "Spa treatments at lodge",
+        "Private photography sessions"
+      ],
+      "iconType": "optional"
+    },
+    {
+      "category": "Visa & Documents",
+      "items": [
+        "Tanzania visa fees",
+        "Yellow fever vaccination certificate",
+        "Passport processing fees"
+      ],
+      "iconType": "document"
+    }
+  ]
+}
