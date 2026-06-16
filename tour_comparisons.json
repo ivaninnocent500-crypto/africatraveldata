@@ -1,133 +1,519 @@
-[
-  {
-    "destinationId": "serengeti_001",
-    "destinationName": "Serengeti",
-    "tours": [
-      {
-        "id": "tour_serengeti_easy_travel",
-        "operatorId": "op_easy_travel",
-        "operatorName": "Easy Travel & Tours",
-        "operatorLogoUrl": null,
-        "operatorRating": 4.9,
-        "operatorReviewCount": 127,
-        "isVerified": true,
-        "licenseNumber": "TALA-0021",
-        "establishedYear": 2008,
-        "pricePerPerson": 2450.0,
-        "totalPrice": 4900.0,
-        "durationDays": 7,
-        "durationNights": 6,
-        "inclusionsCount": 18,
-        "exclusionsCount": 7,
-        "includedActivities": ["Game drives","Sunset safari","Bush breakfast","Cultural visit","Hot air balloon (optional)","Walking safari","Photography session","Bird watching","Night drive","Picnic lunch"],
-        "itinerarySummary": "Same route",
-        "transportation": {
-          "vehicleType": "4x4 Land Cruiser",
-          "maxPassengers": 6,
-          "features": ["Window seat guaranteed","Charging ports","Fridge"]
+{
+  "comparisons": [
+    {
+      "destinationId": "serengeti-tanzania",
+      "destinationName": "Serengeti",
+      "tours": [
+        {
+          "id": "tour-easy-travel-serengeti",
+          "operatorId": "easy-travel-tours",
+          "operatorName": "Easy Travel & Tours",
+          "operatorLogoUrl": "https://example.com/easy-travel-logo.png",
+          "operatorRating": 4.9,
+          "operatorReviewCount": 127,
+          "isVerified": true,
+          "licenseNumber": "TTA-001",
+          "establishedYear": 2005,
+          "pricePerPerson": 2650.0,
+          "totalPrice": 5300.0,
+          "durationDays": 5,
+          "durationNights": 4,
+          "inclusionsCount": 24,
+          "exclusionsCount": 8,
+          "includedActivities": [
+            "All park fees",
+            "4x4 Safari vehicle",
+            "Professional guide",
+            "Drinking water",
+            "All meals as specified"
+          ],
+          "itinerarySummary": "Arusha → Tarangire → Serengeti → Ngorongoro",
+          "dayByDayItinerary": [
+            {
+              "dayNumber": 1,
+              "dayTitle": "Arrival & Arusha",
+              "locationName": "Arrival in Arusha",
+              "activities": [
+                { "iconType": "FLIGHT", "time": null, "description": "Airport pickup" },
+                { "iconType": "GENERIC", "time": null, "description": "Welcome briefing" }
+              ],
+              "overnightStay": "Arusha Coffee Lodge",
+              "meals": ["Dinner"],
+              "dayImageUrl": "https://example.com/day1-arusha.jpg"
+            },
+            {
+              "dayNumber": 2,
+              "dayTitle": "Tarangire National Park",
+              "locationName": "Tarangire National Park",
+              "activities": [
+                { "iconType": "VEHICLE", "time": "07:30 AM", "description": "Depart to Tarangire" },
+                { "iconType": "GAME_DRIVE", "time": null, "description": "Game drive (full day)" },
+                { "iconType": "MEAL", "time": null, "description": "Bush picnic lunch" }
+              ],
+              "overnightStay": "Tarangire Safari Lodge",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/day2-tarangire.jpg"
+            },
+            {
+              "dayNumber": 3,
+              "dayTitle": "Serengeti National Park",
+              "locationName": "Serengeti National Park",
+              "activities": [
+                { "iconType": "VEHICLE", "time": "08:00 AM", "description": "Drive to Serengeti" },
+                { "iconType": "GAME_DRIVE", "time": null, "description": "En-route game viewing" },
+                { "iconType": "MEAL", "time": null, "description": "Picnic lunch in the park" }
+              ],
+              "overnightStay": "Serengeti Heritage Camp",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/day3-serengeti.jpg"
+            },
+            {
+              "dayNumber": 4,
+              "dayTitle": "Serengeti Experience",
+              "locationName": "Serengeti Experience",
+              "activities": [
+                { "iconType": "GAME_DRIVE", "time": null, "description": "Early morning game drive" },
+                { "iconType": "MEAL", "time": null, "description": "Bush breakfast" },
+                { "iconType": "CULTURE", "time": null, "description": "Cultural visit – Maasai Boma" },
+                { "iconType": "BALLOON", "time": null, "description": "Optional: Hot air balloon ($550)" }
+              ],
+              "overnightStay": "Serengeti Heritage Camp",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/day4-serengeti.jpg"
+            },
+            {
+              "dayNumber": 5,
+              "dayTitle": "Ngorongoro & Departure",
+              "locationName": "Ngorongoro & Departure",
+              "activities": [
+                { "iconType": "VEHICLE", "time": "07:00 AM", "description": "Ngorongoro Crater tour" },
+                { "iconType": "MEAL", "time": null, "description": "Picnic lunch at the crater" },
+                { "iconType": "VEHICLE", "time": null, "description": "Drive back to Arusha" },
+                { "iconType": "FLIGHT", "time": null, "description": "Drop-off at airport" }
+              ],
+              "overnightStay": "N/A",
+              "meals": ["Breakfast", "Lunch"],
+              "dayImageUrl": "https://example.com/day5-ngorongoro.jpg"
+            }
+          ],
+          "transportation": {
+            "vehicleType": "4x4 Land Cruiser",
+            "maxPassengers": 6,
+            "features": ["Pop-up roof", "Refrigerator", "Charging ports"]
+          },
+          "guideInfo": {
+            "guideToTravelerRatio": "1:6",
+            "experienceYears": "10+ years",
+            "languages": ["English", "Swahili"],
+            "certifications": ["Professional Safari Guide", "First Aid Certified"]
+          },
+          "accommodation": {
+            "properties": [
+              {
+                "propertyName": "Arusha Coffee Lodge",
+                "propertyType": "Luxury Lodge",
+                "starRating": 5,
+                "photoUrls": [
+                  "https://example.com/coffee-lodge-1.jpg",
+                  "https://example.com/coffee-lodge-2.jpg"
+                ],
+                "nightNumber": 1,
+                "amenities": ["Swimming pool", "Spa", "Free WiFi", "Restaurant"],
+                "locationDescription": "Nestled in a coffee plantation on the outskirts of Arusha"
+              },
+              {
+                "propertyName": "Tarangire Safari Lodge",
+                "propertyType": "Tented Camp",
+                "starRating": 4,
+                "photoUrls": [
+                  "https://example.com/tarangire-lodge-1.jpg"
+                ],
+                "nightNumber": 2,
+                "amenities": ["En-suite bathroom", "Private veranda", "Solar power"],
+                "locationDescription": "Elevated position overlooking the Tarangire River"
+              },
+              {
+                "propertyName": "Serengeti Heritage Camp",
+                "propertyType": "Mobile Camp",
+                "starRating": 4,
+                "photoUrls": [
+                  "https://example.com/heritage-camp-1.jpg",
+                  "https://example.com/heritage-camp-2.jpg"
+                ],
+                "nightNumber": 3,
+                "amenities": ["Luxury canvas tents", "King-size beds", "En-suite bathroom"],
+                "locationDescription": "Heart of the Serengeti, following the Great Migration"
+              }
+            ]
+          },
+          "safetyHealth": {
+            "insuranceType": "Comprehensive Travel Insurance",
+            "medicalEvacuation": true,
+            "supportAvailability": "24/7 Emergency Support",
+            "flyingDoctors": true
+          },
+          "departureDates": [
+            { "date": "12 Aug 2025", "isAvailable": true, "spotsLeft": 3, "isGuaranteed": true },
+            { "date": "19 Aug 2025", "isAvailable": true, "spotsLeft": 6, "isGuaranteed": true },
+            { "date": "26 Aug 2025", "isAvailable": true, "spotsLeft": 2, "isGuaranteed": false }
+          ],
+          "cancellationPolicy": {
+            "freeCancelDays": 14,
+            "refundPercent": 100,
+            "refundDeadlineDays": 7,
+            "noRefundAfterDays": 3
+          },
+          "sustainability": {
+            "impactLevel": "Excellent",
+            "impactScore": 92,
+            "certifications": ["Green Tourism Certified", "Carbon Neutral"],
+            "communityProjects": ["Maasai Education Fund", "Wildlife Conservation"]
+          },
+          "inclusions": [
+            { "category": "Park Fees", "items": ["All park entrance fees", "Conservation fees"], "iconType": "park" },
+            { "category": "Transport", "items": ["4x4 Safari Land Cruiser", "Airport transfers"], "iconType": "vehicle" },
+            { "category": "Meals", "items": ["All meals as specified", "Bush picnic lunches"], "iconType": "meal" },
+            { "category": "Activities", "items": ["Daily game drives", "Cultural visit"], "iconType": "activity" }
+          ],
+          "exclusions": [
+            { "category": "International Flights", "items": ["Airfare to/from Tanzania"], "iconType": "flight" },
+            { "category": "Travel Insurance", "items": ["Comprehensive insurance"], "iconType": "insurance" },
+            { "category": "Personal Expenses", "items": ["Alcoholic beverages", "Tips"], "iconType": "personal" }
+          ],
+          "isBestPrice": true,
+          "priceLockedHours": 48,
+          "hasHiddenFees": false
         },
-        "guideInfo": {
-          "guideToTravelerRatio": "1:6",
-          "experienceYears": "10+ years",
-          "languages": ["EN","Swahili"],
-          "certifications": ["Expert Naturalists","First Aid Certified"]
+        {
+          "id": "tour-asilia-serengeti",
+          "operatorId": "asilia-africa",
+          "operatorName": "Asilia Africa",
+          "operatorLogoUrl": "https://example.com/asilia-logo.png",
+          "operatorRating": 4.8,
+          "operatorReviewCount": 98,
+          "isVerified": true,
+          "licenseNumber": "TTA-002",
+          "establishedYear": 2004,
+          "pricePerPerson": 3150.0,
+          "totalPrice": 6300.0,
+          "durationDays": 5,
+          "durationNights": 4,
+          "inclusionsCount": 22,
+          "exclusionsCount": 10,
+          "includedActivities": [
+            "All park fees",
+            "4x4 Safari vehicle",
+            "Professional guide",
+            "Drinking water",
+            "All meals as specified"
+          ],
+          "itinerarySummary": "Arusha → Tarangire → Serengeti → Ngorongoro",
+          "dayByDayItinerary": [
+            {
+              "dayNumber": 1,
+              "dayTitle": "Arrival & Arusha",
+              "locationName": "Arrival in Arusha",
+              "activities": [
+                { "iconType": "FLIGHT", "time": null, "description": "Airport pickup" },
+                { "iconType": "GENERIC", "time": null, "description": "Welcome briefing" }
+              ],
+              "overnightStay": "Arusha Serena Hotel",
+              "meals": ["Dinner"],
+              "dayImageUrl": "https://example.com/asilia-day1.jpg"
+            },
+            {
+              "dayNumber": 2,
+              "dayTitle": "Tarangire National Park",
+              "locationName": "Tarangire National Park",
+              "activities": [
+                { "iconType": "VEHICLE", "time": "07:00 AM", "description": "Depart to Tarangire" },
+                { "iconType": "GAME_DRIVE", "time": null, "description": "Game drive (full day)" },
+                { "iconType": "MEAL", "time": null, "description": "Hot lunch at lodge" }
+              ],
+              "overnightStay": "Oliver's Camp Tarangire",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/asilia-day2.jpg"
+            },
+            {
+              "dayNumber": 3,
+              "dayTitle": "Serengeti National Park",
+              "locationName": "Serengeti National Park",
+              "activities": [
+                { "iconType": "FLIGHT", "time": "07:30 AM", "description": "Fly to Serengeti" },
+                { "iconType": "GAME_DRIVE", "time": null, "description": "Game drive (afternoon)" },
+                { "iconType": "GENERIC", "time": null, "description": "Sundowner drinks" }
+              ],
+              "overnightStay": "Sayari Camp",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/asilia-day3.jpg"
+            },
+            {
+              "dayNumber": 4,
+              "dayTitle": "Serengeti Experience",
+              "locationName": "Serengeti Experience",
+              "activities": [
+                { "iconType": "GAME_DRIVE", "time": null, "description": "Early morning game drive" },
+                { "iconType": "PHOTO", "time": null, "description": "Photography session" },
+                { "iconType": "CULTURE", "time": null, "description": "Visit to local Maasai village" }
+              ],
+              "overnightStay": "Sayari Camp",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/asilia-day4.jpg"
+            },
+            {
+              "dayNumber": 5,
+              "dayTitle": "Ngorongoro & Departure",
+              "locationName": "Ngorongoro & Departure",
+              "activities": [
+                { "iconType": "VEHICLE", "time": "06:30 AM", "description": "Ngorongoro Crater tour" },
+                { "iconType": "MEAL", "time": null, "description": "Hot lunch at lodge" },
+                { "iconType": "VEHICLE", "time": null, "description": "Drive to Arusha" },
+                { "iconType": "FLIGHT", "time": null, "description": "Drop-off at airport" }
+              ],
+              "overnightStay": "N/A",
+              "meals": ["Breakfast", "Lunch"],
+              "dayImageUrl": "https://example.com/asilia-day5.jpg"
+            }
+          ],
+          "transportation": {
+            "vehicleType": "4x4 Land Cruiser + Domestic Flight",
+            "maxPassengers": 4,
+            "features": ["Pop-up roof", "Luxury interior", "WiFi onboard"]
+          },
+          "guideInfo": {
+            "guideToTravelerRatio": "1:4",
+            "experienceYears": "15+ years",
+            "languages": ["English", "Swahili", "French"],
+            "certifications": ["Master Safari Guide", "Wildlife Photography"]
+          },
+          "accommodation": {
+            "properties": [
+              {
+                "propertyName": "Arusha Serena Hotel",
+                "propertyType": "Luxury Hotel",
+                "starRating": 5,
+                "photoUrls": [
+                  "https://example.com/serena-1.jpg",
+                  "https://example.com/serena-2.jpg"
+                ],
+                "nightNumber": 1,
+                "amenities": ["Swimming pool", "Spa", "Business center", "Gardens"],
+                "locationDescription": "Located in the heart of Arusha with mountain views"
+              },
+              {
+                "propertyName": "Sayari Camp",
+                "propertyType": "Luxury Tented Camp",
+                "starRating": 5,
+                "photoUrls": [
+                  "https://example.com/sayari-1.jpg",
+                  "https://example.com/sayari-2.jpg",
+                  "https://example.com/sayari-3.jpg"
+                ],
+                "nightNumber": 3,
+                "amenities": ["Infinity pool", "Gourmet dining", "Wine cellar", "Spa"],
+                "locationDescription": "Exclusive camp in northern Serengeti with Mara River views"
+              }
+            ]
+          },
+          "safetyHealth": {
+            "insuranceType": "Premium Travel Insurance",
+            "medicalEvacuation": true,
+            "supportAvailability": "24/7 Concierge",
+            "flyingDoctors": true
+          },
+          "departureDates": [
+            { "date": "12 Aug 2025", "isAvailable": true, "spotsLeft": 5, "isGuaranteed": true },
+            { "date": "19 Aug 2025", "isAvailable": true, "spotsLeft": 8, "isGuaranteed": true }
+          ],
+          "cancellationPolicy": {
+            "freeCancelDays": 21,
+            "refundPercent": 100,
+            "refundDeadlineDays": 14,
+            "noRefundAfterDays": 7
+          },
+          "sustainability": {
+            "impactLevel": "Outstanding",
+            "impactScore": 95,
+            "certifications": ["B Corp Certified", "Rainforest Alliance"],
+            "communityProjects": ["Local School Support", "Anti-Poaching Unit"]
+          },
+          "inclusions": [
+            { "category": "Park Fees", "items": ["All park entrance fees"], "iconType": "park" },
+            { "category": "Transport", "items": ["4x4 vehicle", "Domestic flight"], "iconType": "vehicle" },
+            { "category": "Meals", "items": ["All meals", "Premium beverages"], "iconType": "meal" }
+          ],
+          "exclusions": [
+            { "category": "International Flights", "items": ["Airfare to Tanzania"], "iconType": "flight" },
+            { "category": "Optional Activities", "items": ["Hot air balloon", "Spa treatments"], "iconType": "optional" }
+          ],
+          "isBestPrice": false,
+          "priceLockedHours": 72,
+          "hasHiddenFees": false
         },
-        "accommodation": {
-          "propertyName": "Sanctuary Serengeti Camp",
-          "propertyType": "Luxury Tent",
-          "starRating": 5,
-          "photoUrls": ["https://example.com/camp1.jpg","https://example.com/camp2.jpg","https://example.com/camp3.jpg"]
-        },
-        "safetyHealth": {
-          "insuranceType": "Allianz Comprehensive + Medical Evacuation",
-          "medicalEvacuation": true,
-          "supportAvailability": "24/7 support",
-          "flyingDoctors": true
-        },
-        "departureDates": [
-          { "date": "Aug 12", "isAvailable": true, "isGuaranteed": true },
-          { "date": "Aug 19", "isAvailable": true, "isGuaranteed": true },
-          { "date": "Sep 2", "isAvailable": true, "isGuaranteed": true }
-        ],
-        "cancellationPolicy": {
-          "freeCancelDays": 14,
-          "refundPercent": 50,
-          "refundDeadlineDays": 7,
-          "noRefundAfterDays": 0
-        },
-        "sustainability": {
-          "impactLevel": "High Impact",
-          "impactScore": 90,
-          "certifications": ["Fair Trade Tourism Certified"],
-          "communityProjects": ["Local school support","Wildlife conservation"]
-        },
-        "isBestPrice": true,
-        "priceLockedHours": 48,
-        "hasHiddenFees": false
-      },
-      {
-        "id": "tour_serengeti_asilia",
-        "operatorId": "op_asilia_africa",
-        "operatorName": "Asilia Africa",
-        "operatorLogoUrl": null,
-        "operatorRating": 4.7,
-        "operatorReviewCount": 98,
-        "isVerified": true,
-        "licenseNumber": "TALA-0015",
-        "establishedYear": 2004,
-        "pricePerPerson": 2950.0,
-        "totalPrice": 5900.0,
-        "durationDays": 7,
-        "durationNights": 6,
-        "inclusionsCount": 16,
-        "exclusionsCount": 9,
-        "includedActivities": ["Game drives","Sunset safari","Bush breakfast","Cultural visit","Photography session"],
-        "itinerarySummary": "Same route",
-        "transportation": {
-          "vehicleType": "4x4 Safari Vehicle",
-          "maxPassengers": 8,
-          "features": ["Roof hatch","Charging ports"]
-        },
-        "guideInfo": {
-          "guideToTravelerRatio": "1:8",
-          "experienceYears": "5-10 years",
-          "languages": ["EN"],
-          "certifications": ["Naturalists"]
-        },
-        "accommodation": {
-          "propertyName": "Serengeti Pioneer Camp",
-          "propertyType": "Comfort Lodge",
-          "starRating": 4,
-          "photoUrls": ["https://example.com/lodge1.jpg","https://example.com/lodge2.jpg"]
-        },
-        "safetyHealth": {
-          "insuranceType": "Standard Travel Insurance",
-          "medicalEvacuation": false,
-          "supportAvailability": "Office hours support",
-          "flyingDoctors": false
-        },
-        "departureDates": [
-          { "date": "Aug 12", "isAvailable": true, "isGuaranteed": false },
-          { "date": "Aug 19", "isAvailable": true, "spotsLeft": 2, "isGuaranteed": false },
-          { "date": "Sep 2", "isAvailable": true, "isGuaranteed": false }
-        ],
-        "cancellationPolicy": {
-          "freeCancelDays": 7,
-          "refundPercent": 0,
-          "refundDeadlineDays": 7,
-          "noRefundAfterDays": 7
-        },
-        "sustainability": {
-          "impactLevel": "Good",
-          "impactScore": 70,
-          "certifications": [],
-          "communityProjects": ["Community partner projects"]
-        },
-        "isBestPrice": false,
-        "priceLockedHours": 48,
-        "hasHiddenFees": false
-      }
-    ]
-  }
-]
-
+        {
+          "id": "tour-go2africa-serengeti",
+          "operatorId": "go2-africa",
+          "operatorName": "Go2Africa",
+          "operatorLogoUrl": "https://example.com/go2africa-logo.png",
+          "operatorRating": 4.7,
+          "operatorReviewCount": 156,
+          "isVerified": true,
+          "licenseNumber": "TTA-003",
+          "establishedYear": 1998,
+          "pricePerPerson": 2890.0,
+          "totalPrice": 5780.0,
+          "durationDays": 5,
+          "durationNights": 4,
+          "inclusionsCount": 20,
+          "exclusionsCount": 9,
+          "includedActivities": [
+            "All park fees",
+            "4x4 Safari vehicle",
+            "Professional guide",
+            "Drinking water",
+            "All meals as specified"
+          ],
+          "itinerarySummary": "Arusha → Lake Manyara → Serengeti → Ngorongoro",
+          "dayByDayItinerary": [
+            {
+              "dayNumber": 1,
+              "dayTitle": "Arrival & Arusha",
+              "locationName": "Arrival in Arusha",
+              "activities": [
+                { "iconType": "FLIGHT", "time": null, "description": "Airport pickup" },
+                { "iconType": "GENERIC", "time": null, "description": "Welcome dinner" }
+              ],
+              "overnightStay": "Mount Meru Hotel",
+              "meals": ["Dinner"],
+              "dayImageUrl": "https://example.com/go2-day1.jpg"
+            },
+            {
+              "dayNumber": 2,
+              "dayTitle": "Lake Manyara",
+              "locationName": "Lake Manyara National Park",
+              "activities": [
+                { "iconType": "VEHICLE", "time": "08:00 AM", "description": "Drive to Lake Manyara" },
+                { "iconType": "GAME_DRIVE", "time": null, "description": "Tree-climbing lions search" },
+                { "iconType": "MEAL", "time": null, "description": "Lunch at lodge" }
+              ],
+              "overnightStay": "Manyara Tree Lodge",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/go2-day2.jpg"
+            },
+            {
+              "dayNumber": 3,
+              "dayTitle": "Serengeti National Park",
+              "locationName": "Serengeti National Park",
+              "activities": [
+                { "iconType": "VEHICLE", "time": "07:00 AM", "description": "Drive to Serengeti" },
+                { "iconType": "GAME_DRIVE", "time": null, "description": "Full day game drive" },
+                { "iconType": "MEAL", "time": null, "description": "Bush lunch" }
+              ],
+              "overnightStay": "Serengeti Pioneer Camp",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/go2-day3.jpg"
+            },
+            {
+              "dayNumber": 4,
+              "dayTitle": "Serengeti Experience",
+              "locationName": "Serengeti Experience",
+              "activities": [
+                { "iconType": "GAME_DRIVE", "time": null, "description": "Sunrise game drive" },
+                { "iconType": "CULTURE", "time": null, "description": "Maasai village visit" },
+                { "iconType": "PHOTO", "time": null, "description": "Sunset photography" }
+              ],
+              "overnightStay": "Serengeti Pioneer Camp",
+              "meals": ["Breakfast", "Lunch", "Dinner"],
+              "dayImageUrl": "https://example.com/go2-day4.jpg"
+            },
+            {
+              "dayNumber": 5,
+              "dayTitle": "Ngorongoro & Departure",
+              "locationName": "Ngorongoro & Departure",
+              "activities": [
+                { "iconType": "VEHICLE", "time": "06:00 AM", "description": "Ngorongoro Crater descent" },
+                { "iconType": "MEAL", "time": null, "description": "Crater rim lunch" },
+                { "iconType": "VEHICLE", "time": null, "description": "Transfer to airport" }
+              ],
+              "overnightStay": "N/A",
+              "meals": ["Breakfast", "Lunch"],
+              "dayImageUrl": "https://example.com/go2-day5.jpg"
+            }
+          ],
+          "transportation": {
+            "vehicleType": "4x4 Land Cruiser",
+            "maxPassengers": 6,
+            "features": ["Pop-up roof", "Cooler box", "Binoculars"]
+          },
+          "guideInfo": {
+            "guideToTravelerRatio": "1:6",
+            "experienceYears": "8-12 years",
+            "languages": ["English", "Swahili", "German"],
+            "certifications": ["Professional Safari Guide"]
+          },
+          "accommodation": {
+            "properties": [
+              {
+                "propertyName": "Mount Meru Hotel",
+                "propertyType": "Hotel",
+                "starRating": 4,
+                "photoUrls": [
+                  "https://example.com/meru-1.jpg"
+                ],
+                "nightNumber": 1,
+                "amenities": ["Swimming pool", "Restaurant", "Bar"],
+                "locationDescription": "Located at the foothills of Mount Meru"
+              },
+              {
+                "propertyName": "Serengeti Pioneer Camp",
+                "propertyType": "Tented Camp",
+                "starRating": 5,
+                "photoUrls": [
+                  "https://example.com/pioneer-1.jpg",
+                  "https://example.com/pioneer-2.jpg"
+                ],
+                "nightNumber": 3,
+                "amenities": ["Luxury tents", "Dining tent", "Sun deck"],
+                "locationDescription": "Elevated position in southern Serengeti"
+              }
+            ]
+          },
+          "safetyHealth": {
+            "insuranceType": "Standard Travel Insurance",
+            "medicalEvacuation": true,
+            "supportAvailability": "24/7 Support",
+            "flyingDoctors": false
+          },
+          "departureDates": [
+            { "date": "15 Aug 2025", "isAvailable": true, "spotsLeft": 4, "isGuaranteed": true },
+            { "date": "22 Aug 2025", "isAvailable": true, "spotsLeft": 7, "isGuaranteed": false }
+          ],
+          "cancellationPolicy": {
+            "freeCancelDays": 10,
+            "refundPercent": 80,
+            "refundDeadlineDays": 5,
+            "noRefundAfterDays": 2
+          },
+          "sustainability": {
+            "impactLevel": "Very Good",
+            "impactScore": 85,
+            "certifications": ["Eco-Tourism Certified"],
+            "communityProjects": ["Water Well Project", "Women's Cooperative"]
+          },
+          "inclusions": [
+            { "category": "Park Fees", "items": ["All park fees"], "iconType": "park" },
+            { "category": "Transport", "items": ["4x4 vehicle", "Airport transfers"], "iconType": "vehicle" },
+            { "category": "Meals", "items": ["All meals"], "iconType": "meal" }
+          ],
+          "exclusions": [
+            { "category": "International Flights", "items": ["Airfare"], "iconType": "flight" },
+            { "category": "Personal Expenses", "items": ["Tips", "Souvenirs"], "iconType": "personal" }
+          ],
+          "isBestPrice": false,
+          "priceLockedHours": 48,
+          "hasHiddenFees": false
+        }
+      ]
+    }
+  ]
+}
