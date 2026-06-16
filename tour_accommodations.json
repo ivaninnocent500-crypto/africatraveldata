@@ -1,0 +1,98 @@
+{
+  "accommodations": [
+    {
+      "propertyName": "Arusha Coffee Lodge",
+      "propertyType": "Luxury Lodge",
+      "starRating": 5,
+      "photoUrls": [
+        "https://example.com/coffee-lodge-1.jpg",
+        "https://example.com/coffee-lodge-2.jpg",
+        "https://example.com/coffee-lodge-3.jpg"
+      ],
+      "nightNumber": 1,
+      "amenities": [
+        "Swimming pool",
+        "Spa & wellness center",
+        "Free WiFi",
+        "Restaurant & bar",
+        "Coffee plantation tours"
+      ],
+      "locationDescription": "Nestled within a coffee plantation on the outskirts of Arusha, offering serene garden views and luxury amenities."
+    },
+    {
+      "propertyName": "Tarangire Safari Lodge",
+      "propertyType": "Tented Camp",
+      "starRating": 4,
+      "photoUrls": [
+        "https://example.com/tarangire-lodge-1.jpg",
+        "https://example.com/tarangire-lodge-2.jpg"
+      ],
+      "nightNumber": 2,
+      "amenities": [
+        "En-suite bathroom",
+        "Private veranda",
+        "Solar power",
+        "Dining tent",
+        "Campfire area"
+      ],
+      "locationDescription": "Elevated position overlooking the Tarangire River with stunning views of wildlife at the waterhole."
+    },
+    {
+      "propertyName": "Serengeti Heritage Camp",
+      "propertyType": "Mobile Camp",
+      "starRating": 4,
+      "photoUrls": [
+        "https://example.com/serengeti-heritage-1.jpg",
+        "https://example.com/serengeti-heritage-2.jpg",
+        "https://example.com/serengeti-heritage-3.jpg",
+        "https://example.com/serengeti-heritage-4.jpg"
+      ],
+      "nightNumber": 3,
+      "amenities": [
+        "Luxury canvas tents",
+        "King-size beds",
+        "En-suite bathroom with hot shower",
+        "Private butler service",
+        "Sunrise breakfast"
+      ],
+      "locationDescription": "Strategically located in the heart of the Serengeti, following the Great Migration path for optimal wildlife viewing."
+    },
+    {
+      "propertyName": "Sayari Camp",
+      "propertyType": "Luxury Tented Camp",
+      "starRating": 5,
+      "photoUrls": [
+        "https://example.com/sayari-1.jpg",
+        "https://example.com/sayari-2.jpg"
+      ],
+      "nightNumber": 4,
+      "amenities": [
+        "Infinity pool",
+        "Gourmet dining",
+        "Wine cellar",
+        "Spa treatments",
+        "Photography hide"
+      ],
+      "locationDescription": "Exclusive camp in the northern Serengeti with panoramic views of the Mara River crossing points."
+    },
+    {
+      "propertyName": "Ngorongoro Serena Safari Lodge",
+      "propertyType": "Luxury Lodge",
+      "starRating": 5,
+      "photoUrls": [
+        "https://example.com/ngorongoro-serena-1.jpg",
+        "https://example.com/ngorongoro-serena-2.jpg",
+        "https://example.com/ngorongoro-serena-3.jpg"
+      ],
+      "nightNumber": 5,
+      "amenities": [
+        "Crater rim location",
+        "Traditional architecture",
+        "Observation deck",
+        "Cultural performances",
+        "Gift shop"
+      ],
+      "locationDescription": "Perched on the rim of Ngorongoro Crater offering breathtaking views into the world's largest inactive volcanic caldera."
+    }
+  ]
+}
