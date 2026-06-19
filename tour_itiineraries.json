@@ -1,121 +1,233 @@
 [
   {
     "tourId": "tour-easy-travel-serengeti",
-    "properties": [
+    "days": [
       {
-        "propertyName": "Arusha Coffee Lodge",
-        "propertyType": "Luxury Lodge",
-        "starRating": 5,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-          "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+        "dayNumber": 1,
+        "dayTitle": "Arrival & Arusha",
+        "locationName": "Arrival in Arusha",
+        "activities": [
+          { "iconType": "FLIGHT", "time": null, "description": "Airport pickup by Easy Travel representative" },
+          { "iconType": "VEHICLE", "time": null, "description": "Transfer to lodge (approx. 30 mins)" },
+          { "iconType": "LODGE", "time": "07:00 PM", "description": "Welcome dinner and safari briefing" }
         ],
-        "nightNumber": 1,
-        "amenities": ["Swimming pool", "Spa", "Free WiFi", "Restaurant", "Gardens"],
-        "locationDescription": "Nestled in a working coffee plantation on the outskirts of Arusha, framed by Mount Meru."
+        "overnightStay": "Arusha Coffee Lodge",
+        "meals": ["Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800"
       },
       {
-        "propertyName": "Tarangire Safari Lodge",
-        "propertyType": "Tented Camp",
-        "starRating": 4,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1518602164578-cd0074062767?w=800"
+        "dayNumber": 2,
+        "dayTitle": "Tarangire National Park",
+        "locationName": "Tarangire National Park",
+        "activities": [
+          { "iconType": "VEHICLE", "time": "07:30 AM", "description": "Depart Arusha for Tarangire National Park" },
+          { "iconType": "GAME_DRIVE", "time": "10:00 AM", "description": "Morning game drive — famous for elephant herds and baobab trees" },
+          { "iconType": "MEAL", "time": "01:00 PM", "description": "Bush picnic lunch in the park" },
+          { "iconType": "GAME_DRIVE", "time": "03:00 PM", "description": "Afternoon game drive along the Tarangire River" },
+          { "iconType": "LODGE", "time": "06:30 PM", "description": "Check in, sundowner drinks on the veranda" }
         ],
-        "nightNumber": 2,
-        "amenities": ["En-suite bathroom", "Private veranda", "Solar power", "Restaurant"],
-        "locationDescription": "Elevated position overlooking the Tarangire River valley, frequent elephant sightings from the lodge."
+        "overnightStay": "Tarangire Safari Lodge",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
       },
       {
-        "propertyName": "Serengeti Heritage Camp",
-        "propertyType": "Mobile Camp",
-        "starRating": 4,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800",
-          "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800"
+        "dayNumber": 3,
+        "dayTitle": "Serengeti National Park",
+        "locationName": "Central Serengeti",
+        "activities": [
+          { "iconType": "VEHICLE", "time": "07:00 AM", "description": "Drive to the Serengeti — approx. 4 hours with en-route game viewing" },
+          { "iconType": "GAME_DRIVE", "time": "11:00 AM", "description": "En-route game viewing through the Ngorongoro Conservation Area" },
+          { "iconType": "MEAL", "time": "01:00 PM", "description": "Picnic lunch inside the park" },
+          { "iconType": "GAME_DRIVE", "time": "03:30 PM", "description": "Afternoon game drive searching for the Big Five" },
+          { "iconType": "LODGE", "time": "06:30 PM", "description": "Arrive at Serengeti Heritage Camp, dinner under the stars" }
         ],
-        "nightNumber": 3,
-        "amenities": ["Luxury canvas tents", "King-size beds", "En-suite bathroom", "Campfire lounge"],
-        "locationDescription": "Heart of the Serengeti, repositioned seasonally to follow the Great Migration."
+        "overnightStay": "Serengeti Heritage Camp",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=800"
+      },
+      {
+        "dayNumber": 4,
+        "dayTitle": "Full Serengeti Day",
+        "locationName": "Serengeti Plains",
+        "activities": [
+          { "iconType": "GAME_DRIVE", "time": "06:00 AM", "description": "Early morning game drive — best chance for predator activity" },
+          { "iconType": "MEAL", "time": "08:30 AM", "description": "Bush breakfast in the field" },
+          { "iconType": "GAME_DRIVE", "time": "10:00 AM", "description": "Mid-morning game drive — wildebeest migration corridor (seasonal)" },
+          { "iconType": "CULTURE", "time": "02:00 PM", "description": "Cultural visit to a traditional Maasai Boma village" },
+          { "iconType": "BALLOON", "time": null, "description": "Optional: Hot air balloon safari over the Serengeti (extra cost — $550)" },
+          { "iconType": "MEAL", "time": "07:00 PM", "description": "Campfire dinner with guides" }
+        ],
+        "overnightStay": "Serengeti Heritage Camp",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800"
+      },
+      {
+        "dayNumber": 5,
+        "dayTitle": "Ngorongoro Crater & Departure",
+        "locationName": "Ngorongoro Crater",
+        "activities": [
+          { "iconType": "VEHICLE", "time": "06:30 AM", "description": "Early depart from Serengeti to Ngorongoro Crater rim" },
+          { "iconType": "GAME_DRIVE", "time": "09:00 AM", "description": "Full crater floor game drive — highest density of wildlife in Africa" },
+          { "iconType": "MEAL", "time": "12:30 PM", "description": "Picnic lunch at Hippo Pool inside the crater" },
+          { "iconType": "VEHICLE", "time": "02:30 PM", "description": "Ascend crater rim, drive to Arusha" },
+          { "iconType": "FLIGHT", "time": "07:00 PM", "description": "Drop-off at Kilimanjaro International Airport" }
+        ],
+        "overnightStay": "N/A",
+        "meals": ["Breakfast", "Lunch"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?w=800"
       }
     ]
   },
   {
     "tourId": "tour-asilia-serengeti",
-    "properties": [
+    "days": [
       {
-        "propertyName": "Arusha Serena Hotel",
-        "propertyType": "Luxury Hotel",
-        "starRating": 5,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800"
+        "dayNumber": 1,
+        "dayTitle": "Arrival & Arusha",
+        "locationName": "Arrival in Arusha",
+        "activities": [
+          { "iconType": "FLIGHT", "time": null, "description": "Private airport pickup by Asilia Africa representative" },
+          { "iconType": "VEHICLE", "time": null, "description": "Transfer to Arusha Serena Hotel" },
+          { "iconType": "LODGE", "time": "07:30 PM", "description": "Welcome dinner and pre-safari briefing with your guide" }
         ],
-        "nightNumber": 1,
-        "amenities": ["Swimming pool", "Spa", "Business center", "Botanical gardens", "Restaurant"],
-        "locationDescription": "Set on the shores of Lake Duluti, in landscaped gardens at the foot of Mount Meru."
+        "overnightStay": "Arusha Serena Hotel",
+        "meals": ["Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800"
       },
       {
-        "propertyName": "Oliver's Camp Tarangire",
-        "propertyType": "Tented Camp",
-        "starRating": 5,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1518602164578-cd0074062767?w=800"
+        "dayNumber": 2,
+        "dayTitle": "Tarangire via Oliver's Camp",
+        "locationName": "Tarangire National Park",
+        "activities": [
+          { "iconType": "VEHICLE", "time": "07:00 AM", "description": "Private transfer to Tarangire National Park" },
+          { "iconType": "GAME_DRIVE", "time": "10:00 AM", "description": "Full-day game drive with master safari guide" },
+          { "iconType": "MEAL", "time": "01:00 PM", "description": "Hot lunch served at Oliver's Camp" },
+          { "iconType": "GAME_DRIVE", "time": "04:00 PM", "description": "Late afternoon walking safari led by expert naturalist" }
         ],
-        "nightNumber": 2,
-        "amenities": ["Private veranda", "En-suite bathroom", "Guided walking safaris", "Bush dinners"],
-        "locationDescription": "Remote, exclusive camp in southern Tarangire known for walking safaris and big tuskers."
+        "overnightStay": "Oliver's Camp Tarangire",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
       },
       {
-        "propertyName": "Sayari Camp",
-        "propertyType": "Luxury Tented Camp",
-        "starRating": 5,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800",
-          "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800",
-          "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800"
+        "dayNumber": 3,
+        "dayTitle": "Fly to Serengeti — Sayari Camp",
+        "locationName": "Northern Serengeti",
+        "activities": [
+          { "iconType": "MEAL", "time": "06:30 AM", "description": "Early breakfast before departure" },
+          { "iconType": "FLIGHT", "time": "07:30 AM", "description": "Scheduled domestic flight to Serengeti (Kogatende airstrip)" },
+          { "iconType": "VEHICLE", "time": "09:30 AM", "description": "Transfer to Sayari Camp — spectacular Mara River views" },
+          { "iconType": "GAME_DRIVE", "time": "03:00 PM", "description": "Afternoon game drive — wildebeest crossings (Jul–Oct)" },
+          { "iconType": "MEAL", "time": "06:30 PM", "description": "Sundowner drinks overlooking the plains" }
         ],
-        "nightNumber": 3,
-        "amenities": ["Infinity pool", "Gourmet dining", "Wine cellar", "Spa", "Mara River views"],
-        "locationDescription": "Exclusive camp in the far north of the Serengeti overlooking the Mara River."
+        "overnightStay": "Sayari Camp",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=800"
+      },
+      {
+        "dayNumber": 4,
+        "dayTitle": "Sayari & Mara River Experience",
+        "locationName": "Northern Serengeti — Mara River",
+        "activities": [
+          { "iconType": "GAME_DRIVE", "time": "05:45 AM", "description": "Sunrise game drive — lions, leopards, and cheetahs most active" },
+          { "iconType": "MEAL", "time": "09:00 AM", "description": "Bush brunch in the field" },
+          { "iconType": "PHOTO", "time": "11:00 AM", "description": "Wildlife photography session with professional photographer" },
+          { "iconType": "CULTURE", "time": "02:30 PM", "description": "Guided visit to local Maasai village and cultural exchange" },
+          { "iconType": "MEAL", "time": "07:00 PM", "description": "Gourmet dinner at Sayari Camp with wine selection" }
+        ],
+        "overnightStay": "Sayari Camp",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800"
+      },
+      {
+        "dayNumber": 5,
+        "dayTitle": "Ngorongoro & Departure",
+        "locationName": "Ngorongoro Conservation Area",
+        "activities": [
+          { "iconType": "FLIGHT", "time": "07:00 AM", "description": "Charter flight from Serengeti to Arusha" },
+          { "iconType": "VEHICLE", "time": "08:30 AM", "description": "Transfer to Ngorongoro Crater rim lodge for breakfast" },
+          { "iconType": "GAME_DRIVE", "time": "09:30 AM", "description": "Crater floor game drive with expert naturalist" },
+          { "iconType": "MEAL", "time": "01:00 PM", "description": "Hot lunch at crater rim lodge" },
+          { "iconType": "FLIGHT", "time": "06:00 PM", "description": "Drop-off at Kilimanjaro Airport — end of safari" }
+        ],
+        "overnightStay": "N/A",
+        "meals": ["Breakfast", "Lunch"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?w=800"
       }
     ]
   },
   {
     "tourId": "tour-go2africa-serengeti",
-    "properties": [
+    "days": [
       {
-        "propertyName": "Mount Meru Hotel",
-        "propertyType": "Hotel",
-        "starRating": 4,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+        "dayNumber": 1,
+        "dayTitle": "Arrival & Arusha",
+        "locationName": "Arrival in Arusha",
+        "activities": [
+          { "iconType": "FLIGHT", "time": null, "description": "Airport welcome by Go2Africa representative" },
+          { "iconType": "VEHICLE", "time": null, "description": "Transfer to Mount Meru Hotel" },
+          { "iconType": "MEAL", "time": "07:00 PM", "description": "Welcome dinner — introduction to Tanzania cuisine" }
         ],
-        "nightNumber": 1,
-        "amenities": ["Swimming pool", "Restaurant", "Bar", "Free WiFi"],
-        "locationDescription": "Located at the foothills of Mount Meru, a short drive from Arusha town center."
+        "overnightStay": "Mount Meru Hotel",
+        "meals": ["Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800"
       },
       {
-        "propertyName": "Manyara Tree Lodge",
-        "propertyType": "Tree Lodge",
-        "starRating": 4,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1518602164578-cd0074062767?w=800"
+        "dayNumber": 2,
+        "dayTitle": "Lake Manyara National Park",
+        "locationName": "Lake Manyara National Park",
+        "activities": [
+          { "iconType": "VEHICLE", "time": "08:00 AM", "description": "Depart Arusha for Lake Manyara — approx. 2 hours" },
+          { "iconType": "GAME_DRIVE", "time": "10:30 AM", "description": "Morning game drive — search for tree-climbing lions and flamingos" },
+          { "iconType": "MEAL", "time": "01:00 PM", "description": "Lunch at Manyara Tree Lodge" },
+          { "iconType": "GAME_DRIVE", "time": "03:30 PM", "description": "Afternoon game drive along the lakeside" },
+          { "iconType": "LODGE", "time": "06:30 PM", "description": "Sundowner at the lodge with panoramic lake views" }
         ],
-        "nightNumber": 2,
-        "amenities": ["Elevated tree-house suites", "En-suite bathroom", "Lake views"],
-        "locationDescription": "Built among mahogany trees with sweeping views over Lake Manyara."
+        "overnightStay": "Manyara Tree Lodge",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
       },
       {
-        "propertyName": "Serengeti Pioneer Camp",
-        "propertyType": "Tented Camp",
-        "starRating": 5,
-        "photoUrls": [
-          "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800",
-          "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800"
+        "dayNumber": 3,
+        "dayTitle": "Serengeti National Park",
+        "locationName": "Southern Serengeti",
+        "activities": [
+          { "iconType": "VEHICLE", "time": "07:00 AM", "description": "Drive to the Serengeti through the Ngorongoro highlands" },
+          { "iconType": "GAME_DRIVE", "time": "11:00 AM", "description": "Full day game drive — entering the Serengeti plains" },
+          { "iconType": "MEAL", "time": "01:00 PM", "description": "Bush picnic lunch in a scenic location" },
+          { "iconType": "GAME_DRIVE", "time": "03:30 PM", "description": "Extended afternoon game drive to the camp" }
         ],
-        "nightNumber": 3,
-        "amenities": ["Luxury tents", "Dining tent", "Sun deck", "Campfire lounge"],
-        "locationDescription": "Elevated rocky outcrop position in southern Serengeti with panoramic plains views."
+        "overnightStay": "Serengeti Pioneer Camp",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=800"
+      },
+      {
+        "dayNumber": 4,
+        "dayTitle": "Full Serengeti Experience",
+        "locationName": "Serengeti Central Plains",
+        "activities": [
+          { "iconType": "GAME_DRIVE", "time": "06:00 AM", "description": "Sunrise game drive — best light for photography" },
+          { "iconType": "MEAL", "time": "09:00 AM", "description": "Cooked breakfast back at camp" },
+          { "iconType": "CULTURE", "time": "02:00 PM", "description": "Guided Maasai village visit and craft market" },
+          { "iconType": "PHOTO", "time": "05:00 PM", "description": "Golden-hour sunset photography session on the plains" }
+        ],
+        "overnightStay": "Serengeti Pioneer Camp",
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800"
+      },
+      {
+        "dayNumber": 5,
+        "dayTitle": "Ngorongoro Crater & Departure",
+        "locationName": "Ngorongoro Crater",
+        "activities": [
+          { "iconType": "VEHICLE", "time": "06:00 AM", "description": "Early morning depart for Ngorongoro Crater" },
+          { "iconType": "GAME_DRIVE", "time": "08:30 AM", "description": "Descent into the crater — world's largest intact volcanic caldera" },
+          { "iconType": "MEAL", "time": "12:00 PM", "description": "Crater rim picnic lunch" },
+          { "iconType": "VEHICLE", "time": "01:30 PM", "description": "Ascend crater rim and transfer to Arusha airport" },
+          { "iconType": "FLIGHT", "time": "05:00 PM", "description": "Airport transfer — end of safari" }
+        ],
+        "overnightStay": "N/A",
+        "meals": ["Breakfast", "Lunch"],
+        "dayImageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?w=800"
       }
     ]
   }
