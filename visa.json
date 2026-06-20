@@ -9,7 +9,7 @@
     "processingDays": 0,
     "cost": 100.0,
     "maxStayDays": 90,
-    "notes": "Visa on arrival or e-visa available. US passport holders pay USD 100 (UK holders pay USD 50). E-visa recommended for Kilimanjaro, Dar es Salaam, and Zanzibar airports to avoid queues. Zanzibar requires mandatory ZIC travel insurance from Oct 2024."
+    "notes": "Visa on arrival or e-visa available. US passport holders pay USD 100 (multiple-entry, 12 months validity) since US citizens are not eligible for the cheaper Ordinary Visa. UK/EU holders pay USD 50. E-visa recommended for Kilimanjaro, Dar es Salaam, and Zanzibar airports to avoid queues. Zanzibar requires mandatory ZIC travel insurance from Oct 2024. Pay only via the official immigration.go.tz / visa.immigration.go.tz portal — third-party sites overcharge."
   },
   {
     "country": "Tanzania",
@@ -68,6 +68,8 @@
   },
 
   // ── KENYA ─────────────────────────────────────────────────────────────────────
+  // CORRECTED: ETA fee was listed as $32.50 — official fee per etakenya.go.ke is $30.
+  // Kenya no longer offers visa-on-arrival or eVisa of any kind; ETA is mandatory for all.
   {
     "country": "Kenya",
     "nationality": "US",
@@ -75,9 +77,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.etakenya.go.ke/en",
     "processingDays": 3,
-    "cost": 32.50,
+    "cost": 30.0,
     "maxStayDays": 90,
-    "notes": "Electronic Travel Authorisation (ETA) required. Valid 90 days from issuance; multi-entry within EAC partner states (Burundi, DRC, Rwanda, South Sudan, Tanzania, Uganda) without breaking validity. Must apply online before travel."
+    "notes": "Electronic Travel Authorisation (ETA) required for every traveler, including infants — no visa on arrival exists. Standard single-entry fee is USD 30 (official etakenya.go.ke price; only use this domain, many lookalike sites overcharge). A 5-year multiple-entry ETA is available to US nationals for USD 185. Valid 90 days from approval date (not arrival). East Africa Tourist Visa (USD 100) covers Kenya, Uganda, and Rwanda on one application."
   },
   {
     "country": "Kenya",
@@ -86,9 +88,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.etakenya.go.ke/en",
     "processingDays": 3,
-    "cost": 32.50,
+    "cost": 30.0,
     "maxStayDays": 90,
-    "notes": "Electronic Travel Authorisation (ETA) required. Apply online before departure. Single-entry unless travelling within EAC partner states."
+    "notes": "Electronic Travel Authorisation (ETA) required; no visa on arrival. USD 30 standard fee via the official etakenya.go.ke portal only. Apply online before departure — airlines may deny boarding without an approved ETA."
   },
   {
     "country": "Kenya",
@@ -97,9 +99,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.etakenya.go.ke/en",
     "processingDays": 3,
-    "cost": 32.50,
+    "cost": 30.0,
     "maxStayDays": 90,
-    "notes": "ETA required for German nationals. Apply online before travel."
+    "notes": "ETA required for German nationals. USD 30. Apply online before travel via the official portal only."
   },
   {
     "country": "Kenya",
@@ -108,9 +110,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.etakenya.go.ke/en",
     "processingDays": 3,
-    "cost": 32.50,
+    "cost": 30.0,
     "maxStayDays": 90,
-    "notes": "ETA required for Chinese nationals. Apply online before travel."
+    "notes": "ETA required for Chinese nationals. USD 30. Apply online before travel."
   },
   {
     "country": "Kenya",
@@ -119,9 +121,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.etakenya.go.ke/en",
     "processingDays": 3,
-    "cost": 32.50,
+    "cost": 30.0,
     "maxStayDays": 90,
-    "notes": "ETA required for Indian nationals. Apply online before travel."
+    "notes": "ETA required for Indian nationals. USD 30. Apply online before travel."
   },
 
   // ── SOUTH AFRICA ──────────────────────────────────────────────────────────────
@@ -145,7 +147,7 @@
     "processingDays": 0,
     "cost": null,
     "maxStayDays": 90,
-    "notes": "Visa-free for tourism stays up to 90 days."
+    "notes": "Visa-free for tourism stays up to 90 days. Passport must be valid for at least 30 days beyond departure date and have one blank page."
   },
   {
     "country": "South Africa",
@@ -169,30 +171,35 @@
     "maxStayDays": 90,
     "notes": "Australian nationals are visa-free for up to 90 days."
   },
+  // CORRECTED: China and India were marked VISA_REQUIRED / embassy-only ($45, 5–7 days).
+  // As of early 2026 South Africa rolled out a free ETA / eVisa for these nationalities
+  // at OR Tambo, Cape Town, and Lanseria airports — embassy visit no longer required for most.
   {
     "country": "South Africa",
     "nationality": "CN",
     "visaRequired": true,
-    "visaType": "VISA_REQUIRED",
-    "applyUrl": "https://www.vfsglobal.com/southafrica/china/",
-    "processingDays": 5,
-    "cost": 45.0,
-    "maxStayDays": null,
-    "notes": "Visa required. Apply through VFS Global or the relevant South African consulate in China. Processing typically 5 business days."
+    "visaType": "E_VISA",
+    "applyUrl": "https://eta.dha.gov.za/",
+    "processingDays": 3,
+    "cost": 0.0,
+    "maxStayDays": 90,
+    "notes": "As of 2026, Chinese nationals on ordinary passports can apply for a free Electronic Travel Authorisation (ETA) or eVisa online — no embassy visit needed if entering via OR Tambo, Cape Town, or Lanseria. If the eVisa platform is unreliable, applicants are advised to use the ETA route instead, especially for urgent trips. Other ports of entry may still require a traditional consular visa via VFS Global."
   },
   {
     "country": "South Africa",
     "nationality": "IN",
     "visaRequired": true,
-    "visaType": "VISA_REQUIRED",
-    "applyUrl": "https://www.vfsglobal.com/southafrica/india/",
-    "processingDays": 7,
-    "cost": 45.0,
-    "maxStayDays": null,
-    "notes": "Visa required for Indian nationals. Apply via VFS Global. Allow at least 2 weeks before travel."
+    "visaType": "E_VISA",
+    "applyUrl": "https://eta.dha.gov.za/",
+    "processingDays": 3,
+    "cost": 0.0,
+    "maxStayDays": 90,
+    "notes": "As of 2026, Indian nationals on ordinary passports can apply for a free ETA or eVisa online for entry via OR Tambo, Cape Town, or Lanseria — embassy visit no longer required for most applicants. If the eVisa portal is unreliable, use the ETA application instead for time-sensitive trips. Other ports of entry may still require a VFS Global consular visa."
   },
 
   // ── NAMIBIA ───────────────────────────────────────────────────────────────────
+  // CORRECTED: fee was listed as $23 — actual fee is NAD 1,600 (~USD 85), and the
+  // unverified "30-day exemption program" note has been removed.
   {
     "country": "Namibia",
     "nationality": "US",
@@ -200,9 +207,9 @@
     "visaType": "VISA_ON_ARRIVAL",
     "applyUrl": "https://eservices.mhaiss.gov.na",
     "processingDays": 0,
-    "cost": 23.0,
+    "cost": 85.0,
     "maxStayDays": 30,
-    "notes": "Since 1 April 2025, US nationals require a visa. Visa on arrival available at designated ports; online pre-application via eservices.mhaiss.gov.na strongly recommended. A 30-day exemption program exists under diplomatic reciprocity — confirm current status before travel. Manual on-arrival fee approx. NAD 400 (~USD 23)."
+    "notes": "Since 1 April 2025, Namibia ended reciprocal visa-free entry for US nationals (and 32 other countries) citing diplomatic reciprocity. Visa on arrival costs NAD 1,600 (~USD 85), payable at the airport/border or pre-applied online. Default stay is 30 days; up to 90 days per calendar year is possible at the immigration officer's discretion or via extension at Home Affairs in Windhoek."
   },
   {
     "country": "Namibia",
@@ -211,9 +218,9 @@
     "visaType": "VISA_ON_ARRIVAL",
     "applyUrl": "https://eservices.mhaiss.gov.na",
     "processingDays": 0,
-    "cost": 23.0,
+    "cost": 85.0,
     "maxStayDays": 30,
-    "notes": "Since 1 April 2025, UK nationals require a visa. Visa on arrival available at Windhoek Hosea Kutako International Airport and other designated ports. Online pre-application recommended."
+    "notes": "Since 1 April 2025, UK nationals require a visa (previously visa-free). Visa on arrival available at Hosea Kutako International Airport (Windhoek) and other designated ports for NAD 1,600 (~USD 85). Online pre-application via eservices.mhaiss.gov.na recommended. Default stay 30 days, extendable up to 90 days/year."
   },
   {
     "country": "Namibia",
@@ -222,9 +229,9 @@
     "visaType": "VISA_ON_ARRIVAL",
     "applyUrl": "https://eservices.mhaiss.gov.na",
     "processingDays": 0,
-    "cost": 23.0,
+    "cost": 85.0,
     "maxStayDays": 30,
-    "notes": "Since 1 April 2025, German nationals require a visa (previously visa-free). Online pre-application recommended."
+    "notes": "Since 1 April 2025, German nationals require a visa (previously visa-free, despite Germany being Namibia's largest tourism source market). NAD 1,600 (~USD 85) on arrival or via online pre-application. Default stay 30 days, extendable up to 90 days/year."
   },
   {
     "country": "Namibia",
@@ -235,7 +242,7 @@
     "processingDays": 0,
     "cost": null,
     "maxStayDays": 90,
-    "notes": "South African nationals remain visa-free for up to 90 days."
+    "notes": "South African nationals remain visa-free for up to 90 days under SADC arrangements."
   },
 
   // ── MOROCCO ───────────────────────────────────────────────────────────────────
@@ -410,7 +417,7 @@
     "processingDays": 3,
     "cost": 50.0,
     "maxStayDays": 90,
-    "notes": "E-visa mandatory; Uganda no longer offers visas on arrival for US nationals. Apply at the official portal only — many third-party sites charge fraudulent fees. Yellow Fever vaccination certificate required. East Africa Tourist Visa (USD 100) covers Uganda, Kenya, and Rwanda."
+    "notes": "E-visa mandatory; Uganda no longer offers visas on arrival for US nationals. Apply at the official portal only — many third-party sites charge fraudulent fees. Yellow Fever vaccination certificate required. East Africa Tourist Visa (USD 100) covers Uganda, Kenya, and Rwanda. Approval letter is valid 90 days from issuance — travel within that window or reapply."
   },
   {
     "country": "Uganda",
@@ -456,7 +463,7 @@
     "processingDays": 5,
     "cost": 25.0,
     "maxStayDays": 30,
-    "notes": "E-visa (single-entry USD 25, multiple-entry USD 60) or visa on arrival (USD 25 cash only in USD/EUR/GBP). E-visa valid 3 months from approval, stay up to 30 days. Fees increased slightly in April 2026 — verify at visa2egypt.gov.eg before applying."
+    "notes": "E-visa (single-entry USD 25, multiple-entry USD 60) or visa on arrival (USD 25 cash only in USD/EUR/GBP). E-visa valid 3 months from approval, stay up to 30 days. Verify current fees at visa2egypt.gov.eg before applying, as pricing has shifted in recent updates."
   },
   {
     "country": "Egypt",
@@ -493,6 +500,8 @@
   },
 
   // ── ETHIOPIA ──────────────────────────────────────────────────────────────────
+  // CORRECTED: fee was listed as $52 — current single-entry 30-day e-visa fee is USD 82
+  // (90-day single-entry is USD 202). The "reduced fee effective 2024" claim was inaccurate.
   {
     "country": "Ethiopia",
     "nationality": "US",
@@ -500,9 +509,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.evisa.gov.et/",
     "processingDays": 3,
-    "cost": 52.0,
+    "cost": 82.0,
     "maxStayDays": 30,
-    "notes": "E-visa available at evisa.gov.et. Tourist single-entry ~USD 52 (reduced fee effective 2024). Visa on arrival also available at Addis Ababa Bole International Airport. Single-entry valid 30 days."
+    "notes": "E-visa available at evisa.gov.et (official site only — many lookalike sites overcharge). Tourist single-entry 30-day visa is USD 82; a 90-day single-entry option costs USD 202. Visa on arrival also available at Addis Ababa Bole International Airport, payable in USD/EUR/GBP/CAD cash or card."
   },
   {
     "country": "Ethiopia",
@@ -511,9 +520,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.evisa.gov.et/",
     "processingDays": 3,
-    "cost": 52.0,
+    "cost": 82.0,
     "maxStayDays": 30,
-    "notes": "E-visa or visa on arrival at Addis Ababa Bole International Airport. Apply online for convenience."
+    "notes": "E-visa (USD 82 for 30 days, USD 202 for 90 days) or visa on arrival at Addis Ababa Bole International Airport. Apply online in advance for convenience."
   },
   {
     "country": "Ethiopia",
@@ -522,9 +531,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.evisa.gov.et/",
     "processingDays": 3,
-    "cost": 52.0,
+    "cost": 82.0,
     "maxStayDays": 30,
-    "notes": "E-visa available for German nationals. Visa on arrival at Addis Ababa Bole airport."
+    "notes": "E-visa available for German nationals (USD 82 / 30 days). Visa on arrival also available at Addis Ababa Bole airport."
   },
   {
     "country": "Ethiopia",
@@ -533,9 +542,9 @@
     "visaType": "E_VISA",
     "applyUrl": "https://www.evisa.gov.et/",
     "processingDays": 3,
-    "cost": 52.0,
+    "cost": 82.0,
     "maxStayDays": 30,
-    "notes": "E-visa available for Chinese nationals."
+    "notes": "E-visa available for Chinese nationals. USD 82 for 30 days."
   },
 
   // ── BOTSWANA ──────────────────────────────────────────────────────────────────
@@ -875,6 +884,114 @@
     "cost": null,
     "maxStayDays": 30,
     "notes": "UK nationals are visa-free for up to 30 days."
+  },
+
+  // ── MADAGASCAR ───────────────────────────────────────────────────────────────
+  // NEW: top safari/wildlife destination, missing from the original file.
+  {
+    "country": "Madagascar",
+    "nationality": "US",
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "applyUrl": "https://evisamada-mg.com/",
+    "processingDays": 0,
+    "cost": 37.0,
+    "maxStayDays": 30,
+    "notes": "Visa on arrival or e-visa for most nationalities. Stays up to 15 days are fee-free; a 30-day visa costs ~USD 37, a 90-day visa ~USD 55-67. Note: the 15-day e-visa fee tripled to ~USD 35 in Feb 2026, but visa-on-arrival and embassy fees were unaffected by that change. Yellow Fever certificate required only if arriving from an endemic country. Pay in Ariary, EUR, or USD."
+  },
+  {
+    "country": "Madagascar",
+    "nationality": "UK",
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "applyUrl": "https://evisamada-mg.com/",
+    "processingDays": 0,
+    "cost": 37.0,
+    "maxStayDays": 30,
+    "notes": "Visa on arrival available for UK nationals. 15 days free, 30 days ~USD 37, 90 days ~USD 55-67. E-visa available but visa-on-arrival is widely recommended over third-party e-visa sites, some of which are scams."
+  },
+  {
+    "country": "Madagascar",
+    "nationality": "DE",
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "applyUrl": "https://evisamada-mg.com/",
+    "processingDays": 0,
+    "cost": 37.0,
+    "maxStayDays": 30,
+    "notes": "Visa on arrival for German nationals. 15 days free, 30 days ~USD 37 (€30-35), 90 days ~USD 55-67. Embassy applications also possible via the Madagascar Embassy in Berlin (~10 working days)."
+  },
+
+  // ── GAMBIA ───────────────────────────────────────────────────────────────────
+  // NEW: long-standing top UK/European beach destination, missing from the original file.
+  {
+    "country": "Gambia",
+    "nationality": "US",
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "applyUrl": "https://www.gambiahcsenegal.com/",
+    "processingDays": 0,
+    "cost": 100.0,
+    "maxStayDays": 90,
+    "notes": "US nationals are not covered by Gambia's reciprocal visa-free agreements (which apply to the UK, EU, and Commonwealth). A visa is required — a one-year multiple-entry visa costs ~USD 100. Travelers arriving without a pre-arranged visa are typically given 48 hours to register with Immigration in Banjul. Yellow Fever certificate required."
+  },
+  {
+    "country": "Gambia",
+    "nationality": "UK",
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "applyUrl": null,
+    "processingDays": 0,
+    "cost": null,
+    "maxStayDays": 90,
+    "notes": "UK nationals are visa-free for up to 90 days under a non-reciprocal visa waiver agreement. Passport must be valid at least 6 months with one blank page."
+  },
+  {
+    "country": "Gambia",
+    "nationality": "DE",
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "applyUrl": null,
+    "processingDays": 0,
+    "cost": null,
+    "maxStayDays": 90,
+    "notes": "German nationals, as EU citizens, are visa-free for up to 90 days under Gambia's EU visa waiver agreement."
+  },
+
+  // ── ESWATINI ─────────────────────────────────────────────────────────────────
+  // NEW: popular add-on to the Kruger/South Africa safari circuit, missing from the original file.
+  {
+    "country": "Eswatini",
+    "nationality": "US",
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "applyUrl": null,
+    "processingDays": 0,
+    "cost": null,
+    "maxStayDays": 30,
+    "notes": "US nationals are visa-free for tourism/business stays up to 30 days. A further 30-day extension can be requested at the Ministry of Home Affairs; stays beyond 60 days require a Temporary Residence Permit. Passport must be valid at least 3 months beyond travel dates."
+  },
+  {
+    "country": "Eswatini",
+    "nationality": "UK",
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "applyUrl": null,
+    "processingDays": 0,
+    "cost": null,
+    "maxStayDays": 30,
+    "notes": "UK nationals (Commonwealth) are visa-free for up to 30 days, extendable by a further 30 days at Home Affairs."
+  },
+  {
+    "country": "Eswatini",
+    "nationality": "DE",
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "applyUrl": null,
+    "processingDays": 0,
+    "cost": null,
+    "maxStayDays": 30,
+    "notes": "German nationals, as most EU citizens, are visa-free for up to 30 days, extendable by a further 30 days at Home Affairs."
   }
 ]
 
