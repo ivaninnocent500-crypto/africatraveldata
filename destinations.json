@@ -469,6 +469,664 @@
     "longitude": 57.5522,
     "seasonalScores": {"jan": 0.58, "feb": 0.55, "mar": 0.65, "apr": 0.80, "may": 0.92, "jun": 0.96, "jul": 1.0, "aug": 0.96, "sep": 0.90, "oct": 0.78, "nov": 0.68, "dec": 0.60}
   },
+    {
+    "id": "table_mountain_031",
+    "name": "Table Mountain",
+    "country": "South Africa",
+    "heroImageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Cape Town's flat-topped icon, reached by a rotating cable car or a network of hiking trails through unique fynbos vegetation, with panoramic views over the city, Table Bay, and Robben Island.",
+    "shortDescription": "Cape Town's iconic summit, by cable car or sunrise hike.",
+    "basePrice": 1300.0,
+    "budgetPrice": 700.0,
+    "luxuryPrice": 3000.0,
+    "ultraLuxuryPrice": 6000.0,
+    "popularityScore": 0.90,
+    "trendGrowth": 12.4,
+    "bestMonths": [10, 11, 0, 1, 2, 3],
+    "activities": ["Cableway Ride", "Platteklip Gorge Hike", "Lion's Head Sunrise Hike", "Fynbos Nature Walks"],
+    "topExperiences": [
+      {
+        "title": "Table Mountain Cableway",
+        "subtitle": "Iconic 360° Views",
+        "imageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Platteklip Gorge Hike",
+        "subtitle": "Classic Summit Trail",
+        "imageUrl": "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Lion's Head Sunrise",
+        "subtitle": "Cape Town's Best Sunrise Spot",
+        "imageUrl": "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for many travelers; standard South Africa entry rules apply.",
+    "visaCost": null,
+    "latitude": -33.9628,
+    "longitude": 18.4098,
+    "seasonalScores": {"jan": 0.96, "feb": 0.96, "mar": 0.90, "apr": 0.78, "may": 0.62, "jun": 0.46, "jul": 0.46, "aug": 0.54, "sep": 0.66, "oct": 0.78, "nov": 0.88, "dec": 0.96}
+  },
+  {
+    "id": "bwindi_032",
+    "name": "Bwindi Impenetrable National Park",
+    "country": "Uganda",
+    "heroImageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "An ancient, mist-covered rainforest in southwestern Uganda sheltering nearly half the world's remaining mountain gorillas, alongside Batwa forest-people heritage and extraordinary biodiversity.",
+    "shortDescription": "Mountain gorilla trekking in Uganda's misty rainforest.",
+    "basePrice": 4200.0,
+    "budgetPrice": 3200.0,
+    "luxuryPrice": 7800.0,
+    "ultraLuxuryPrice": 14500.0,
+    "popularityScore": 0.86,
+    "trendGrowth": 35.2,
+    "bestMonths": [5, 6, 7, 11, 0, 1],
+    "activities": ["Gorilla Trekking", "Batwa Cultural Walk", "Birdwatching", "Forest Hiking"],
+    "topExperiences": [
+      {
+        "title": "Gorilla Trekking",
+        "subtitle": "One Hour With the Family",
+        "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Batwa Cultural Encounter",
+        "subtitle": "Forest People's Heritage",
+        "imageUrl": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Canopy Birdwatching",
+        "subtitle": "350+ Species",
+        "imageUrl": "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "E_VISA",
+    "visaApplyUrl": "https://visas.immigration.go.ug/",
+    "visaProcessingDays": 3,
+    "visaNotes": "Uganda e-visa required (~USD 50); apply online before travel — no visa on arrival. Gorilla permits are separate: USD 800/person in peak season (USD 600 in the Apr/May/Nov low season), booked via the Uganda Wildlife Authority. Daily permits are capped, so book 3-6+ months ahead.",
+    "visaCost": 50.0,
+    "latitude": -1.0903,
+    "longitude": 29.6585,
+    "seasonalScores": {"jan": 0.86, "feb": 0.82, "mar": 0.58, "apr": 0.40, "may": 0.48, "jun": 0.88, "jul": 0.94, "aug": 0.90, "sep": 0.62, "oct": 0.50, "nov": 0.78, "dec": 0.84}
+  },
+  {
+    "id": "amboseli_033",
+    "name": "Amboseli National Park",
+    "country": "Kenya",
+    "heroImageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Famous for free-roaming elephant herds photographed against the snow-capped backdrop of Mount Kilimanjaro, Amboseli delivers one of Africa's most iconic safari images.",
+    "shortDescription": "Elephant herds beneath Kilimanjaro's snowy peak.",
+    "basePrice": 2800.0,
+    "budgetPrice": 1700.0,
+    "luxuryPrice": 5500.0,
+    "ultraLuxuryPrice": 10500.0,
+    "popularityScore": 0.89,
+    "trendGrowth": 20.4,
+    "bestMonths": [0, 1, 5, 6, 7, 8, 9],
+    "activities": ["Game Drives", "Maasai Village Visits", "Photography Safaris", "Birdwatching"],
+    "topExperiences": [
+      {
+        "title": "Elephants & Kilimanjaro Backdrop",
+        "subtitle": "Kenya's Most Iconic Shot",
+        "imageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Sunrise Game Drive",
+        "subtitle": "Big Game Photography",
+        "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Maasai Village Visit",
+        "subtitle": "Local Community Encounter",
+        "imageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "E_VISA",
+    "visaApplyUrl": "https://www.etakenya.go.ke/en",
+    "visaProcessingDays": 3,
+    "visaNotes": "ETA required for all visitors; no visa on arrival. USD 30 standard fee via the official etakenya.go.ke portal only. East Africa Tourist Visa (USD 100) also valid here.",
+    "visaCost": 30.0,
+    "latitude": -2.6450,
+    "longitude": 37.2606,
+    "seasonalScores": {"jan": 0.86, "feb": 0.84, "mar": 0.62, "apr": 0.46, "may": 0.50, "jun": 0.82, "jul": 0.92, "aug": 0.94, "sep": 0.88, "oct": 0.74, "nov": 0.56, "dec": 0.78}
+  },
+  {
+    "id": "avenue_baobabs_034",
+    "name": "Avenue of the Baobabs",
+    "country": "Madagascar",
+    "heroImageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A surreal dirt road near Morondava lined with centuries-old baobab trees rising over 30 meters, best experienced at golden-hour sunset when the silhouettes turn deep amber against the sky.",
+    "shortDescription": "Centuries-old baobab giants, best at golden-hour sunset.",
+    "basePrice": 2600.0,
+    "budgetPrice": 1600.0,
+    "luxuryPrice": 5000.0,
+    "ultraLuxuryPrice": 9500.0,
+    "popularityScore": 0.80,
+    "trendGrowth": 39.6,
+    "bestMonths": [3, 4, 5, 6, 7, 8, 9],
+    "activities": ["Sunset Photography", "Baobab Walks", "Kirindy Forest Day Trips", "Local Village Visits"],
+    "topExperiences": [
+      {
+        "title": "Baobab Avenue at Sunset",
+        "subtitle": "Madagascar's Most Photographed Spot",
+        "imageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Kirindy Forest Night Walk",
+        "subtitle": "Lemurs & Fossas",
+        "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Morondava Village Life",
+        "subtitle": "Local Vanilla & Fishing Culture",
+        "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "visaApplyUrl": "https://evisamada-mg.com/",
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa on arrival for most nationalities; 15 days fee-free, 30 days ~USD 35-37, longer stays up to ~USD 67. Yellow Fever certificate only required if arriving from an endemic country.",
+    "visaCost": 35.0,
+    "latitude": -20.2500,
+    "longitude": 44.4167,
+    "seasonalScores": {"jan": 0.38, "feb": 0.40, "mar": 0.48, "apr": 0.70, "may": 0.86, "jun": 0.94, "jul": 0.98, "aug": 0.98, "sep": 0.90, "oct": 0.80, "nov": 0.56, "dec": 0.40}
+  },
+  {
+    "id": "skeleton_coast_035",
+    "name": "Skeleton Coast",
+    "country": "Namibia",
+    "heroImageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A remote, fog-shrouded stretch of Atlantic coastline scattered with century-old shipwrecks, vast seal colonies, and desert-adapted wildlife where the dunes meet the cold Benguela current.",
+    "shortDescription": "Shipwrecks, seal colonies, and fog where desert meets ocean.",
+    "basePrice": 4200.0,
+    "budgetPrice": 2800.0,
+    "luxuryPrice": 8000.0,
+    "ultraLuxuryPrice": 15500.0,
+    "popularityScore": 0.74,
+    "trendGrowth": 30.1,
+    "bestMonths": [3, 4, 5, 6, 7, 8, 9],
+    "activities": ["Fly-In Safari", "Shipwreck Visits", "Cape Fur Seal Colonies", "Desert-Adapted Wildlife Tracking"],
+    "topExperiences": [
+      {
+        "title": "Shipwreck Exploration",
+        "subtitle": "Ghosts of the Atlantic",
+        "imageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Cape Cross Seal Colony",
+        "subtitle": "Thousands of Cape Fur Seals",
+        "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Fly-In Desert Safari",
+        "subtitle": "Remote Dune & Coast Flights",
+        "imageUrl": "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "visaApplyUrl": "https://eservices.mhaiss.gov.na",
+    "visaProcessingDays": 0,
+    "visaNotes": "Since April 2025, Namibia requires a visa for US/UK/EU nationals (previously visa-free). Visa on arrival costs NAD 1,600 (~USD 85); default stay 30 days, extendable. Apply online in advance via eservices.mhaiss.gov.na.",
+    "visaCost": 85.0,
+    "latitude": -19.0000,
+    "longitude": 12.5000,
+    "seasonalScores": {"jan": 0.40, "feb": 0.40, "mar": 0.50, "apr": 0.74, "may": 0.88, "jun": 0.94, "jul": 0.96, "aug": 0.94, "sep": 0.86, "oct": 0.70, "nov": 0.50, "dec": 0.40}
+  },
+  {
+    "id": "fish_river_canyon_036",
+    "name": "Fish River Canyon",
+    "country": "Namibia",
+    "heroImageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The second-largest canyon in the world, carved over 500 million years, offering dramatic viewpoints and a legendary 5-day wilderness hiking trail down to the Ai-Ais hot springs.",
+    "shortDescription": "The world's second-largest canyon and its famous 5-day trail.",
+    "basePrice": 2200.0,
+    "budgetPrice": 1300.0,
+    "luxuryPrice": 4500.0,
+    "ultraLuxuryPrice": 8500.0,
+    "popularityScore": 0.78,
+    "trendGrowth": 18.9,
+    "bestMonths": [4, 5, 6, 7, 8],
+    "activities": ["Multi-Day Canyon Hike", "Viewpoint Drives", "Ai-Ais Hot Spring Soaks", "Sunset Photography"],
+    "topExperiences": [
+      {
+        "title": "Fish River Canyon Hike",
+        "subtitle": "5-Day Wilderness Trail",
+        "imageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Hobas Viewpoint",
+        "subtitle": "Second-Largest Canyon on Earth",
+        "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Ai-Ais Hot Springs",
+        "subtitle": "Post-Hike Recovery Soak",
+        "imageUrl": "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_ON_ARRIVAL",
+    "visaApplyUrl": "https://eservices.mhaiss.gov.na",
+    "visaProcessingDays": 0,
+    "visaNotes": "Since April 2025, Namibia requires a visa for US/UK/EU nationals. NAD 1,600 (~USD 85) on arrival or pre-applied online; default stay 30 days. The multi-day hiking trail is officially open only 1 May–15 September due to extreme heat.",
+    "visaCost": 85.0,
+    "latitude": -27.5826,
+    "longitude": 17.6075,
+    "seasonalScores": {"jan": 0.30, "feb": 0.32, "mar": 0.42, "apr": 0.62, "may": 0.92, "jun": 0.98, "jul": 0.98, "aug": 0.94, "sep": 0.78, "oct": 0.48, "nov": 0.34, "dec": 0.30}
+  },
+  {
+    "id": "lake_nakuru_037",
+    "name": "Lake Nakuru National Park",
+    "country": "Kenya",
+    "heroImageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A walled sanctuary protecting one of Kenya's most important black and white rhino populations, alongside flamingo-lined shores and dramatic cliff viewpoints overlooking the soda lake.",
+    "shortDescription": "Rhino sanctuary and flamingo shoreline near Nakuru town.",
+    "basePrice": 2200.0,
+    "budgetPrice": 1300.0,
+    "luxuryPrice": 4500.0,
+    "ultraLuxuryPrice": 8500.0,
+    "popularityScore": 0.81,
+    "trendGrowth": 16.3,
+    "bestMonths": [0, 1, 5, 6, 7, 8],
+    "activities": ["Rhino Tracking", "Flamingo Viewing", "Game Drives", "Birdwatching"],
+    "topExperiences": [
+      {
+        "title": "Black & White Rhino Sanctuary",
+        "subtitle": "One of Kenya's Best Rhino Spots",
+        "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Flamingo Shoreline",
+        "subtitle": "Pink-Tinged Lake Views",
+        "imageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Baboon Cliff Viewpoint",
+        "subtitle": "Panoramic Lake Overlook",
+        "imageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "E_VISA",
+    "visaApplyUrl": "https://www.etakenya.go.ke/en",
+    "visaProcessingDays": 3,
+    "visaNotes": "ETA required for all visitors. USD 30 via the official etakenya.go.ke portal only.",
+    "visaCost": 30.0,
+    "latitude": -0.3667,
+    "longitude": 36.0833,
+    "seasonalScores": {"jan": 0.84, "feb": 0.80, "mar": 0.60, "apr": 0.46, "may": 0.52, "jun": 0.80, "jul": 0.88, "aug": 0.90, "sep": 0.82, "oct": 0.68, "nov": 0.54, "dec": 0.74}
+  },
+  {
+    "id": "robben_island_038",
+    "name": "Robben Island",
+    "country": "South Africa",
+    "heroImageUrl": "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A UNESCO World Heritage Site in Table Bay where Nelson Mandela spent 18 of his 27 years in prison; guided tours led by former political prisoners offer a profoundly moving history lesson.",
+    "shortDescription": "Mandela's former prison, a UNESCO heritage ferry trip.",
+    "basePrice": 900.0,
+    "budgetPrice": 450.0,
+    "luxuryPrice": 2200.0,
+    "ultraLuxuryPrice": 4500.0,
+    "popularityScore": 0.88,
+    "trendGrowth": 10.7,
+    "bestMonths": [9, 10, 11, 0, 1, 2, 3],
+    "activities": ["Ferry Tour", "Mandela's Prison Cell Visit", "Guided Heritage Walk", "Seabird Watching"],
+    "topExperiences": [
+      {
+        "title": "Nelson Mandela's Cell",
+        "subtitle": "UNESCO World Heritage Site",
+        "imageUrl": "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "V&A Waterfront Ferry",
+        "subtitle": "Scenic Crossing from Cape Town",
+        "imageUrl": "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Ex-Political Prisoner Guided Tour",
+        "subtitle": "Living History Account",
+        "imageUrl": "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for many travelers; standard South Africa entry rules apply. Ferry tours depart from Cape Town's V&A Waterfront and sell out in advance during peak season.",
+    "visaCost": null,
+    "latitude": -33.8067,
+    "longitude": 18.3667,
+    "seasonalScores": {"jan": 0.94, "feb": 0.94, "mar": 0.88, "apr": 0.76, "may": 0.62, "jun": 0.48, "jul": 0.46, "aug": 0.54, "sep": 0.66, "oct": 0.78, "nov": 0.86, "dec": 0.94}
+  },
+  {
+    "id": "diani_beach_039",
+    "name": "Diani Beach",
+    "country": "Kenya",
+    "heroImageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Kenya's premier coastline south of Mombasa: powder-white sand, a fringing coral reef, and consistent trade winds that make it one of East Africa's top kitesurfing destinations.",
+    "shortDescription": "Powder-white sand, coral reefs, and East Africa's top kitesurfing.",
+    "basePrice": 2000.0,
+    "budgetPrice": 1100.0,
+    "luxuryPrice": 4200.0,
+    "ultraLuxuryPrice": 8200.0,
+    "popularityScore": 0.83,
+    "trendGrowth": 24.6,
+    "bestMonths": [0, 1, 2, 6, 7, 8, 9, 11],
+    "activities": ["Kitesurfing", "Coral Reef Snorkeling", "Colobus Monkey Walks", "Dhow Sunset Cruises"],
+    "topExperiences": [
+      {
+        "title": "White Sand Beach Walk",
+        "subtitle": "Kenya's Premier Coastline",
+        "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Kitesurfing Lessons",
+        "subtitle": "Year-Round Trade Winds",
+        "imageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Colobus Monkey Sanctuary",
+        "subtitle": "Endangered Primate Encounter",
+        "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "E_VISA",
+    "visaApplyUrl": "https://www.etakenya.go.ke/en",
+    "visaProcessingDays": 3,
+    "visaNotes": "ETA required. USD 30 via the official etakenya.go.ke portal only.",
+    "visaCost": 30.0,
+    "latitude": -4.3167,
+    "longitude": 39.5667,
+    "seasonalScores": {"jan": 0.90, "feb": 0.88, "mar": 0.66, "apr": 0.42, "may": 0.46, "jun": 0.78, "jul": 0.84, "aug": 0.86, "sep": 0.82, "oct": 0.70, "nov": 0.62, "dec": 0.84}
+  },
+  {
+    "id": "lake_malawi_040",
+    "name": "Lake Malawi",
+    "country": "Malawi",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Africa's third-largest lake, a freshwater inland sea ringed by sandy beaches and home to more fish species than any other lake on Earth, best explored from the laid-back shores of Cape Maclear.",
+    "shortDescription": "Africa's freshwater 'sea' of beaches and rainbow cichlids.",
+    "basePrice": 1400.0,
+    "budgetPrice": 750.0,
+    "luxuryPrice": 3200.0,
+    "ultraLuxuryPrice": 6500.0,
+    "popularityScore": 0.72,
+    "trendGrowth": 27.9,
+    "bestMonths": [4, 5, 6, 7, 8, 9],
+    "activities": ["Freshwater Diving", "Cichlid Snorkeling", "Beach Relaxation", "Kayaking", "Island Hopping"],
+    "topExperiences": [
+      {
+        "title": "Cape Maclear Snorkeling",
+        "subtitle": "Hundreds of Cichlid Species",
+        "imageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Lake Malawi National Park",
+        "subtitle": "UNESCO Freshwater Reserve",
+        "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Sunset Kayaking",
+        "subtitle": "Africa's Third-Largest Lake",
+        "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "US and UK nationals are visa-free for up to 30 days; extension possible in-country.",
+    "visaCost": null,
+    "latitude": -14.0167,
+    "longitude": 34.8833,
+    "seasonalScores": {"jan": 0.50, "feb": 0.50, "mar": 0.58, "apr": 0.78, "may": 0.92, "jun": 0.96, "jul": 0.96, "aug": 0.94, "sep": 0.86, "oct": 0.66, "nov": 0.50, "dec": 0.48}
+  },
+  {
+    "id": "simien_mountains_041",
+    "name": "Simien Mountains National Park",
+    "country": "Ethiopia",
+    "heroImageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A dramatic UNESCO World Heritage highland of jagged escarpments and deep gorges, home to troops of endemic Gelada baboons and the trek up Ras Dashen, Ethiopia's highest peak.",
+    "shortDescription": "Jagged highland escarpments and endemic Gelada baboon troops.",
+    "basePrice": 2600.0,
+    "budgetPrice": 1500.0,
+    "luxuryPrice": 5200.0,
+    "ultraLuxuryPrice": 9800.0,
+    "popularityScore": 0.75,
+    "trendGrowth": 33.0,
+    "bestMonths": [9, 10, 11, 0, 1, 2],
+    "activities": ["Multi-Day Trekking", "Gelada Baboon Viewing", "Ras Dashen Summit Trek", "Escarpment Photography"],
+    "topExperiences": [
+      {
+        "title": "Gelada Baboon Troops",
+        "subtitle": "Hundreds in a Single Sighting",
+        "imageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Ras Dashen Trek",
+        "subtitle": "Ethiopia's Highest Peak",
+        "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Escarpment Edge Camping",
+        "subtitle": "Dramatic Highland Views",
+        "imageUrl": "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "E_VISA",
+    "visaApplyUrl": "https://www.evisa.gov.et/",
+    "visaProcessingDays": 3,
+    "visaNotes": "E-visa required (official evisa.gov.et only — avoid lookalike sites). 30-day single-entry is USD 82; a 90-day single-entry option is USD 202. Visa on arrival also available at Addis Ababa Bole Airport.",
+    "visaCost": 82.0,
+    "latitude": 13.2000,
+    "longitude": 38.0500,
+    "seasonalScores": {"jan": 0.86, "feb": 0.84, "mar": 0.62, "apr": 0.46, "may": 0.40, "jun": 0.50, "jul": 0.42, "aug": 0.44, "sep": 0.62, "oct": 0.84, "nov": 0.90, "dec": 0.90}
+  },
+  {
+    "id": "blyde_river_canyon_042",
+    "name": "Blyde River Canyon",
+    "country": "South Africa",
+    "heroImageUrl": "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "One of the world's largest 'green' canyons, anchoring South Africa's scenic Panorama Route with the iconic Three Rondavels, Bourke's Luck Potholes, and sweeping views over the Lowveld, often combined with a Kruger safari.",
+    "shortDescription": "The Panorama Route's green canyon and Three Rondavels view.",
+    "basePrice": 1800.0,
+    "budgetPrice": 1000.0,
+    "luxuryPrice": 3800.0,
+    "ultraLuxuryPrice": 7200.0,
+    "popularityScore": 0.80,
+    "trendGrowth": 19.5,
+    "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+    "activities": ["Panorama Route Drive", "Three Rondavels Viewpoint", "Bourke's Luck Potholes", "God's Window Hike"],
+    "topExperiences": [
+      {
+        "title": "Three Rondavels Viewpoint",
+        "subtitle": "Iconic Canyon Panorama",
+        "imageUrl": "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Bourke's Luck Potholes",
+        "subtitle": "Sculpted River Rock Formations",
+        "imageUrl": "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "God's Window",
+        "subtitle": "Sweeping Lowveld Views",
+        "imageUrl": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": false,
+    "visaType": "VISA_FREE",
+    "visaApplyUrl": null,
+    "visaProcessingDays": 0,
+    "visaNotes": "Visa-free for many travelers; standard South Africa entry rules apply. Often combined with a Kruger National Park safari itinerary.",
+    "visaCost": null,
+    "latitude": -24.5833,
+    "longitude": 30.8000,
+    "seasonalScores": {"jan": 0.56, "feb": 0.56, "mar": 0.64, "apr": 0.80, "may": 0.90, "jun": 0.94, "jul": 0.96, "aug": 0.96, "sep": 0.88, "oct": 0.78, "nov": 0.62, "dec": 0.56}
+  },
+  {
+    "id": "djenne_043",
+    "name": "Djenné",
+    "country": "Mali",
+    "heroImageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Home to the Great Mosque of Djenné, the world's largest mud-brick building and a UNESCO World Heritage Site, alongside a centuries-old Monday market on the Niger River floodplain.",
+    "shortDescription": "The world's largest mud-brick mosque on the Niger floodplain.",
+    "basePrice": 1600.0,
+    "budgetPrice": 900.0,
+    "luxuryPrice": 3500.0,
+    "ultraLuxuryPrice": 7000.0,
+    "popularityScore": 0.30,
+    "trendGrowth": -8.0,
+    "bestMonths": [10, 11, 0, 1],
+    "activities": ["Great Mosque Visit", "Monday Market", "Mud Architecture Tours", "Niger River Boat Trips"],
+    "topExperiences": [
+      {
+        "title": "Great Mosque of Djenné",
+        "subtitle": "World's Largest Mud-Brick Building",
+        "imageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Monday Grand Market",
+        "subtitle": "Centuries-Old Trading Tradition",
+        "imageUrl": "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Niger River Pinasse Trip",
+        "subtitle": "Traditional Riverboat Travel",
+        "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_REQUIRED",
+    "visaApplyUrl": "https://diplomatiemdc.gouv.ml/",
+    "visaProcessingDays": null,
+    "visaNotes": "Mali is currently rated Level 4: Do Not Travel by the US State Department (status as of Jan 2026), citing crime, terrorism, kidnapping, and unrest; the UK FCDO advises against all travel to the north/center of the country. Visas have become extremely difficult to obtain for most nationalities. Included for cultural/historical reference only — check current government advisories before any travel planning.",
+    "visaCost": null,
+    "latitude": 13.9061,
+    "longitude": -4.5547,
+    "seasonalScores": {"jan": 0.40, "feb": 0.38, "mar": 0.34, "apr": 0.26, "may": 0.20, "jun": 0.18, "jul": 0.16, "aug": 0.16, "sep": 0.20, "oct": 0.30, "nov": 0.40, "dec": 0.42}
+  },
+  {
+    "id": "timbuktu_044",
+    "name": "Timbuktu",
+    "country": "Mali",
+    "heroImageUrl": "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=1600&q=80",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The legendary medieval seat of Islamic scholarship at the edge of the Sahara, home to centuries-old manuscript libraries and the earthen Sankoré Mosque, once the gateway between sub-Saharan Africa and the Mediterranean world.",
+    "shortDescription": "Legendary desert city of ancient manuscripts and mud mosques.",
+    "basePrice": 1800.0,
+    "budgetPrice": 1000.0,
+    "luxuryPrice": 4000.0,
+    "ultraLuxuryPrice": 8000.0,
+    "popularityScore": 0.28,
+    "trendGrowth": -10.0,
+    "bestMonths": [10, 11, 0, 1],
+    "activities": ["Ancient Manuscript Libraries", "Sankoré Mosque Visit", "Desert Camel Trips", "Tuareg Cultural Visits"],
+    "topExperiences": [
+      {
+        "title": "Ahmed Baba Institute Manuscripts",
+        "subtitle": "Centuries of Islamic Scholarship",
+        "imageUrl": "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Sankoré Mosque",
+        "subtitle": "Legendary Seat of Learning",
+        "imageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        "title": "Saharan Camel Caravan",
+        "subtitle": "Gateway to the Desert",
+        "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "visaRequired": true,
+    "visaType": "VISA_REQUIRED",
+    "visaApplyUrl": "https://diplomatiemdc.gouv.ml/",
+    "visaProcessingDays": null,
+    "visaNotes": "Mali is rated Level 4: Do Not Travel (US State Dept, status January 2026); the UK FCDO specifically advises against all travel to Timbuktu and northern Mali due to active jihadist insurgency, kidnapping risk, and road ambushes. Visas are extremely difficult to obtain for most nationalities. Included for cultural/historical reference only — this is not currently a viable trip to plan.",
+    "visaCost": null,
+    "latitude": 16.7666,
+    "longitude": -3.0026,
+    "seasonalScores": {"jan": 0.42, "feb": 0.40, "mar": 0.34, "apr": 0.24, "may": 0.16, "jun": 0.14, "jul": 0.14, "aug": 0.16, "sep": 0.20, "oct": 0.30, "nov": 0.42, "dec": 0.44}
+  },
   {
     "id": "dakar_goree_015",
     "name": "Dakar & Gorée Island",
