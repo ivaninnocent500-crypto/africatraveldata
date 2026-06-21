@@ -283,7 +283,7 @@
     ]
   },
   {
-    "destinationId": "masai_mara_001",
+    "destinationId": "masai_mara_002",
     "destinationName": "Masai Mara National Reserve",
     "tours": [
       {
@@ -358,7 +358,7 @@
     ]
   },
   {
-    "destinationId": "okavango_delta_001",
+    "destinationId": "okavango_delta_022",
     "destinationName": "Okavango Delta",
     "tours": [
       {
@@ -502,7 +502,7 @@
     ]
   },
   {
-    "destinationId": "kilimanjaro_001",
+    "destinationId": "kilimanjaro_018",
     "destinationName": "Mount Kilimanjaro",
     "tours": [
       {
@@ -652,7 +652,7 @@
     ]
   },
   {
-    "destinationId": "victoria_falls_001",
+    "destinationId": "victoria_falls_003",
     "destinationName": "Victoria Falls",
     "tours": [
       {
@@ -802,7 +802,7 @@
     ]
   },
   {
-    "destinationId": "dakar_goree_001",
+    "destinationId": "dakar_goree_015",
     "destinationName": "Dakar & Gorée Island",
     "tours": [
       {
@@ -876,7 +876,7 @@
     ]
   },
   {
-    "destinationId": "tarangire_001",
+    "destinationId": "tarangire_008",
     "destinationName": "Tarangire National Park",
     "tours": [
       {
@@ -950,7 +950,7 @@
     ]
   },
   {
-    "destinationId": "amboseli_001",
+    "destinationId": "amboseli_033",
     "destinationName": "Amboseli National Park",
     "tours": [
       {
