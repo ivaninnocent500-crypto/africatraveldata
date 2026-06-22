@@ -29,13 +29,23 @@
         "transportation": {
           "vehicleType": "4x4 Land Cruiser",
           "maxPassengers": 6,
-          "features": ["Pop-up roof", "Refrigerator", "Charging ports"]
+          "features": [
+            "Pop-up roof",
+            "Refrigerator",
+            "Charging ports"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:6",
           "experienceYears": "10+ years",
-          "languages": ["English", "Swahili"],
-          "certifications": ["Professional Safari Guide", "First Aid Certified"]
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide",
+            "First Aid Certified"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Comprehensive Travel Insurance",
@@ -44,9 +54,24 @@
           "flyingDoctors": true
         },
         "departureDates": [
-          { "date": "12 Aug 2026", "isAvailable": true, "spotsLeft": 3, "isGuaranteed": true },
-          { "date": "19 Aug 2026", "isAvailable": true, "spotsLeft": 6, "isGuaranteed": true },
-          { "date": "26 Aug 2026", "isAvailable": true, "spotsLeft": 2, "isGuaranteed": false }
+          {
+            "date": "12 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 3,
+            "isGuaranteed": true
+          },
+          {
+            "date": "19 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": true
+          },
+          {
+            "date": "26 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 2,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 14,
@@ -57,17 +82,32 @@
         "sustainability": {
           "impactLevel": "Excellent",
           "impactScore": 92,
-          "certifications": ["Green Tourism Certified", "Carbon Neutral"],
-          "communityProjects": ["Maasai Education Fund", "Wildlife Conservation"]
+          "certifications": [
+            "Green Tourism Certified",
+            "Carbon Neutral"
+          ],
+          "communityProjects": [
+            "Maasai Education Fund",
+            "Wildlife Conservation"
+          ]
         },
         "priceLockedHours": 48,
         "hasHiddenFees": false,
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
           "sources": [],
           "note": "Pre-existing demo entry; not independently verified in this pass. No public booking-terms page found for an operator under this exact name."
@@ -99,13 +139,24 @@
         "transportation": {
           "vehicleType": "4x4 Land Cruiser + Domestic Flight",
           "maxPassengers": 4,
-          "features": ["Pop-up roof", "Luxury interior", "WiFi onboard"]
+          "features": [
+            "Pop-up roof",
+            "Luxury interior",
+            "WiFi onboard"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:4",
           "experienceYears": "15+ years",
-          "languages": ["English", "Swahili", "French"],
-          "certifications": ["Master Safari Guide", "Wildlife Photography"]
+          "languages": [
+            "English",
+            "Swahili",
+            "French"
+          ],
+          "certifications": [
+            "Master Safari Guide",
+            "Wildlife Photography"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Premium Travel Insurance",
@@ -114,8 +165,18 @@
           "flyingDoctors": true
         },
         "departureDates": [
-          { "date": "12 Aug 2026", "isAvailable": true, "spotsLeft": 5, "isGuaranteed": true },
-          { "date": "19 Aug 2026", "isAvailable": true, "spotsLeft": 8, "isGuaranteed": true }
+          {
+            "date": "12 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": true
+          },
+          {
+            "date": "19 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 8,
+            "isGuaranteed": true
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 61,
@@ -126,19 +187,37 @@
         "sustainability": {
           "impactLevel": "Outstanding",
           "impactScore": 95,
-          "certifications": ["B Corp Certified", "Rainforest Alliance"],
-          "communityProjects": ["Local School Support", "Anti-Poaching Unit"]
+          "certifications": [
+            "B Corp Certified",
+            "Rainforest Alliance"
+          ],
+          "communityProjects": [
+            "Local School Support",
+            "Anti-Poaching Unit"
+          ]
         },
         "priceLockedHours": 72,
         "hasHiddenFees": false,
         "dataQualityNotes": {
-          "verified": ["cancellationPolicy"],
-          "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+          "verified": [
+            "cancellationPolicy"
           ],
-          "sources": ["https://www.asiliaafrica.com/booking-terms-and-conditions/"],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.asiliaafrica.com/booking-terms-and-conditions/"
+          ],
           "note": "Real policy: 20% non-refundable deposit from confirmation to 61 days pre-arrival; 50% of invoice due 60-31 days pre-arrival (i.e. ~50% refund tier in that window); 100% due inside 30 days. Mapped here as freeCancelDays/refundPercent for the first tier and noRefundAfterDays for the final tier; the intermediate 50% tier isn't representable in this 4-field schema."
         }
       },
@@ -168,13 +247,23 @@
         "transportation": {
           "vehicleType": "4x4 Land Cruiser",
           "maxPassengers": 6,
-          "features": ["Pop-up roof", "Cooler box", "Binoculars"]
+          "features": [
+            "Pop-up roof",
+            "Cooler box",
+            "Binoculars"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:6",
           "experienceYears": "8-12 years",
-          "languages": ["English", "Swahili", "German"],
-          "certifications": ["Professional Safari Guide"]
+          "languages": [
+            "English",
+            "Swahili",
+            "German"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Standard Travel Insurance",
@@ -183,8 +272,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "15 Aug 2026", "isAvailable": true, "spotsLeft": 4, "isGuaranteed": true },
-          { "date": "22 Aug 2026", "isAvailable": true, "spotsLeft": 7, "isGuaranteed": false }
+          {
+            "date": "15 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 4,
+            "isGuaranteed": true
+          },
+          {
+            "date": "22 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 7,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 61,
@@ -195,19 +294,36 @@
         "sustainability": {
           "impactLevel": "Very Good",
           "impactScore": 85,
-          "certifications": ["Eco-Tourism Certified"],
-          "communityProjects": ["Water Well Project", "Women's Cooperative"]
+          "certifications": [
+            "Eco-Tourism Certified"
+          ],
+          "communityProjects": [
+            "Water Well Project",
+            "Women's Cooperative"
+          ]
         },
         "priceLockedHours": 48,
         "hasHiddenFees": false,
         "dataQualityNotes": {
-          "verified": ["cancellationPolicy"],
-          "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+          "verified": [
+            "cancellationPolicy"
           ],
-          "sources": ["https://www.go2africa.com/wp-content/uploads/2022/03/Booking-Policy_2022.pdf"],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.go2africa.com/wp-content/uploads/2022/03/Booking-Policy_2022.pdf"
+          ],
           "note": "Real policy: 30% deposit at booking (non-refundable); cancelling 61+ days before departure forfeits the deposit only (70% refund); cancelling 0-60 days before departure incurs a 100% cancellation fee."
         }
       },
@@ -237,13 +353,21 @@
         "transportation": {
           "vehicleType": "4x4 Land Cruiser",
           "maxPassengers": 6,
-          "features": ["Pop-up roof", "Cooler box"]
+          "features": [
+            "Pop-up roof",
+            "Cooler box"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:6",
           "experienceYears": "5-10 years",
-          "languages": ["English", "Swahili"],
-          "certifications": ["Professional Safari Guide"]
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Standard Travel Insurance",
@@ -252,8 +376,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "14 Aug 2026", "isAvailable": true, "spotsLeft": 5, "isGuaranteed": true },
-          { "date": "21 Aug 2026", "isAvailable": true, "spotsLeft": 6, "isGuaranteed": false }
+          {
+            "date": "14 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": true
+          },
+          {
+            "date": "21 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 60,
@@ -272,18 +406,131 @@
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
           "sources": [],
           "note": "Small Tanzania-specialist operator named in the operator shortlist. No public booking-terms page was found to verify cancellation policy, ratings, or licensing — all fields here are illustrative placeholders, not confirmed facts about a real business."
+        }
+      },
+      {
+        "id": "tour-thomson-safaris-serengeti",
+        "operatorId": "thomson-safaris",
+        "operatorName": "Thomson Safaris",
+        "operatorLogoUrl": "https://example.com/thomson-safaris-logo.png",
+        "operatorRating": 4.8,
+        "operatorReviewCount": 145,
+        "isVerified": true,
+        "licenseNumber": "TTA-113",
+        "establishedYear": 1981,
+        "pricePerPerson": 3250.0,
+        "totalPrice": 6500.0,
+        "currency": "USD",
+        "durationDays": 5,
+        "durationNights": 4,
+        "itinerarySummary": "Arusha → Tarangire → Serengeti → Ngorongoro",
+        "includedActivities": [
+          "All park fees",
+          "4x4 Land Cruiser safari vehicle",
+          "Professional guide",
+          "Drinking water",
+          "All meals as specified"
+        ],
+        "transportation": {
+          "vehicleType": "4x4 Land Cruiser",
+          "maxPassengers": 6,
+          "features": [
+            "Pop-up roof",
+            "Charging ports",
+            "Cooler box"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:6",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide",
+            "First Aid Certified"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
+          "medicalEvacuation": true,
+          "supportAvailability": "24/7 Support",
+          "flyingDoctors": true
+        },
+        "departureDates": [
+          {
+            "date": "10 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": true
+          },
+          {
+            "date": "24 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 7,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 91,
+          "refundPercent": 80,
+          "refundDeadlineDays": 91,
+          "noRefundAfterDays": 45
+        },
+        "sustainability": {
+          "impactLevel": "Good",
+          "impactScore": 81,
+          "certifications": [],
+          "communityProjects": [
+            "Highlands community development programs"
+          ]
+        },
+        "priceLockedHours": 48,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "establishedYear",
+            "cancellationPolicy"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://thomsonsafaris.com/booking-policies/",
+            "https://thomsonsafaris.com/"
+          ],
+          "note": "Founded 1981 by Judi Wineland and Rick Thomson, confirmed via company site. Real cancellation policy has 4 tiers: 91+ days before departure, only the deposit is forfeited; 90-61 days, 50% of package price is non-refundable; 60-46 days, 65% non-refundable; 45 days or less, 100% non-refundable. The deposit is described as a fixed amount rather than a published percentage, so refundPercent (80) is an estimate assuming a typical ~20% deposit, not a confirmed figure. All other fields are placeholders."
         }
       }
     ]
   },
   {
-    "destinationId": "masai_mara_002",
+    "destinationId": "masai_mara_001",
     "destinationName": "Masai Mara National Reserve",
     "tours": [
       {
@@ -312,13 +559,23 @@
         "transportation": {
           "vehicleType": "4x4 open-sided safari vehicle + light aircraft",
           "maxPassengers": 6,
-          "features": ["Open-sided viewing", "Charging ports", "Cooler box"]
+          "features": [
+            "Open-sided viewing",
+            "Charging ports",
+            "Cooler box"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:6",
           "experienceYears": "10+ years",
-          "languages": ["English", "Swahili"],
-          "certifications": ["Professional Safari Guide", "First Aid Certified"]
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide",
+            "First Aid Certified"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
@@ -327,8 +584,18 @@
           "flyingDoctors": true
         },
         "departureDates": [
-          { "date": "10 Aug 2026", "isAvailable": true, "spotsLeft": 4, "isGuaranteed": true },
-          { "date": "24 Aug 2026", "isAvailable": true, "spotsLeft": 6, "isGuaranteed": true }
+          {
+            "date": "10 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 4,
+            "isGuaranteed": true
+          },
+          {
+            "date": "24 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": true
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 61,
@@ -339,26 +606,151 @@
         "sustainability": {
           "impactLevel": "Outstanding",
           "impactScore": 94,
-          "certifications": ["Africa Foundation Partner"],
-          "communityProjects": ["Africa Foundation community projects", "Wildlife conservation initiatives"]
+          "certifications": [
+            "Africa Foundation Partner"
+          ],
+          "communityProjects": [
+            "Africa Foundation community projects",
+            "Wildlife conservation initiatives"
+          ]
         },
         "priceLockedHours": 72,
         "hasHiddenFees": false,
         "dataQualityNotes": {
-          "verified": ["establishedYear", "cancellationPolicy"],
-          "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber",
-            "pricePerPerson", "totalPrice", "departureDates",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+          "verified": [
+            "establishedYear",
+            "cancellationPolicy"
           ],
-          "sources": ["https://www.andbeyond.com/notices/trading-terms/"],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.andbeyond.com/notices/trading-terms/"
+          ],
           "note": "Real policy (Independent Traveller terms): confirmation to 61 days pre-arrival, 30% deposit forfeited (70% refund); 60 days to arrival, 100% of booking value charged (no refund); cancellation during travel, 100% charged. Founded 1991, confirmed via company sources."
+        }
+      },
+      {
+        "id": "tour-gamewatchers-masai-mara",
+        "operatorId": "gamewatchers-safaris",
+        "operatorName": "Gamewatchers Safaris (Porini Camps)",
+        "operatorLogoUrl": "https://example.com/gamewatchers-logo.png",
+        "operatorRating": 4.8,
+        "operatorReviewCount": 184,
+        "isVerified": true,
+        "licenseNumber": "TTA-114",
+        "establishedYear": 1989,
+        "pricePerPerson": 3100.0,
+        "totalPrice": 6200.0,
+        "currency": "USD",
+        "durationDays": 4,
+        "durationNights": 3,
+        "itinerarySummary": "Nairobi → Porini Mara Camp, Ol Kinyei Conservancy, Masai Mara",
+        "includedActivities": [
+          "All conservancy fees",
+          "Private 4x4 safari vehicle with guide",
+          "Day and night game drives",
+          "All meals and house drinks",
+          "Guided bush walks"
+        ],
+        "transportation": {
+          "vehicleType": "4x4 open-sided safari vehicle",
+          "maxPassengers": 6,
+          "features": [
+            "Open-sided viewing",
+            "Cooler box",
+            "Binoculars"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:6",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "Swahili",
+            "Maa"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
+          "medicalEvacuation": true,
+          "supportAvailability": "24/7 Support",
+          "flyingDoctors": true
+        },
+        "departureDates": [
+          {
+            "date": "8 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 4,
+            "isGuaranteed": true
+          },
+          {
+            "date": "22 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 120,
+          "refundPercent": 75,
+          "refundDeadlineDays": 120,
+          "noRefundAfterDays": 60
+        },
+        "sustainability": {
+          "impactLevel": "Outstanding",
+          "impactScore": 93,
+          "certifications": [
+            "EcoTourism Kenya Certified",
+            "Kenya Association of Tour Operators (KATO) Bonded"
+          ],
+          "communityProjects": [
+            "Maasai conservancy land-lease program",
+            "Selenkay Conservancy community programs"
+          ]
+        },
+        "priceLockedHours": 48,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "establishedYear",
+            "cancellationPolicy (partial)"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.porini.com/booking-conditions/",
+            "https://www.go2africa.com/top-safari-brands/gamewatchers"
+          ],
+          "note": "Established 1989 in Nairobi, confirmed via company sources; pioneered Kenya's conservancy model in 1997. Real cancellation policy: 25% charge from booking up to 120 days before the safari, 35% charge from 120-60 days before. The published terms retrieved this session didn't specify a fee for cancellations inside 60 days, so the figures inside that window are an estimate, not confirmed. All other fields are placeholders."
         }
       }
     ]
   },
   {
-    "destinationId": "okavango_delta_022",
+    "destinationId": "okavango_delta_001",
     "destinationName": "Okavango Delta",
     "tours": [
       {
@@ -387,13 +779,20 @@
         "transportation": {
           "vehicleType": "4x4 open safari vehicle + light aircraft + mokoro",
           "maxPassengers": 6,
-          "features": ["Open-sided viewing", "Water-based activities"]
+          "features": [
+            "Open-sided viewing",
+            "Water-based activities"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:6",
           "experienceYears": "10+ years",
-          "languages": ["English"],
-          "certifications": ["Professional Safari Guide"]
+          "languages": [
+            "English"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
@@ -402,8 +801,18 @@
           "flyingDoctors": true
         },
         "departureDates": [
-          { "date": "5 Sep 2026", "isAvailable": true, "spotsLeft": 4, "isGuaranteed": true },
-          { "date": "19 Sep 2026", "isAvailable": true, "spotsLeft": 6, "isGuaranteed": false }
+          {
+            "date": "5 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 4,
+            "isGuaranteed": true
+          },
+          {
+            "date": "19 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 60,
@@ -414,19 +823,37 @@
         "sustainability": {
           "impactLevel": "Outstanding",
           "impactScore": 96,
-          "certifications": ["Children in the Wilderness Partner", "Wilderness Trust Partner"],
-          "communityProjects": ["Children in the Wilderness", "Wilderness Trust conservation programs"]
+          "certifications": [
+            "Children in the Wilderness Partner",
+            "Wilderness Trust Partner"
+          ],
+          "communityProjects": [
+            "Children in the Wilderness",
+            "Wilderness Trust conservation programs"
+          ]
         },
         "priceLockedHours": 72,
         "hasHiddenFees": false,
         "dataQualityNotes": {
-          "verified": ["establishedYear"],
-          "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+          "verified": [
+            "establishedYear"
           ],
-          "sources": ["https://www.adventure-life.com/operators/32627/wilderness-safaris"],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.adventure-life.com/operators/32627/wilderness-safaris"
+          ],
           "note": "Founded 1983 in Botswana, confirmed via company history sources. Wilderness sells almost exclusively through travel agents/DMCs rather than direct public booking pages, so no public cancellation-fee schedule could be located — cancellationPolicy here is an industry-typical placeholder, not Wilderness's actual terms."
         }
       },
@@ -456,13 +883,19 @@
         "transportation": {
           "vehicleType": "4x4 open safari vehicle + light aircraft",
           "maxPassengers": 8,
-          "features": ["Open-sided viewing"]
+          "features": [
+            "Open-sided viewing"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:8",
           "experienceYears": "8+ years",
-          "languages": ["English"],
-          "certifications": ["Professional Safari Guide"]
+          "languages": [
+            "English"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Standard Travel Insurance (guest-arranged)",
@@ -471,8 +904,18 @@
           "flyingDoctors": true
         },
         "departureDates": [
-          { "date": "8 Sep 2026", "isAvailable": true, "spotsLeft": 5, "isGuaranteed": true },
-          { "date": "22 Sep 2026", "isAvailable": true, "spotsLeft": 7, "isGuaranteed": false }
+          {
+            "date": "8 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": true
+          },
+          {
+            "date": "22 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 7,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 60,
@@ -491,18 +934,130 @@
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
           "sources": [],
           "note": "Long-established Botswana camp operator per the operator shortlist; the 1982 founding date is commonly cited online but wasn't independently re-confirmed this session, and no public cancellation-fee schedule was located. Treat all fields as placeholders pending verification."
+        }
+      },
+      {
+        "id": "tour-natural-selection-okavango",
+        "operatorId": "natural-selection",
+        "operatorName": "Natural Selection",
+        "operatorLogoUrl": "https://example.com/natural-selection-logo.png",
+        "operatorRating": 4.8,
+        "operatorReviewCount": 92,
+        "isVerified": true,
+        "licenseNumber": "TTA-115",
+        "establishedYear": 2016,
+        "pricePerPerson": 4600.0,
+        "totalPrice": 9200.0,
+        "currency": "USD",
+        "durationDays": 4,
+        "durationNights": 3,
+        "itinerarySummary": "Maun → Sable Alley / Tuludi, Khwai Private Reserve, Okavango Delta",
+        "includedActivities": [
+          "Light aircraft transfers",
+          "Daily game drives and guided walks",
+          "Mokoro/boat excursions (water levels permitting)",
+          "All meals and local beverages",
+          "Conservation, Community and Reserve (CCR) fee"
+        ],
+        "transportation": {
+          "vehicleType": "4x4 open safari vehicle + light aircraft",
+          "maxPassengers": 7,
+          "features": [
+            "Open-sided viewing",
+            "Private vehicle for groups of 6-7"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:7",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
+          "medicalEvacuation": true,
+          "supportAvailability": "24/7 Support",
+          "flyingDoctors": true
+        },
+        "departureDates": [
+          {
+            "date": "12 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 4,
+            "isGuaranteed": true
+          },
+          {
+            "date": "26 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 59,
+          "refundPercent": 80,
+          "refundDeadlineDays": 59,
+          "noRefundAfterDays": 29
+        },
+        "sustainability": {
+          "impactLevel": "Outstanding",
+          "impactScore": 95,
+          "certifications": [
+            "Natural Selection Conservation Trust Partner"
+          ],
+          "communityProjects": [
+            "1.5% of gross revenue donated to conservation",
+            "Community empowerment projects in nearby villages"
+          ]
+        },
+        "priceLockedHours": 72,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "cancellationPolicy"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://naturalselection.travel/booking-terms-conditions/"
+          ],
+          "note": "Real policy: the Conservation, Community and Reserve Fee is always forfeited; 20% cancellation fee (deposit forfeit) from confirmation to 59 days before travel; 50% fee 58-30 days before; 100% fee 29 days or less before travel or no-shows. The company's founding year is commonly cited as 2016 (founders Colin Bell, Dave van Smeerdijk, Jennifer Lally and James Ramsay) but wasn't independently re-confirmed on an official 'About' page this session, so it's treated as a placeholder despite being widely reported."
         }
       }
     ]
   },
   {
-    "destinationId": "kilimanjaro_018",
+    "destinationId": "kilimanjaro_001",
     "destinationName": "Mount Kilimanjaro",
     "tours": [
       {
@@ -531,13 +1086,21 @@
         "transportation": {
           "vehicleType": "Shared shuttle to/from trailhead",
           "maxPassengers": 12,
-          "features": ["Group transfer"]
+          "features": [
+            "Group transfer"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:4",
           "experienceYears": "5+ years",
-          "languages": ["English", "Swahili"],
-          "certifications": ["Wilderness First Aid", "Mountain Guide Certified"]
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Wilderness First Aid",
+            "Mountain Guide Certified"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Travel insurance with high-altitude trekking cover required",
@@ -546,8 +1109,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "3 Aug 2026", "isAvailable": true, "spotsLeft": 6, "isGuaranteed": true },
-          { "date": "17 Aug 2026", "isAvailable": true, "spotsLeft": 9, "isGuaranteed": true }
+          {
+            "date": "3 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": true
+          },
+          {
+            "date": "17 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 9,
+            "isGuaranteed": true
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 60,
@@ -558,20 +1131,139 @@
         "sustainability": {
           "impactLevel": "Good",
           "impactScore": 82,
-          "certifications": ["Travelife Partner"],
-          "communityProjects": ["Planeterra Foundation projects"]
+          "certifications": [
+            "Travelife Partner"
+          ],
+          "communityProjects": [
+            "Planeterra Foundation projects"
+          ]
         },
         "priceLockedHours": 48,
         "hasHiddenFees": false,
         "dataQualityNotes": {
-          "verified": ["cancellationPolicy"],
-          "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+          "verified": [
+            "cancellationPolicy"
           ],
-          "sources": ["https://www.gadventures.com/terms-conditions/booking-terms/"],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.gadventures.com/terms-conditions/booking-terms/"
+          ],
           "note": "Real policy: cancelling 60+ days before departure forfeits only the Lifetime Deposit (rest refunded); 30-59 days, Lifetime Deposit held plus only 50% of remaining payments refunded; under 30 days, Lifetime Deposit held and no further refund. Mapped imperfectly onto this 4-field schema — the 'Lifetime Deposit' concept (non-refundable but reusable on a future booking) isn't represented."
+        }
+      },
+      {
+        "id": "tour-ultimate-kilimanjaro",
+        "operatorId": "ultimate-kilimanjaro",
+        "operatorName": "Ultimate Kilimanjaro",
+        "operatorLogoUrl": "https://example.com/ultimate-kilimanjaro-logo.png",
+        "operatorRating": 4.9,
+        "operatorReviewCount": 504,
+        "isVerified": true,
+        "licenseNumber": "TTA-116",
+        "establishedYear": 2003,
+        "pricePerPerson": 2450.0,
+        "totalPrice": 4900.0,
+        "currency": "USD",
+        "durationDays": 9,
+        "durationNights": 8,
+        "itinerarySummary": "Arusha → Kilimanjaro climb (Lemosho route) → Arusha",
+        "includedActivities": [
+          "Park and camping fees",
+          "Porters and cook",
+          "All meals on the mountain",
+          "Pre-climb briefing",
+          "Licensed mountain guide"
+        ],
+        "transportation": {
+          "vehicleType": "Shared shuttle to/from trailhead",
+          "maxPassengers": 12,
+          "features": [
+            "Group transfer"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:3",
+          "experienceYears": "5+ years",
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Wilderness First Aid",
+            "Mountain Guide Certified"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Travel insurance with high-altitude trekking cover required",
+          "medicalEvacuation": true,
+          "supportAvailability": "24/7 Trip Support",
+          "flyingDoctors": false
+        },
+        "departureDates": [
+          {
+            "date": "5 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": true
+          },
+          {
+            "date": "19 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 8,
+            "isGuaranteed": true
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 60,
+          "refundPercent": 80,
+          "refundDeadlineDays": 60,
+          "noRefundAfterDays": 30
+        },
+        "sustainability": {
+          "impactLevel": "Good",
+          "impactScore": 80,
+          "certifications": [
+            "KPAP (Kilimanjaro Porters Assistance Project) Partner"
+          ],
+          "communityProjects": [
+            "Porter welfare and fair-wage programs"
+          ]
+        },
+        "priceLockedHours": 24,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.ultimatekilimanjaro.com/terms-and-conditions/",
+            "https://www.trustindex.io/reviews/ultimatekilimanjaro.com"
+          ],
+          "note": "Confirmed via official terms: balance is due 60 days prior to arrival, and bookings within 60 days require full payment upfront; a customer-service review response also referenced a '30-day nonrefundable window.' The published Terms & Conditions retrieved this session didn't lay out a clear tiered refund schedule, so the freeCancelDays/refundPercent/noRefundAfterDays values here are reconstructed estimates, not a verbatim policy. operatorReviewCount (504) is the figure shown on a third-party review aggregator at time of search."
         }
       }
     ]
@@ -606,13 +1298,21 @@
         "transportation": {
           "vehicleType": "Small group minivan + camel trek",
           "maxPassengers": 12,
-          "features": ["Air-conditioned vehicle"]
+          "features": [
+            "Air-conditioned vehicle"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:12",
           "experienceYears": "5+ years",
-          "languages": ["English", "Arabic", "French"],
-          "certifications": ["Tour Leader Certified"]
+          "languages": [
+            "English",
+            "Arabic",
+            "French"
+          ],
+          "certifications": [
+            "Tour Leader Certified"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Travel insurance required (guest-arranged)",
@@ -621,8 +1321,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "6 Sep 2026", "isAvailable": true, "spotsLeft": 8, "isGuaranteed": true },
-          { "date": "20 Sep 2026", "isAvailable": true, "spotsLeft": 10, "isGuaranteed": true }
+          {
+            "date": "6 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 8,
+            "isGuaranteed": true
+          },
+          {
+            "date": "20 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 10,
+            "isGuaranteed": true
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 56,
@@ -633,26 +1343,145 @@
         "sustainability": {
           "impactLevel": "Good",
           "impactScore": 80,
-          "certifications": ["B Corp Certified"],
-          "communityProjects": ["Intrepid Foundation projects"]
+          "certifications": [
+            "B Corp Certified"
+          ],
+          "communityProjects": [
+            "Intrepid Foundation projects"
+          ]
         },
         "priceLockedHours": 24,
         "hasHiddenFees": false,
         "dataQualityNotes": {
-          "verified": ["cancellationPolicy"],
-          "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+          "verified": [
+            "cancellationPolicy"
           ],
-          "sources": ["https://www.intrepidtravel.com/us/standard-booking-conditions"],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.intrepidtravel.com/us/standard-booking-conditions"
+          ],
           "note": "Real policy (US Standard Booking Conditions): 56+ days before departure, deposit held as future credit (no cash refund); 31-55 days, 30% cancellation fee; 30-15 days, 60% cancellation fee; presumed higher/100% fee inside 15 days (not fully confirmed). 'Credit instead of cash refund' isn't representable in this schema, so refundPercent approximates the 31-55 day tier."
+        }
+      },
+      {
+        "id": "tour-journey-beyond-travel-marrakech-sahara",
+        "operatorId": "journey-beyond-travel",
+        "operatorName": "Journey Beyond Travel",
+        "operatorLogoUrl": "https://example.com/journey-beyond-travel-logo.png",
+        "operatorRating": 4.7,
+        "operatorReviewCount": 96,
+        "isVerified": false,
+        "licenseNumber": "TTA-117",
+        "establishedYear": 2009,
+        "pricePerPerson": 1750.0,
+        "totalPrice": 3500.0,
+        "currency": "USD",
+        "durationDays": 8,
+        "durationNights": 7,
+        "itinerarySummary": "Marrakech → Atlas Mountains → Sahara Desert (Merzouga) → Fez/Marrakech",
+        "includedActivities": [
+          "Private vehicle and driver",
+          "Desert camp with camel trek",
+          "Most breakfasts and select dinners",
+          "Local guides and village visits",
+          "Riad and desert camp accommodation"
+        ],
+        "transportation": {
+          "vehicleType": "Private 4x4 or minivan + camel trek",
+          "maxPassengers": 6,
+          "features": [
+            "Air-conditioned vehicle",
+            "Private (non-shared) transport"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:6",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "Arabic",
+            "French"
+          ],
+          "certifications": [
+            "Licensed Tour Guide"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Travel insurance required (guest-arranged)",
+          "medicalEvacuation": false,
+          "supportAvailability": "24/7 Emergency Line",
+          "flyingDoctors": false
+        },
+        "departureDates": [
+          {
+            "date": "13 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": true
+          },
+          {
+            "date": "27 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 45,
+          "refundPercent": 75,
+          "refundDeadlineDays": 30,
+          "noRefundAfterDays": 14
+        },
+        "sustainability": {
+          "impactLevel": "Good",
+          "impactScore": 77,
+          "certifications": [
+            "Adventure Travel Trade Association (ATTA) Member"
+          ],
+          "communityProjects": [
+            "Local homestay and artisan-village partnerships"
+          ]
+        },
+        "priceLockedHours": 24,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.journeybeyondtravel.com/"
+          ],
+          "note": "Tangier-based boutique Morocco operator; company materials describe 'over 20 years' of bespoke trip design, though a co-founder is described as having moved to Morocco in 2009, which would suggest a younger company — the discrepancy wasn't resolved this session, so establishedYear (2009) is a rough placeholder, not a confirmed figure. No public booking-terms or cancellation-policy page was located, so cancellationPolicy and all remaining fields are illustrative placeholders."
         }
       }
     ]
   },
   {
-    "destinationId": "victoria_falls_003",
+    "destinationId": "victoria_falls_001",
     "destinationName": "Victoria Falls",
     "tours": [
       {
@@ -681,13 +1510,19 @@
         "transportation": {
           "vehicleType": "Shared minivan transfer",
           "maxPassengers": 14,
-          "features": ["Air-conditioned vehicle"]
+          "features": [
+            "Air-conditioned vehicle"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:14",
           "experienceYears": "5+ years",
-          "languages": ["English"],
-          "certifications": ["Local Tour Guide Certified"]
+          "languages": [
+            "English"
+          ],
+          "certifications": [
+            "Local Tour Guide Certified"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Travel insurance required (guest-arranged)",
@@ -696,8 +1531,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "11 Aug 2026", "isAvailable": true, "spotsLeft": 9, "isGuaranteed": true },
-          { "date": "25 Aug 2026", "isAvailable": true, "spotsLeft": 11, "isGuaranteed": false }
+          {
+            "date": "11 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 9,
+            "isGuaranteed": true
+          },
+          {
+            "date": "25 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 11,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 61,
@@ -714,14 +1559,129 @@
         "priceLockedHours": 24,
         "hasHiddenFees": false,
         "dataQualityNotes": {
-          "verified": ["cancellationPolicy"],
-          "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+          "verified": [
+            "cancellationPolicy"
           ],
-          "sources": ["https://www.africanbudgetsafaris.com/terms/"],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.africanbudgetsafaris.com/terms/"
+          ],
           "note": "Real policy: 30% deposit at booking; cancelling more than 61 days before travel forfeits the deposit only (70% refund); cancelling 60 days or less before travel incurs a 100% cancellation fee."
+        }
+      },
+      {
+        "id": "tour-wild-horizons-vicfalls",
+        "operatorId": "wild-horizons",
+        "operatorName": "Wild Horizons",
+        "operatorLogoUrl": "https://example.com/wild-horizons-logo.png",
+        "operatorRating": 4.7,
+        "operatorReviewCount": 168,
+        "isVerified": true,
+        "licenseNumber": "TTA-118",
+        "establishedYear": 1981,
+        "pricePerPerson": 1480.0,
+        "totalPrice": 2960.0,
+        "currency": "USD",
+        "durationDays": 3,
+        "durationNights": 2,
+        "itinerarySummary": "Victoria Falls town → Guided Falls tour → Zambezi sunset cruise → Optional Chobe day trip",
+        "includedActivities": [
+          "Guided Victoria Falls tour",
+          "Park entry and conservation levy",
+          "Zambezi sunset cruise",
+          "Airport transfers",
+          "Breakfast daily"
+        ],
+        "transportation": {
+          "vehicleType": "Shared minivan transfer",
+          "maxPassengers": 12,
+          "features": [
+            "Air-conditioned vehicle"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:12",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English"
+          ],
+          "certifications": [
+            "Local Tour Guide Certified"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Travel insurance required (guest-arranged)",
+          "medicalEvacuation": false,
+          "supportAvailability": "24/7 Support",
+          "flyingDoctors": false
+        },
+        "departureDates": [
+          {
+            "date": "13 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 7,
+            "isGuaranteed": true
+          },
+          {
+            "date": "27 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 9,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 60,
+          "refundPercent": 75,
+          "refundDeadlineDays": 30,
+          "noRefundAfterDays": 14
+        },
+        "sustainability": {
+          "impactLevel": "Good",
+          "impactScore": 84,
+          "certifications": [
+            "Travelife Partner"
+          ],
+          "communityProjects": [
+            "Wild Horizons Wildlife Trust",
+            "Victoria Falls Wildlife Trust conservation programs"
+          ]
+        },
+        "priceLockedHours": 24,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "establishedYear"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://wildhorizons.co.za/",
+            "https://www.go2africa.com/top-safari-brands/wild-horizons"
+          ],
+          "note": "Established 1981 in Zimbabwe, confirmed via company site, and a Travelife Partner as stated on the same site. No public cancellation-fee schedule for Wild Horizons' own multi-day packages was located this session (individual day-activity listings show 24-48 hour free-cancellation windows, which doesn't reflect a package policy), so cancellationPolicy here is an industry-typical placeholder, not Wild Horizons' confirmed terms."
         }
       }
     ]
@@ -756,13 +1716,21 @@
         "transportation": {
           "vehicleType": "4x4 Land Cruiser",
           "maxPassengers": 6,
-          "features": ["Pop-up roof", "Cooler box"]
+          "features": [
+            "Pop-up roof",
+            "Cooler box"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:6",
           "experienceYears": "8+ years",
-          "languages": ["English", "Swahili"],
-          "certifications": ["Professional Safari Guide"]
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
@@ -771,8 +1739,18 @@
           "flyingDoctors": true
         },
         "departureDates": [
-          { "date": "9 Aug 2026", "isAvailable": true, "spotsLeft": 4, "isGuaranteed": true },
-          { "date": "23 Aug 2026", "isAvailable": true, "spotsLeft": 5, "isGuaranteed": false }
+          {
+            "date": "9 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 4,
+            "isGuaranteed": true
+          },
+          {
+            "date": "23 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 60,
@@ -791,18 +1769,130 @@
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
           "sources": [],
           "note": "UK-based tailor-made East Africa specialist per the operator shortlist. No public cancellation-fee schedule was located this session, so all fields are illustrative placeholders, not confirmed facts."
+        }
+      },
+      {
+        "id": "tour-hoopoe-safaris-ngorongoro",
+        "operatorId": "hoopoe-safaris",
+        "operatorName": "Hoopoe Safaris",
+        "operatorLogoUrl": "https://example.com/hoopoe-safaris-logo.png",
+        "operatorRating": 4.7,
+        "operatorReviewCount": 89,
+        "isVerified": true,
+        "licenseNumber": "TTA-119",
+        "establishedYear": 1989,
+        "pricePerPerson": 3350.0,
+        "totalPrice": 6700.0,
+        "currency": "USD",
+        "durationDays": 4,
+        "durationNights": 3,
+        "itinerarySummary": "Arusha → Kirurumu Ngorongoro Lodge Tented Camp → Crater floor game drive",
+        "includedActivities": [
+          "Park fees",
+          "Crater floor game drive",
+          "Private 4x4 vehicle and guide",
+          "All meals",
+          "Airport transfers"
+        ],
+        "transportation": {
+          "vehicleType": "4x4 Land Cruiser",
+          "maxPassengers": 6,
+          "features": [
+            "Pop-up roof",
+            "Cooler box"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:6",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
+          "medicalEvacuation": true,
+          "supportAvailability": "24/7 Support",
+          "flyingDoctors": true
+        },
+        "departureDates": [
+          {
+            "date": "11 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 4,
+            "isGuaranteed": true
+          },
+          {
+            "date": "25 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 60,
+          "refundPercent": 50,
+          "refundDeadlineDays": 60,
+          "noRefundAfterDays": 30
+        },
+        "sustainability": {
+          "impactLevel": "Excellent",
+          "impactScore": 90,
+          "certifications": [
+            "Condé Nast Traveler Best Ecotourism Company (2004)"
+          ],
+          "communityProjects": [
+            "Kirurumu Under Canvas community partnerships"
+          ]
+        },
+        "priceLockedHours": 48,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "cancellationPolicy (partial)"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.hoopoe.com/booking-terms-conditions"
+          ],
+          "note": "Real policy for Hoopoe's own products: a 50% deposit is due within 14 days of booking, balance due 60 days before the trip (or the booking auto-cancels), and cancelling 30 days or less before the first day of service forfeits 100% of cost. The published terms didn't give a clear refund percentage for cancellations made well in advance, so freeCancelDays/refundPercent here are an approximation; noRefundAfterDays (30 → mapped here as the field name allows) is directly informed by the source. establishedYear (1989) is a commonly-cited but unverified estimate, not a confirmed founding date."
         }
       }
     ]
   },
   {
-    "destinationId": "dakar_goree_015",
+    "destinationId": "dakar_goree_001",
     "destinationName": "Dakar & Gorée Island",
     "tours": [
       {
@@ -830,13 +1920,21 @@
         "transportation": {
           "vehicleType": "Shared minivan + ferry",
           "maxPassengers": 14,
-          "features": ["Air-conditioned vehicle"]
+          "features": [
+            "Air-conditioned vehicle"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:14",
           "experienceYears": "5+ years",
-          "languages": ["English", "French", "Wolof"],
-          "certifications": ["Local Tour Guide Certified"]
+          "languages": [
+            "English",
+            "French",
+            "Wolof"
+          ],
+          "certifications": [
+            "Local Tour Guide Certified"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Travel insurance required (guest-arranged)",
@@ -845,8 +1943,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "4 Oct 2026", "isAvailable": true, "spotsLeft": 10, "isGuaranteed": true },
-          { "date": "18 Oct 2026", "isAvailable": true, "spotsLeft": 12, "isGuaranteed": false }
+          {
+            "date": "4 Oct 2026",
+            "isAvailable": true,
+            "spotsLeft": 10,
+            "isGuaranteed": true
+          },
+          {
+            "date": "18 Oct 2026",
+            "isAvailable": true,
+            "spotsLeft": 12,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 45,
@@ -865,18 +1973,125 @@
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
           "sources": [],
           "note": "Listed as a Senegal/Mali specialist in the operator shortlist, but no public booking-terms page or verifiable company profile was found this session. All fields are placeholders; treat the operator's identity and licensing as unverified."
+        }
+      },
+      {
+        "id": "tour-nouvelles-frontieres-senegal-dakar",
+        "operatorId": "nouvelles-frontieres-senegal",
+        "operatorName": "Nouvelles Frontières Sénégal",
+        "operatorLogoUrl": "https://example.com/nouvelles-frontieres-senegal-logo.png",
+        "operatorRating": 4.5,
+        "operatorReviewCount": 53,
+        "isVerified": true,
+        "licenseNumber": "TTA-120",
+        "establishedYear": 1984,
+        "pricePerPerson": 1050.0,
+        "totalPrice": 2100.0,
+        "currency": "USD",
+        "durationDays": 3,
+        "durationNights": 2,
+        "itinerarySummary": "Dakar city tour & African Renaissance Monument → Gorée Island ferry & guided history tour → Soumbédioune market",
+        "includedActivities": [
+          "Gorée Island ferry tickets",
+          "Multilingual local guide",
+          "Airport transfers",
+          "Breakfast daily"
+        ],
+        "transportation": {
+          "vehicleType": "Air-conditioned minivan + ferry",
+          "maxPassengers": 14,
+          "features": [
+            "Air-conditioned vehicle"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:14",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "French",
+            "Wolof"
+          ],
+          "certifications": [
+            "Licensed Tour Guide"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Travel insurance required (guest-arranged)",
+          "medicalEvacuation": false,
+          "supportAvailability": "Business hours support",
+          "flyingDoctors": false
+        },
+        "departureDates": [
+          {
+            "date": "11 Oct 2026",
+            "isAvailable": true,
+            "spotsLeft": 9,
+            "isGuaranteed": true
+          },
+          {
+            "date": "25 Oct 2026",
+            "isAvailable": true,
+            "spotsLeft": 11,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 45,
+          "refundPercent": 70,
+          "refundDeadlineDays": 30,
+          "noRefundAfterDays": 7
+        },
+        "sustainability": {
+          "impactLevel": "Fair",
+          "impactScore": 64,
+          "certifications": [],
+          "communityProjects": []
+        },
+        "priceLockedHours": 24,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "establishedYear"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.africatouroperators.org/senegal/senegal-tour-operators/"
+          ],
+          "note": "Nouvelles Frontières Sénégal is described as the Dakar-based local subsidiary of TUI Group, operating as a destination management company since 1984 — a real, verifiable, well-established operator. No public cancellation-fee schedule specific to this company was located this session, so cancellationPolicy and most other fields are placeholders carried over from general Goree/Dakar tour-industry norms rather than this operator's confirmed terms."
         }
       }
     ]
   },
   {
-    "destinationId": "tarangire_008",
+    "destinationId": "tarangire_001",
     "destinationName": "Tarangire National Park",
     "tours": [
       {
@@ -904,13 +2119,20 @@
         "transportation": {
           "vehicleType": "4x4 open safari vehicle",
           "maxPassengers": 6,
-          "features": ["Open-sided viewing"]
+          "features": [
+            "Open-sided viewing"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:6",
           "experienceYears": "10+ years",
-          "languages": ["English", "Swahili"],
-          "certifications": ["Professional Safari Guide"]
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
@@ -919,8 +2141,18 @@
           "flyingDoctors": true
         },
         "departureDates": [
-          { "date": "13 Aug 2026", "isAvailable": true, "spotsLeft": 4, "isGuaranteed": true },
-          { "date": "27 Aug 2026", "isAvailable": true, "spotsLeft": 6, "isGuaranteed": false }
+          {
+            "date": "13 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 4,
+            "isGuaranteed": true
+          },
+          {
+            "date": "27 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 61,
@@ -939,18 +2171,128 @@
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
-          "sources": ["https://www.hoopoe.com/booking-terms-conditions"],
+          "sources": [
+            "https://www.hoopoe.com/booking-terms-conditions"
+          ],
           "note": "cancellationPolicy is sourced indirectly: a partner operator's (Hoopoe Safaris) own terms cite a separate cancellation schedule specifically for bookings on 'Nomads Tanzania' product — 50% charge from confirmation to 61 days pre-trip, 75% charge 60-31 days pre-trip, 100% charge inside 30 days. This is third-party-reported, not Nomad Tanzania's own published terms, so treat as indicative rather than confirmed. All other fields are placeholders; the 1993 founding year is commonly cited but not independently re-verified this session."
+        }
+      },
+      {
+        "id": "tour-sunny-safaris-tarangire",
+        "operatorId": "sunny-safaris",
+        "operatorName": "Sunny Safaris",
+        "operatorLogoUrl": "https://example.com/sunny-safaris-logo.png",
+        "operatorRating": 4.7,
+        "operatorReviewCount": 112,
+        "isVerified": true,
+        "licenseNumber": "TTA-121",
+        "establishedYear": 1983,
+        "pricePerPerson": 2850.0,
+        "totalPrice": 5700.0,
+        "currency": "USD",
+        "durationDays": 3,
+        "durationNights": 2,
+        "itinerarySummary": "Arusha → Tarangire National Park camp → game drives among baobabs",
+        "includedActivities": [
+          "Park fees",
+          "Game drives",
+          "Private guide and 4x4 vehicle",
+          "All meals"
+        ],
+        "transportation": {
+          "vehicleType": "4x4 safari vehicle",
+          "maxPassengers": 6,
+          "features": [
+            "Pop-up roof",
+            "Cooler box"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:6",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Comprehensive Travel Insurance (guest-arranged)",
+          "medicalEvacuation": true,
+          "supportAvailability": "24/7 Support",
+          "flyingDoctors": true
+        },
+        "departureDates": [
+          {
+            "date": "15 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 5,
+            "isGuaranteed": true
+          },
+          {
+            "date": "29 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 7,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 35,
+          "refundPercent": 70,
+          "refundDeadlineDays": 35,
+          "noRefundAfterDays": 35
+        },
+        "sustainability": {
+          "impactLevel": "Good",
+          "impactScore": 80,
+          "certifications": [
+            "Tanzania Tourist Board / TATO Bonded"
+          ],
+          "communityProjects": []
+        },
+        "priceLockedHours": 48,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "establishedYear",
+            "cancellationPolicy"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.sunnysafaris.com/about-us/"
+          ],
+          "note": "Founded in 1983 by Firoz Ali Suleman (one source describes the company's foundation as 1982), confirmed via company sources. Real policy: cancelling less than 35 days before the safari start date incurs a 100% cancellation fee; cancelling more than 35 days before incurs a 30% fee, plus any third-party payments already made. This is a simpler two-tier policy than this schema's 4-field structure, so the 35-day figure is used for both refundDeadlineDays and noRefundAfterDays as an approximation."
         }
       }
     ]
   },
   {
-    "destinationId": "amboseli_033",
+    "destinationId": "amboseli_001",
     "destinationName": "Amboseli National Park",
     "tours": [
       {
@@ -978,13 +2320,20 @@
         "transportation": {
           "vehicleType": "4x4 safari vehicle",
           "maxPassengers": 6,
-          "features": ["Pop-up roof"]
+          "features": [
+            "Pop-up roof"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:6",
           "experienceYears": "5+ years",
-          "languages": ["English", "Swahili"],
-          "certifications": ["Professional Safari Guide"]
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Standard Travel Insurance (guest-arranged)",
@@ -993,8 +2342,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "7 Aug 2026", "isAvailable": true, "spotsLeft": 6, "isGuaranteed": true },
-          { "date": "21 Aug 2026", "isAvailable": true, "spotsLeft": 8, "isGuaranteed": false }
+          {
+            "date": "7 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": true
+          },
+          {
+            "date": "21 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 8,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 60,
@@ -1013,19 +2372,129 @@
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
           "sources": [],
           "note": "Listed as a Kenya specialist in the operator shortlist. No public booking-terms page was located this session to verify any field — all data here is illustrative placeholder data."
+        }
+      },
+      {
+        "id": "tour-southern-cross-safaris-amboseli",
+        "operatorId": "southern-cross-safaris",
+        "operatorName": "Southern Cross Safaris",
+        "operatorLogoUrl": "https://example.com/southern-cross-safaris-logo.png",
+        "operatorRating": 4.6,
+        "operatorReviewCount": 71,
+        "isVerified": true,
+        "licenseNumber": "TTA-122",
+        "establishedYear": 1976,
+        "pricePerPerson": 1950.0,
+        "totalPrice": 3900.0,
+        "currency": "USD",
+        "durationDays": 3,
+        "durationNights": 2,
+        "itinerarySummary": "Nairobi → Satao Elerai Camp, Amboseli → Mount Kilimanjaro views",
+        "includedActivities": [
+          "Park fees",
+          "Game drives",
+          "Private guide and vehicle",
+          "All meals"
+        ],
+        "transportation": {
+          "vehicleType": "4x4 Toyota Land Cruiser",
+          "maxPassengers": 6,
+          "features": [
+            "Pop-up roof",
+            "Air-conditioned"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:6",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Professional Safari Guide"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Standard Travel Insurance (guest-arranged)",
+          "medicalEvacuation": true,
+          "supportAvailability": "24/7 Support",
+          "flyingDoctors": true
+        },
+        "departureDates": [
+          {
+            "date": "9 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 6,
+            "isGuaranteed": true
+          },
+          {
+            "date": "23 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 8,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 60,
+          "refundPercent": 70,
+          "refundDeadlineDays": 35,
+          "noRefundAfterDays": 15
+        },
+        "sustainability": {
+          "impactLevel": "Good",
+          "impactScore": 80,
+          "certifications": [
+            "African Travel and Tourism Association (ATTA) Member",
+            "Kenya Association of Tour Operators (KATO) Member"
+          ],
+          "communityProjects": []
+        },
+        "priceLockedHours": 24,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://southern-cross-safaris-kenya.com/",
+            "https://ke.linkedin.com/company/southern-cross-safaris"
+          ],
+          "note": "Southern Cross Safaris is a real, long-established Nairobi-based operator (company materials cite 'nearly 50 years' of operation, implying a founding in the mid-to-late 1970s) and is confirmed to operate Satao Elerai Camp just outside Amboseli National Park. No public cancellation-fee schedule was located this session, so cancellationPolicy, establishedYear, and most other fields are placeholders rather than confirmed company data."
         }
       }
     ]
   },
   {
-    "destinationId": "pyramids_giza_024",
-    "destinationName": "Pyramids of Giza",
+    "destinationId": "giza_cairo_001",
+    "destinationName": "Pyramids of Giza & Cairo",
     "tours": [
       {
         "id": "tour-egypt-tours-portal-giza",
@@ -1052,13 +2521,20 @@
         "transportation": {
           "vehicleType": "Air-conditioned private car/minivan",
           "maxPassengers": 8,
-          "features": ["Air-conditioned vehicle"]
+          "features": [
+            "Air-conditioned vehicle"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:8",
           "experienceYears": "5+ years",
-          "languages": ["English", "Arabic"],
-          "certifications": ["Licensed Egyptologist Guide"]
+          "languages": [
+            "English",
+            "Arabic"
+          ],
+          "certifications": [
+            "Licensed Egyptologist Guide"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Travel insurance required (guest-arranged)",
@@ -1067,8 +2543,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "2 Sep 2026", "isAvailable": true, "spotsLeft": 7, "isGuaranteed": true },
-          { "date": "16 Sep 2026", "isAvailable": true, "spotsLeft": 9, "isGuaranteed": false }
+          {
+            "date": "2 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 7,
+            "isGuaranteed": true
+          },
+          {
+            "date": "16 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 9,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 30,
@@ -1087,12 +2573,122 @@
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
           "sources": [],
           "note": "Listed as an Egypt specialist in the operator shortlist. No public booking-terms page was located this session — all fields are illustrative placeholders."
+        }
+      },
+      {
+        "id": "tour-memphis-tours-giza",
+        "operatorId": "memphis-tours",
+        "operatorName": "Memphis Tours",
+        "operatorLogoUrl": "https://example.com/memphis-tours-logo.png",
+        "operatorRating": 4.6,
+        "operatorReviewCount": 348,
+        "isVerified": true,
+        "licenseNumber": "TTA-123",
+        "establishedYear": 1955,
+        "pricePerPerson": 920.0,
+        "totalPrice": 1840.0,
+        "currency": "USD",
+        "durationDays": 4,
+        "durationNights": 3,
+        "itinerarySummary": "Cairo → Pyramids of Giza & Sphinx → Egyptian Museum → Saqqara & Memphis",
+        "includedActivities": [
+          "Egyptologist guide",
+          "Entry fees",
+          "Hotel pickup/drop-off",
+          "Breakfast daily"
+        ],
+        "transportation": {
+          "vehicleType": "Air-conditioned private car/minivan",
+          "maxPassengers": 8,
+          "features": [
+            "Air-conditioned vehicle"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:8",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "Arabic",
+            "French"
+          ],
+          "certifications": [
+            "Licensed Egyptologist Guide"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Travel insurance recommended (guest-arranged)",
+          "medicalEvacuation": false,
+          "supportAvailability": "24/7 Support",
+          "flyingDoctors": false
+        },
+        "departureDates": [
+          {
+            "date": "5 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 8,
+            "isGuaranteed": true
+          },
+          {
+            "date": "19 Sep 2026",
+            "isAvailable": true,
+            "spotsLeft": 10,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 61,
+          "refundPercent": 85,
+          "refundDeadlineDays": 61,
+          "noRefundAfterDays": 14
+        },
+        "sustainability": {
+          "impactLevel": "Fair",
+          "impactScore": 61,
+          "certifications": [
+            "IATA Member",
+            "ASTA Member"
+          ],
+          "communityProjects": []
+        },
+        "priceLockedHours": 24,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "establishedYear",
+            "cancellationPolicy"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "licenseNumber",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.memphistours.com/general/terms-conditions",
+            "https://www.travelstride.com/tour-operators/memphis-tours"
+          ],
+          "note": "Licensed Egyptian tour operator since 1955, confirmed via company terms page. Real cancellation policy (most consistent version found): 15% charge from booking until 61 days before arrival, 35% charge 60-31 days before, 50% charge 30-15 days before, 100% charge 14-1 days before. Different Memphis Tours web pages show slightly different mid-tier percentages (e.g. 25% instead of 35% for the 60-31 day window), so treat the exact mid-tier numbers as approximate; the 15% (far-out) and 100% (last two weeks) tiers were consistent across all sources checked. operatorReviewCount (348) reflects a third-party aggregator's review count at time of search, not Memphis Tours' own published total."
         }
       }
     ]
@@ -1126,13 +2722,20 @@
         "transportation": {
           "vehicleType": "Shared minivan transfer",
           "maxPassengers": 10,
-          "features": ["Air-conditioned vehicle"]
+          "features": [
+            "Air-conditioned vehicle"
+          ]
         },
         "guideInfo": {
           "guideToTravelerRatio": "1:10",
           "experienceYears": "5+ years",
-          "languages": ["English", "Swahili"],
-          "certifications": ["Local Tour Guide Certified"]
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Local Tour Guide Certified"
+          ]
         },
         "safetyHealth": {
           "insuranceType": "Travel insurance required (guest-arranged)",
@@ -1141,8 +2744,18 @@
           "flyingDoctors": false
         },
         "departureDates": [
-          { "date": "16 Aug 2026", "isAvailable": true, "spotsLeft": 8, "isGuaranteed": true },
-          { "date": "30 Aug 2026", "isAvailable": true, "spotsLeft": 10, "isGuaranteed": false }
+          {
+            "date": "16 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 8,
+            "isGuaranteed": true
+          },
+          {
+            "date": "30 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 10,
+            "isGuaranteed": false
+          }
         ],
         "cancellationPolicy": {
           "freeCancelDays": 45,
@@ -1161,12 +2774,118 @@
         "dataQualityNotes": {
           "verified": [],
           "placeholder": [
-            "operatorRating", "operatorReviewCount", "licenseNumber", "establishedYear",
-            "pricePerPerson", "totalPrice", "departureDates", "cancellationPolicy",
-            "sustainability", "guideInfo", "transportation", "safetyHealth"
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "cancellationPolicy",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
           ],
           "sources": [],
           "note": "Listed as a Tanzania/Zanzibar specialist in the operator shortlist. No public booking-terms page or verifiable company profile was found this session — all fields are illustrative placeholders, not confirmed facts about a real business."
+        }
+      },
+      {
+        "id": "tour-zara-tours-zanzibar",
+        "operatorId": "zara-tours",
+        "operatorName": "Zara Tours (Zara Tanzania Adventures)",
+        "operatorLogoUrl": "https://example.com/zara-tours-logo.png",
+        "operatorRating": 4.6,
+        "operatorReviewCount": 67,
+        "isVerified": true,
+        "licenseNumber": "TTA-124",
+        "establishedYear": 1990,
+        "pricePerPerson": 1180.0,
+        "totalPrice": 2360.0,
+        "currency": "USD",
+        "durationDays": 4,
+        "durationNights": 3,
+        "itinerarySummary": "Stone Town walking tour → Spice farm tour → Prison Island → Beach relaxation, Zanzibar",
+        "includedActivities": [
+          "Stone Town guided tour",
+          "Spice farm visit",
+          "Airport transfers",
+          "Breakfast daily"
+        ],
+        "transportation": {
+          "vehicleType": "Shared minivan transfer",
+          "maxPassengers": 10,
+          "features": [
+            "Air-conditioned vehicle"
+          ]
+        },
+        "guideInfo": {
+          "guideToTravelerRatio": "1:10",
+          "experienceYears": "10+ years",
+          "languages": [
+            "English",
+            "Swahili"
+          ],
+          "certifications": [
+            "Local Tour Guide Certified"
+          ]
+        },
+        "safetyHealth": {
+          "insuranceType": "Travel insurance required (guest-arranged)",
+          "medicalEvacuation": false,
+          "supportAvailability": "Business hours support",
+          "flyingDoctors": false
+        },
+        "departureDates": [
+          {
+            "date": "17 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 7,
+            "isGuaranteed": true
+          },
+          {
+            "date": "31 Aug 2026",
+            "isAvailable": true,
+            "spotsLeft": 9,
+            "isGuaranteed": false
+          }
+        ],
+        "cancellationPolicy": {
+          "freeCancelDays": 30,
+          "refundPercent": 80,
+          "refundDeadlineDays": 30,
+          "noRefundAfterDays": 14
+        },
+        "sustainability": {
+          "impactLevel": "Fair",
+          "impactScore": 63,
+          "certifications": [],
+          "communityProjects": []
+        },
+        "priceLockedHours": 24,
+        "hasHiddenFees": false,
+        "dataQualityNotes": {
+          "verified": [
+            "cancellationPolicy"
+          ],
+          "placeholder": [
+            "operatorRating",
+            "operatorReviewCount",
+            "licenseNumber",
+            "establishedYear",
+            "pricePerPerson",
+            "totalPrice",
+            "departureDates",
+            "sustainability",
+            "guideInfo",
+            "transportation",
+            "safetyHealth"
+          ],
+          "sources": [
+            "https://www.zaratours.com/stone-town-2-days-1-night/"
+          ],
+          "note": "Real policy: cancellations received 30+ days before departure forfeit 20% of the package price (80% refund); 14-29 days before, 50% is retained; less than 14 days before, 100% is retained. establishedYear (1990) is a commonly-cited industry estimate for this long-running Tanzania/Zanzibar operator but wasn't independently re-confirmed on an official company page this session, so it remains a placeholder."
         }
       }
     ]
