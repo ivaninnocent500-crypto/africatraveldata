@@ -4,35 +4,85 @@
     "inclusions": [
       {
         "category": "Park Fees",
-        "items": ["All national park entrance fees", "Conservation area fees", "Crater service fees"],
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
         "iconType": "park"
       },
       {
         "category": "Transport",
-        "items": ["4x4 Safari Land Cruiser with pop-up roof", "Airport transfers (arrival & departure)", "Unlimited mileage on safari"],
+        "items": [
+          "4x4 Land Cruiser",
+          "Pop-up roof, Refrigerator, Charging ports",
+          "Airport/hotel transfers"
+        ],
         "iconType": "vehicle"
       },
       {
         "category": "Meals",
-        "items": ["All meals as specified in itinerary", "Bush picnic lunches", "Drinking water throughout"],
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
         "iconType": "meal"
       },
       {
         "category": "Activities",
-        "items": ["Daily game drives", "Maasai cultural village visit", "Professional English/Swahili-speaking guide"],
+        "items": [
+          "All park fees",
+          "4x4 Safari vehicle",
+          "Professional guide",
+          "Drinking water",
+          "All meals as specified",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
         "iconType": "activity"
       },
       {
         "category": "Accommodation",
-        "items": ["4 nights lodge/camp accommodation as specified", "All applicable taxes and service charges"],
+        "items": [
+          "4 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
         "iconType": "lodge"
       }
     ],
     "exclusions": [
-      { "category": "International Flights", "items": ["Airfare to/from Tanzania"], "iconType": "flight" },
-      { "category": "Travel Insurance", "items": ["Comprehensive travel & medical insurance"], "iconType": "insurance" },
-      { "category": "Personal Expenses", "items": ["Alcoholic beverages", "Laundry", "Tips and gratuities", "Souvenirs"], "iconType": "personal" },
-      { "category": "Optional Activities", "items": ["Hot air balloon safari ($550 per person)", "Spa treatments"], "iconType": "optional" }
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive travel & medical insurance"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
     ]
   },
   {
@@ -40,35 +90,85 @@
     "inclusions": [
       {
         "category": "Park Fees",
-        "items": ["All national park entrance fees", "Conservation area fees"],
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
         "iconType": "park"
       },
       {
         "category": "Transport",
-        "items": ["4x4 Land Cruiser with WiFi onboard", "Domestic scheduled flight Tarangire–Serengeti", "Private airport transfers"],
+        "items": [
+          "4x4 Land Cruiser + Domestic Flight",
+          "Pop-up roof, Luxury interior, WiFi onboard",
+          "Airport/hotel transfers"
+        ],
         "iconType": "vehicle"
       },
       {
         "category": "Meals",
-        "items": ["All meals", "Premium beverages including selected wines", "Bush brunch experiences"],
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
         "iconType": "meal"
       },
       {
         "category": "Activities",
-        "items": ["Daily game drives with master guide", "Professional wildlife photography session", "Maasai village cultural visit"],
+        "items": [
+          "All park fees",
+          "4x4 Safari vehicle",
+          "Professional guide",
+          "Drinking water",
+          "All meals as specified",
+          "Guide (1:4 ratio, speaks English, Swahili, French)"
+        ],
         "iconType": "activity"
       },
       {
         "category": "Accommodation",
-        "items": ["4 nights luxury camp/hotel accommodation", "All applicable taxes and service charges"],
+        "items": [
+          "4 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
         "iconType": "lodge"
       }
     ],
     "exclusions": [
-      { "category": "International Flights", "items": ["Airfare to/from Tanzania"], "iconType": "flight" },
-      { "category": "Travel Insurance", "items": ["Comprehensive travel & medical insurance"], "iconType": "insurance" },
-      { "category": "Optional Activities", "items": ["Hot air balloon safari", "Spa treatments at camp"], "iconType": "optional" },
-      { "category": "Personal Expenses", "items": ["Tips and gratuities", "Curio shop purchases"], "iconType": "personal" }
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive travel & medical insurance"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
     ]
   },
   {
@@ -76,35 +176,4428 @@
     "inclusions": [
       {
         "category": "Park Fees",
-        "items": ["All national park entrance fees"],
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies"
+        ],
         "iconType": "park"
       },
       {
         "category": "Transport",
-        "items": ["4x4 Land Cruiser with cooler box & binoculars", "Airport transfers"],
+        "items": [
+          "4x4 Land Cruiser",
+          "Pop-up roof, Cooler box, Binoculars",
+          "Airport/hotel transfers"
+        ],
         "iconType": "vehicle"
       },
       {
         "category": "Meals",
-        "items": ["All meals as specified", "Drinking water"],
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
         "iconType": "meal"
       },
       {
         "category": "Activities",
-        "items": ["Daily game drives", "Maasai village visit", "Sunset photography session"],
+        "items": [
+          "All park fees",
+          "4x4 Safari vehicle",
+          "Professional guide",
+          "Drinking water",
+          "All meals as specified",
+          "Guide (1:6 ratio, speaks English, Swahili, German)"
+        ],
         "iconType": "activity"
       },
       {
         "category": "Accommodation",
-        "items": ["4 nights hotel/camp accommodation as specified"],
+        "items": [
+          "4 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
         "iconType": "lodge"
       }
     ],
     "exclusions": [
-      { "category": "International Flights", "items": ["Airfare"], "iconType": "flight" },
-      { "category": "Travel Insurance", "items": ["Travel & medical insurance"], "iconType": "insurance" },
-      { "category": "Personal Expenses", "items": ["Tips", "Souvenirs", "Laundry"], "iconType": "personal" }
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive travel & medical insurance"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-serengeti-smile-serengeti",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 Land Cruiser",
+          "Pop-up roof, Cooler box",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "All park fees",
+          "4x4 Safari vehicle",
+          "Professional guide",
+          "Drinking water",
+          "All meals as specified",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive travel & medical insurance"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-thomson-safaris-serengeti",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 Land Cruiser",
+          "Pop-up roof, Charging ports, Cooler box",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "All park fees",
+          "4x4 Land Cruiser safari vehicle",
+          "Professional guide",
+          "Drinking water",
+          "All meals as specified",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "4 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-andbeyond-masai-mara",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 open-sided safari vehicle + light aircraft",
+          "Open-sided viewing, Charging ports, Cooler box",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "All park/conservancy fees",
+          "Light aircraft transfer",
+          "Private safari vehicle with guide",
+          "All meals and house wines",
+          "Twice-daily game drives",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-gamewatchers-masai-mara",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 open-sided safari vehicle",
+          "Open-sided viewing, Cooler box, Binoculars",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "All conservancy fees",
+          "Private 4x4 safari vehicle with guide",
+          "Day and night game drives",
+          "All meals and house drinks",
+          "Guided bush walks",
+          "Guide (1:6 ratio, speaks English, Swahili, Maa)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-african-budget-safaris-vicfalls",
+    "inclusions": [
+      {
+        "category": "Park & Activity Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Shared minivan transfer",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Guided Victoria Falls tour",
+          "Park entry fees",
+          "Zambezi sunset cruise",
+          "Airport transfers",
+          "Breakfast daily",
+          "Guide (1:14 ratio, speaks English)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Helicopter flight over the falls",
+          "Bungee jumping / gorge swing",
+          "White water rafting upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-wild-horizons-vicfalls",
+    "inclusions": [
+      {
+        "category": "Park & Activity Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Shared minivan transfer",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Guided Victoria Falls tour",
+          "Park entry and conservation levy",
+          "Zambezi sunset cruise",
+          "Airport transfers",
+          "Breakfast daily",
+          "Guide (1:12 ratio, speaks English)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Helicopter flight over the falls",
+          "Bungee jumping / gorge swing",
+          "White water rafting upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-lion-king-adventures-zanzibar",
+    "inclusions": [
+      {
+        "category": "Park & Marine Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Shared minivan transfer",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Stone Town guided tour",
+          "Spice farm visit",
+          "Airport transfers",
+          "Breakfast daily",
+          "Guide (1:10 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scuba diving certification course",
+          "Private sunset dhow charter",
+          "Spa treatments"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-zara-tours-zanzibar",
+    "inclusions": [
+      {
+        "category": "Park & Marine Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Shared minivan transfer",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Stone Town guided tour",
+          "Spice farm visit",
+          "Airport transfers",
+          "Breakfast daily",
+          "Guide (1:10 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scuba diving certification course",
+          "Private sunset dhow charter",
+          "Spa treatments"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-yellow-zebra-ngorongoro",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 Land Cruiser",
+          "Pop-up roof, Cooler box",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Crater floor game drive",
+          "Private guide and vehicle",
+          "All meals",
+          "Airport transfers",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-hoopoe-safaris-ngorongoro",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 Land Cruiser",
+          "Pop-up roof, Cooler box",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Crater floor game drive",
+          "Private 4x4 vehicle and guide",
+          "All meals",
+          "Airport transfers",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-continent-tours-dakar",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Shared minivan + ferry",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Gorée Island ferry tickets",
+          "Local guide",
+          "Airport transfers",
+          "Breakfast daily",
+          "Guide (1:14 ratio, speaks English, French, Wolof)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-nouvelles-frontieres-senegal-dakar",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Air-conditioned minivan + ferry",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Gorée Island ferry tickets",
+          "Multilingual local guide",
+          "Airport transfers",
+          "Breakfast daily",
+          "Guide (1:14 ratio, speaks English, French, Wolof)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-gadventures-kilimanjaro",
+    "inclusions": [
+      {
+        "category": "Park & Permit Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Shared shuttle to/from trailhead",
+          "Group transfer",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park and camping fees",
+          "Porters and cook",
+          "All meals on the mountain",
+          "Pre-climb briefing",
+          "Certified mountain guide",
+          "Guide (1:4 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "7 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance with high-altitude trekking cover required"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Summit certificate photo package",
+          "Extra porter/private tent upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-ultimate-kilimanjaro",
+    "inclusions": [
+      {
+        "category": "Park & Permit Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Shared shuttle to/from trailhead",
+          "Group transfer",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park and camping fees",
+          "Porters and cook",
+          "All meals on the mountain",
+          "Pre-climb briefing",
+          "Licensed mountain guide",
+          "Guide (1:3 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "8 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance with high-altitude trekking cover required"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Summit certificate photo package",
+          "Extra porter/private tent upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-wilderness-okavango",
+    "inclusions": [
+      {
+        "category": "Reserve & Concession Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 open safari vehicle + light aircraft + mokoro",
+          "Open-sided viewing, Water-based activities",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Light aircraft transfers",
+          "Private concession game drives",
+          "Mokoro (canoe) excursions",
+          "All meals and house beverages",
+          "Guided bush walks",
+          "Guide (1:6 ratio, speaks English)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scenic helicopter flight over the Delta",
+          "Spa treatments at camp"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-desert-delta-okavango",
+    "inclusions": [
+      {
+        "category": "Reserve & Concession Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 open safari vehicle + light aircraft",
+          "Open-sided viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Light aircraft transfers",
+          "Game drives",
+          "Boat/mokoro excursions",
+          "All meals",
+          "Park fees",
+          "Guide (1:8 ratio, speaks English)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Standard Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scenic helicopter flight over the Delta",
+          "Spa treatments at camp"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-natural-selection-okavango",
+    "inclusions": [
+      {
+        "category": "Reserve & Concession Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 open safari vehicle + light aircraft",
+          "Open-sided viewing, Private vehicle for groups of 6-7",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Light aircraft transfers",
+          "Daily game drives and guided walks",
+          "Mokoro/boat excursions (water levels permitting)",
+          "All meals and local beverages",
+          "Conservation, Community and Reserve (CCR) fee",
+          "Guide (1:7 ratio, speaks English)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scenic helicopter flight over the Delta",
+          "Spa treatments at camp"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-africa-kenya-safaris-amboseli",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 safari vehicle",
+          "Pop-up roof",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Game drives",
+          "Private guide and vehicle",
+          "All meals",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Standard Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-southern-cross-safaris-amboseli",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 Toyota Land Cruiser",
+          "Pop-up roof, Air-conditioned",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Game drives",
+          "Private guide and vehicle",
+          "All meals",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Standard Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-egypt-tours-portal-giza",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Air-conditioned private car/minivan",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Egyptologist guide",
+          "Entry fees",
+          "Hotel pickup/drop-off",
+          "Breakfast daily",
+          "Guide (1:8 ratio, speaks English, Arabic)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-memphis-tours-giza",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Air-conditioned private car/minivan",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Egyptologist guide",
+          "Entry fees",
+          "Hotel pickup/drop-off",
+          "Breakfast daily",
+          "Guide (1:8 ratio, speaks English, Arabic, French)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance recommended (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-intrepid-marrakech-sahara",
+    "inclusions": [
+      {
+        "category": "Park & Conservation Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Small group minivan + camel trek",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Local transport",
+          "Desert camp with camel trek",
+          "Most breakfasts",
+          "Local guide in each region",
+          "Riad and desert camp accommodation",
+          "Guide (1:12 ratio, speaks English, Arabic, French)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "7 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon flight over the dunes",
+          "Quad biking / sandboarding"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-journey-beyond-travel-marrakech-sahara",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Private 4x4 or minivan + camel trek",
+          "Air-conditioned vehicle, Private (non-shared) transport",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Private vehicle and driver",
+          "Desert camp with camel trek",
+          "Most breakfasts and select dinners",
+          "Local guides and village visits",
+          "Riad and desert camp accommodation",
+          "Guide (1:6 ratio, speaks English, Arabic, French)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "7 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-wolwedans-sossusvlei",
+    "inclusions": [
+      {
+        "category": "Park & Conservation Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 open safari vehicle",
+          "Open-sided viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Conservation levy",
+          "Guided dune walks",
+          "All meals",
+          "Sundowner drives",
+          "Guide (1:6 ratio, speaks English, German)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon flight over the dunes",
+          "Quad biking / sandboarding"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-city-sightseeing-cape-town",
+    "inclusions": [
+      {
+        "category": "Attraction Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Open-top double-decker bus + minivan",
+          "Open-top viewing, Audio guide",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Hop-on hop-off city tour",
+          "Table Mountain cableway ticket",
+          "Winelands day trip",
+          "Hotel pickup",
+          "Guide (1:40 ratio, speaks English, Afrikaans)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance recommended (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Skip-the-line ticket upgrade",
+          "Private guide upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-masons-travel-seychelles",
+    "inclusions": [
+      {
+        "category": "Park & Marine Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Air-conditioned minivan + inter-island ferry",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Inter-island ferry transfers",
+          "Guided island tours",
+          "Snorkeling excursion",
+          "Breakfast daily",
+          "Guide (1:12 ratio, speaks English, French, Creole)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "5 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scuba diving certification course",
+          "Private sunset dhow charter",
+          "Spa treatments"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-mautourco-mauritius",
+    "inclusions": [
+      {
+        "category": "Park & Marine Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Air-conditioned minivan + catamaran",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Catamaran cruise with lunch",
+          "Chamarel & Black River day trip",
+          "Hotel transfers",
+          "Breakfast daily",
+          "Guide (1:14 ratio, speaks English, French, Creole)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "4 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scuba diving certification course",
+          "Private sunset dhow charter",
+          "Spa treatments"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-ultimate-safaris-etosha",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 Toyota Land Cruiser",
+          "Pop-up roof, Open-sided viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Game drives",
+          "Private guide and 4x4 vehicle",
+          "All meals",
+          "Guide (1:6 ratio, speaks English, German)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-thompsons-africa-kruger",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 open safari vehicle",
+          "Open-sided viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Game drives",
+          "Private guide and vehicle",
+          "All meals",
+          "Guide (1:8 ratio, speaks English, Afrikaans)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Standard Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-primate-safaris-volcanoes",
+    "inclusions": [
+      {
+        "category": "Park & Permit Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 safari vehicle",
+          "Pop-up roof",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Gorilla trekking permit (guest-arranged)",
+          "Private guide and vehicle",
+          "All meals",
+          "Golden monkey trek",
+          "Guide (1:6 ratio, speaks English, French, Kinyarwanda)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Summit certificate photo package",
+          "Extra porter/private tent upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-merzouga-desert-camp-sahara",
+    "inclusions": [
+      {
+        "category": "Park & Conservation Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 + camel",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Camel trek",
+          "Desert camp accommodation",
+          "Breakfast & dinner",
+          "4x4 dune excursion",
+          "Guide (1:8 ratio, speaks English, Arabic, French)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon flight over the dunes",
+          "Quad biking / sandboarding"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-planit-fez",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Walking tour + private car for transfers",
+          "Air-conditioned vehicle for transfers",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Guided medina walking tour",
+          "Riad accommodation",
+          "Cooking class",
+          "Breakfast daily",
+          "Guide (1:6 ratio, speaks English, French, Arabic)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-spring-tours-luxor",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Air-conditioned private car/minivan",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Egyptologist guide",
+          "Entry fees",
+          "Hotel pickup/drop-off",
+          "Breakfast daily",
+          "Guide (1:8 ratio, speaks English, Arabic)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance recommended (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-blue-pearl-tours-chefchaouen",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Walking tour + private car for transfers",
+          "Air-conditioned vehicle for transfers",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Guided medina walking tour",
+          "Rif Mountain hike",
+          "Riad accommodation",
+          "Breakfast daily",
+          "Guide (1:6 ratio, speaks English, Arabic, French)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "1 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-rani-resorts-bazaruto",
+    "inclusions": [
+      {
+        "category": "Park & Marine Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Speedboat transfer + dhow",
+          "Open-air viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Boat transfers",
+          "Diving & snorkeling excursions",
+          "All meals and beverages",
+          "Dhow sailing trip",
+          "Guide (1:8 ratio, speaks English, Portuguese)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scuba diving certification course",
+          "Private sunset dhow charter",
+          "Spa treatments"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-benin-excursions-ouidah-pendjari",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 safari vehicle",
+          "Open-sided viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Game drives",
+          "Local guide",
+          "All meals",
+          "Guide (1:8 ratio, speaks English, French)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "4 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-mabula-game-lodge-waterberg",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 open safari vehicle",
+          "Open-sided viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park/reserve fees",
+          "Game drives",
+          "Private guide and vehicle",
+          "All meals",
+          "Guide (1:8 ratio, speaks English, Afrikaans)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Standard Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-nile-valley-expeditions-meroe",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 vehicle",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park/site entry fees",
+          "Local guide",
+          "4x4 transport",
+          "All meals",
+          "Guide (1:6 ratio, speaks English, Arabic)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-boogie-pilgrim-tsingy",
+    "inclusions": [
+      {
+        "category": "Park & Permit Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 vehicle + river boat",
+          "Open-sided viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Via ferrata equipment",
+          "Local guide",
+          "All meals",
+          "Guide (1:6 ratio, speaks English, French, Malagasy)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "4 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Summit certificate photo package",
+          "Extra porter/private tent upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-table-mountain-cableway",
+    "inclusions": [
+      {
+        "category": "Attraction Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Rotating cable car",
+          "360-degree rotating cabin",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Round-trip cableway ticket",
+          "Summit walkway access",
+          "Visitor centre entry",
+          "Guide (N/A ratio, speaks English)"
+        ],
+        "iconType": "activity"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance recommended (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Skip-the-line ticket upgrade",
+          "Private guide upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-volcanoes-safaris-bwindi",
+    "inclusions": [
+      {
+        "category": "Park & Permit Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 safari vehicle",
+          "Pop-up roof",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Private guide and vehicle",
+          "All meals",
+          "Batwa cultural walk",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Summit certificate photo package",
+          "Extra porter/private tent upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-cactus-tours-baobabs",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 vehicle",
+          "Open-sided viewing",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "4x4 transport",
+          "Local guide",
+          "Kirindy Forest walk",
+          "All meals",
+          "Guide (1:6 ratio, speaks English, French, Malagasy)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-skeleton-coast-safaris",
+    "inclusions": [
+      {
+        "category": "Park & Conservation Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies",
+          "Flying Doctors emergency membership"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Light aircraft + 4x4",
+          "Fly-in access, Open-air 4x4 exploration",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Light aircraft transfers between camps",
+          "All meals",
+          "Guided 4x4 and walking excursions",
+          "Himba village visit",
+          "Guide (1:4 ratio, speaks English)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Comprehensive Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon flight over the dunes",
+          "Quad biking / sandboarding"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-namib-trail-adventures-fish-river",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 vehicle",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Viewpoint drives",
+          "Local guide",
+          "Ai-Ais hot spring access",
+          "All meals",
+          "Guide (1:8 ratio, speaks English, Afrikaans)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Helicopter/scenic flight upgrade",
+          "Extended multi-day hiking add-on"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-kenya-rift-valley-safaris-nakuru",
+    "inclusions": [
+      {
+        "category": "Park Fees",
+        "items": [
+          "All park/reserve entrance fees as specified",
+          "Conservation/community levies"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 safari vehicle",
+          "Pop-up roof",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Game drives",
+          "Private guide and vehicle",
+          "All meals",
+          "Guide (1:6 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "1 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Standard Travel Insurance (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Hot air balloon safari (typically $500-600 per person)",
+          "Spa treatments at lodge"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-robben-island-museum",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Ferry + island bus tour",
+          "Heated/covered ferry cabin",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Round-trip ferry ticket",
+          "Guided bus tour of the island",
+          "Former political prisoner-led tour",
+          "Maximum Security Prison visit",
+          "Guide (1:40 ratio, speaks English, Afrikaans)"
+        ],
+        "iconType": "activity"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance recommended (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-diani-coastal-adventures",
+    "inclusions": [
+      {
+        "category": "Park & Marine Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Air-conditioned minivan + dhow boat",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Snorkeling excursion",
+          "Colobus sanctuary visit",
+          "Dhow sunset cruise",
+          "Breakfast daily",
+          "Guide (1:10 ratio, speaks English, Swahili)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scuba diving certification course",
+          "Private sunset dhow charter",
+          "Spa treatments"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-kayak-africa-malawi",
+    "inclusions": [
+      {
+        "category": "Park & Marine Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Sea kayak + boat transfer",
+          "Open-water kayaking",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Kayak transfers",
+          "Island camp accommodation",
+          "Snorkeling equipment",
+          "All meals",
+          "Guide (1:8 ratio, speaks English)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Scuba diving certification course",
+          "Private sunset dhow charter",
+          "Spa treatments"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-tesfa-tours-simien",
+    "inclusions": [
+      {
+        "category": "Park & Permit Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 transfer to trailhead + trekking on foot",
+          "Group transfer",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout",
+          "Bush picnic / packed meals where applicable"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Park fees",
+          "Mules and porters",
+          "Community guesthouse accommodation",
+          "All meals",
+          "Guide (1:4 ratio, speaks English, Amharic)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "5 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance with trekking cover required"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Summit certificate photo package",
+          "Extra porter/private tent upgrade"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-lowveld-panorama-tours-blyde",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "Air-conditioned minivan",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Panorama Route guided drive",
+          "Entry fees",
+          "Local guide",
+          "Breakfast daily",
+          "Guide (1:10 ratio, speaks English, Afrikaans)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "1 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance recommended (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Helicopter/scenic flight upgrade",
+          "Extended multi-day hiking add-on"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-mali-discovery-tours-djenne",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 vehicle + pinasse riverboat",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Local guide",
+          "Niger River boat trip",
+          "All meals",
+          "4x4 transport",
+          "Guide (1:6 ratio, speaks English, French, Bambara)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "2 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
+    ]
+  },
+  {
+    "tourId": "tour-sahara-sahel-travel-timbuktu",
+    "inclusions": [
+      {
+        "category": "Site Entry Fees",
+        "items": [
+          "All park/reserve entrance fees as specified"
+        ],
+        "iconType": "park"
+      },
+      {
+        "category": "Transport",
+        "items": [
+          "4x4 vehicle + riverboat",
+          "Air-conditioned vehicle",
+          "Airport/hotel transfers"
+        ],
+        "iconType": "vehicle"
+      },
+      {
+        "category": "Meals",
+        "items": [
+          "All meals as specified in itinerary",
+          "Drinking water throughout"
+        ],
+        "iconType": "meal"
+      },
+      {
+        "category": "Activities",
+        "items": [
+          "Local guide",
+          "Manuscript library visit",
+          "All meals",
+          "4x4/boat transport",
+          "Guide (1:6 ratio, speaks English, French, Tamasheq)"
+        ],
+        "iconType": "activity"
+      },
+      {
+        "category": "Accommodation",
+        "items": [
+          "3 night(s) accommodation as specified",
+          "All applicable taxes and service charges"
+        ],
+        "iconType": "lodge"
+      }
+    ],
+    "exclusions": [
+      {
+        "category": "International Flights",
+        "items": [
+          "Airfare to/from the destination country"
+        ],
+        "iconType": "flight"
+      },
+      {
+        "category": "Travel Insurance",
+        "items": [
+          "Travel insurance required (guest-arranged)"
+        ],
+        "iconType": "insurance"
+      },
+      {
+        "category": "Personal Expenses",
+        "items": [
+          "Alcoholic beverages (unless specified)",
+          "Tips and gratuities",
+          "Laundry",
+          "Souvenirs and curio purchases"
+        ],
+        "iconType": "personal"
+      },
+      {
+        "category": "Optional Activities",
+        "items": [
+          "Sound & light show tickets",
+          "Private Egyptologist/heritage upgrade",
+          "Optional day-trip extensions"
+        ],
+        "iconType": "optional"
+      }
     ]
   }
 ]
-
