@@ -1,0 +1,39 @@
+{
+  "suggestedPrompts": [
+    { "label": "Where should I go in Africa in July?", "icon": "📍" },
+    { "label": "Plan a honeymoon under $4000", "icon": "❤️" },
+    { "label": "Do Tanzanians need a visa for Ghana?", "icon": "🛂" },
+    { "label": "Find safari destinations with Great Migration", "icon": "🐘" }
+  ],
+  "exploreCategories": [
+    { "label": "Safaris", "emoji": "🦁" },
+    { "label": "Beaches", "emoji": "🏖️" },
+    { "label": "Cities", "emoji": "🏙️" },
+    { "label": "Adventure", "emoji": "🧗" },
+    { "label": "Culture", "emoji": "🎭" }
+  ],
+  "destinationShelves": [
+    {
+      "title": "Popular Destinations",
+      "items": [
+        { "id": "d1", "name": "Tanzania", "country": "Tanzania", "priceFromUsd": 2600, "imageUrl": "", "tag": null },
+        { "id": "d2", "name": "Kenya", "country": "Kenya", "priceFromUsd": 2600, "imageUrl": "", "tag": null }
+      ]
+    },
+    {
+      "title": "Best for You",
+      "items": [
+        { "id": "d3", "name": "Botswana", "country": "Botswana", "priceFromUsd": 0, "imageUrl": "", "tag": "Luxury Safaris" },
+        { "id": "d4", "name": "Zanzibar", "country": "Tanzania", "priceFromUsd": 0, "imageUrl": "", "tag": "Beach Paradise" }
+      ]
+    },
+    {
+      "title": "Seasonal Picks – July",
+      "items": [
+        { "id": "d5", "name": "Serengeti", "country": "Tanzania", "priceFromUsd": 0, "imageUrl": "", "tag": "Great Migration" },
+        { "id": "d6", "name": "Madagascar", "country": "Madagascar", "priceFromUsd": 0, "imageUrl": "", "tag": "Whale Watching" }
+      ]
+    }
+  ]
+}
+
