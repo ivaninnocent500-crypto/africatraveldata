@@ -1,0 +1,149 @@
+[
+  {
+    "id": "great-zimbabwe",
+    "name": "Great Zimbabwe",
+    "country": "Zimbabwe",
+    "shortDescription": "Medieval city of dry-stone majesty",
+    "story": "Welcome to Great Zimbabwe. More than 800 years ago, this was the capital of a powerful African kingdom whose trade reached India and China. Its walls, built without mortar, still rise from the highveld — a testament to a civilization the world nearly forgot.",
+    "didYouKnow": "The stone walls of the Great Enclosure were built without mortar and are still standing today.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/great_zimbabwe.jpg",
+    "galleryImages": [],
+    "latitude": -20.2680,
+    "longitude": 30.9337,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1000 AD",
+    "eraLabel": "Great Zimbabwe",
+    "eraDescription": "The stone city awakens.",
+    "rating": 4.9,
+    "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+    "tags": ["unesco", "ancient-kingdoms", "architecture"],
+
+    "badges": ["UNESCO", "HISTORICAL", "FAMILY FRIENDLY", "PHOTOGRAPHY"],
+    "weatherTempC": 27,
+    "weatherCondition": "CLEAR",
+    "visitInfo": {
+      "openingHours": "8:00 – 17:30 daily",
+      "entryFee": "$18 · Free under 12",
+      "bestMonthsLabel": "May – August",
+      "visitDuration": "2 – 3 hours",
+      "crowdLevel": "MODERATE",
+      "accessibilityNote": "Partial · main path"
+    },
+    "etiquetteTips": [
+      { "category": "WHAT TO WEAR", "tip": "Cover shoulders and knees near the sacred enclosure" },
+      { "category": "PHOTOGRAPHY", "tip": "Allowed — but always ask before photographing people" },
+      { "category": "RESPECT", "tip": "Do not climb on the ancient walls" },
+      { "category": "LOCAL CUSTOMS", "tip": "Greet elders first — a smile carries far" }
+    ],
+    "localVoice": {
+      "name": "Tendai",
+      "role": "Local heritage guide",
+      "quote": "Come at sunrise. Sit on the eastern wall and listen — you'll hear the wind carry the same songs the ancestors knew."
+    },
+    "travelerPhotoUrls": [
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/gz_1.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/gz_2.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/gz_3.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/gz_4.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/gz_5.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/gz_6.jpg"
+    ],
+    "timeline": [
+      { "year": "1100", "title": "Origins", "description": "First settlers arrive in the highveld." },
+      { "year": "1300", "title": "Golden Age", "description": "Trade with Kilwa and China at its peak." },
+      { "year": "1450", "title": "Great Migration", "description": "The kingdom shifts north." },
+      { "year": "1986", "title": "UNESCO Recognition", "description": "Inscribed as World Heritage." },
+      { "year": "TODAY", "title": "Living Heritage", "description": "A destination of pilgrimage and study." }
+    ],
+    "nearbyExperiences": [
+      { "title": "Traditional Feast", "subtitle": "Sadza & mapane", "iconKey": "food" },
+      { "title": "Craft Village", "subtitle": "Soapstone carving", "iconKey": "craft" }
+    ],
+    "storyAudio": [
+      {
+        "language": "English",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/audio/heritage/great_zimbabwe_en.mp3",
+        "durationSeconds": 20,
+        "transcript": "Welcome to Great Zimbabwe. More than 800 years ago, this was the capital of a powerful African kingdom whose trade reached India and..."
+      }
+    ],
+    "tourOperatorCategoryId": "heritage-zimbabwe",
+    "hotelSearchQuery": "Masvingo Zimbabwe",
+    "restaurantSearchQuery": "Masvingo Zimbabwe"
+  },
+  {
+    "id": "stone-town",
+    "name": "Stone Town",
+    "country": "Zanzibar, Tanzania",
+    "shortDescription": "Swahili traders bridge oceans",
+    "story": "Welcome to Stone Town. For a thousand years, this was where Africa met Arabia, India, and the sea. Sultans and merchants left their mark in every carved door, and the scent of clove drifts through alleys where Swahili, Arabic, and English still meet on the same tongue.",
+    "didYouKnow": "The town is famous for its elaborately carved wooden doors.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/stone_town.jpg",
+    "galleryImages": [],
+    "latitude": -6.1659,
+    "longitude": 39.1917,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1800 AD",
+    "eraLabel": "Zanzibar Coast",
+    "eraDescription": "Swahili traders bridge oceans.",
+    "rating": 4.9,
+    "bestMonths": [6, 7, 8, 9],
+    "tags": ["unesco", "architecture", "trade-routes"],
+
+    "badges": ["UNESCO", "HISTORICAL", "FAMILY FRIENDLY", "PHOTOGRAPHY"],
+    "weatherTempC": 27,
+    "weatherCondition": "CLEAR",
+    "visitInfo": {
+      "openingHours": "Open city · attractions 9:00 – 18:00",
+      "entryFee": "Free · sites $5 – $10",
+      "bestMonthsLabel": "June – October",
+      "visitDuration": "2 – 3 days",
+      "crowdLevel": "MODERATE",
+      "accessibilityNote": "Partial · main path"
+    },
+    "etiquetteTips": [
+      { "category": "WHAT TO WEAR", "tip": "Dress modestly — Zanzibar is largely Muslim" },
+      { "category": "PHOTOGRAPHY", "tip": "Ask permission before photographing people" },
+      { "category": "PRAYER TIMES", "tip": "Respect the five daily calls to prayer" },
+      { "category": "RAMADAN", "tip": "Eat and drink discreetly outside if fasting" }
+    ],
+    "localVoice": {
+      "name": "Aisha",
+      "role": "Zanzibari poet",
+      "quote": "Get lost on purpose. The best stories are behind the doors you'd never think to open."
+    },
+    "travelerPhotoUrls": [
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/st_1.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/st_2.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/st_3.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/st_4.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/st_5.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/traveler/st_6.jpg"
+    ],
+    "timeline": [
+      { "year": "1100", "title": "Origins", "description": "First settlers arrive in the highveld." },
+      { "year": "1300", "title": "Golden Age", "description": "Trade with Kilwa and China at its peak." },
+      { "year": "1450", "title": "Great Migration", "description": "The kingdom shifts north." },
+      { "year": "1986", "title": "UNESCO Recognition", "description": "Inscribed as World Heritage." },
+      { "year": "TODAY", "title": "Living Heritage", "description": "A destination of pilgrimage and study." }
+    ],
+    "nearbyExperiences": [
+      { "title": "Traditional Feast", "subtitle": "Sadza & mapone", "iconKey": "food" },
+      { "title": "Craft Village", "subtitle": "Soapstone carving", "iconKey": "craft" }
+    ],
+    "storyAudio": [
+      {
+        "language": "English",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/audio/heritage/stone_town_en.mp3",
+        "durationSeconds": 20,
+        "transcript": "Welcome to Stone Town. For a thousand years, this was where Africa met Arabia, India, and the sea. Sultans and merchants left their mark in eve..."
+      }
+    ],
+    "tourOperatorCategoryId": "heritage-zanzibar",
+    "hotelSearchQuery": "Stone Town Zanzibar",
+    "restaurantSearchQuery": "Stone Town Zanzibar"
+  }
+]
+
