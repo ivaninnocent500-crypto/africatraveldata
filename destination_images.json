@@ -1,0 +1,25 @@
+{
+  "destinationImages": {
+    "nairobi": "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&q=80",
+    "maasai_mara": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1200&q=80",
+    "serengeti": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1200&q=80",
+    "ngorongoro": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=1200&q=80",
+    "lake_naivasha": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=1200&q=80",
+    "amboseli": "https://images.unsplash.com/photo-1534177616064-ef79d404d1d1?w=1200&q=80",
+    "zanzibar": "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?w=1200&q=80",
+    "lake_nakuru": "https://images.unsplash.com/photo-1547970810-dc1eac37d174?w=1200&q=80"
+  },
+  "activityImages": {
+    "dawn_drive": "https://images.unsplash.com/photo-1516815231560-8f41ec531527?w=800&q=80",
+    "game_drive": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800&q=80",
+    "balloon_safari": "https://images.unsplash.com/photo-1509233725247-49e657c54213?w=800&q=80",
+    "boat_safari": "https://images.unsplash.com/photo-1544185311-9d80c6f2f5db?w=800&q=80",
+    "walking_safari": "https://images.unsplash.com/photo-1535338454770-8be927b5a00b?w=800&q=80",
+    "cultural_village": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=800&q=80",
+    "bush_breakfast": "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800&q=80",
+    "sundowner": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+    "elephant_tracking": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&q=80",
+    "arrival_transfer": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80",
+    "default": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800&q=80"
+  }
+}
