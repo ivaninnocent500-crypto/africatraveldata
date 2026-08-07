@@ -520,9 +520,9 @@
     "id": "bwindi_032",
     "name": "Bwindi Impenetrable National Park",
     "country": "Uganda",
-    "heroImageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=1600&q=80",
+    "https://www.bwindinationalparkuganda.com/wp-content/uploads/2019/02/gorilla-trekking-700x450.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=800&q=80",
+      "https://www.bwindinationalparkuganda.com/wp-content/uploads/2019/02/gorilla-trekking-700x450.jpg",
       "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80"
     ],
@@ -540,17 +540,17 @@
       {
         "title": "Gorilla Trekking",
         "subtitle": "One Hour With the Family",
-        "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://www.bwindinationalparkuganda.com/wp-content/uploads/2019/02/gorilla-trekking-700x450.jpg"
       },
       {
         "title": "Batwa Cultural Encounter",
         "subtitle": "Forest People's Heritage",
-        "imageUrl": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://murchisonfallspark.com/wp-content/uploads/2025/10/batwa.jpg"
       },
       {
         "title": "Canopy Birdwatching",
         "subtitle": "350+ Species",
-        "imageUrl": "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSOxXv4Mut_RiTmrftgs5op9geTvvehpG6Ix-36XickByTLO2SYqoJRj4&s=10"
       }
     ],
     "visaRequired": true,
