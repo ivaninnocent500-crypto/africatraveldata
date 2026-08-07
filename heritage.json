@@ -6,9 +6,9 @@
     "shortDescription": "Medieval city of dry-stone majesty",
     "story": "A ruined city that served as the capital of the Kingdom of Zimbabwe during the country's Late Iron Age. It's a testament to the powerful and prosperous Shona civilization that existed from the 11th to 15th centuries.",
     "didYouKnow": "The stone walls of the Great Enclosure were built without mortar and are still standing today.",
-    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaB1jfGRNhHCwhq42R7foGI6TAX4S3ol8G9iykW9PCNvDto_7_X9pO6-E&s=10",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/great_zimbabwe.jpg",
     "galleryImages": [],
-    "latitude": -20.2680,
+    "latitude": -20.268,
     "longitude": 30.9337,
     "category": "ANCIENT",
     "isUnesco": true,
@@ -16,8 +16,20 @@
     "eraLabel": "Great Zimbabwe",
     "eraDescription": "The stone city awakens.",
     "rating": 4.9,
-    "bestMonths": [4, 5, 6, 7, 8, 9, 10],
-    "tags": ["unesco", "ancient-kingdoms", "architecture"]
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
   },
   {
     "id": "lalibela",
@@ -26,7 +38,7 @@
     "shortDescription": "11 rock-hewn churches",
     "story": "A town in northern Ethiopia famous for its monolithic rock-hewn churches. The churches were carved out of a single piece of rock from the ground downward in the 12th century, a truly remarkable feat of engineering and faith.",
     "didYouKnow": "The most famous church, Bet Giyorgis (St. George's Church), is shaped like a cross.",
-    "heroImageUrl": "https://imgix.brilliant-ethiopia.com/lalibela-saint-george-church-view-from-base.jpg?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=580&h=480&q=40",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/lalibela.jpg",
     "galleryImages": [],
     "latitude": 12.0316,
     "longitude": 39.0473,
@@ -36,8 +48,18 @@
     "eraLabel": "Lalibela",
     "eraDescription": "Rock churches carved in faith.",
     "rating": 4.9,
-    "bestMonths": [10, 11, 12, 1, 2],
-    "tags": ["unesco", "sacred-sites", "architecture"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "architecture"
+    ]
   },
   {
     "id": "timbuktu",
@@ -56,8 +78,17 @@
     "eraLabel": "Mali & Songhai",
     "eraDescription": "Timbuktu's golden age of learning.",
     "rating": 4.8,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["unesco", "ancient-kingdoms", "trade-routes"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "trade-routes"
+    ]
   },
   {
     "id": "djenne",
@@ -66,7 +97,7 @@
     "shortDescription": "Largest mud-brick building on Earth",
     "story": "Home to the Great Mosque of Djenné, the largest mud-brick structure in the world, rebuilt annually by the community in a festival of collective maintenance.",
     "didYouKnow": "The mosque is re-plastered every year during the Crépissage festival, where the whole town takes part.",
-    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0oXcMV1Z8VG1Erd3hZ2EFxWUNMia9XuBnhVSbKlA9w&s=10",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/djenne.jpg",
     "galleryImages": [],
     "latitude": 13.9061,
     "longitude": -4.5556,
@@ -76,8 +107,17 @@
     "eraLabel": "Djenné",
     "eraDescription": "Mud-brick mastery on the Niger.",
     "rating": 4.7,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["unesco", "sacred-sites", "architecture"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "architecture"
+    ]
   },
   {
     "id": "valley-of-the-kings",
@@ -86,7 +126,7 @@
     "shortDescription": "Royal burial ground of the pharaohs",
     "story": "A royal burial ground for pharaohs and powerful nobles of the New Kingdom. It's home to the famous tomb of Tutankhamun and is a cornerstone of ancient Egyptian history.",
     "didYouKnow": "The tombs are decorated with scenes from Egyptian mythology and provide clues about the beliefs and rituals of the time.",
-    "heroImageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/1a/9f/6c/valley-og-the-kings.jpg?w=900&h=500&s=1",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/valley_kings.jpg",
     "galleryImages": [],
     "latitude": 25.7402,
     "longitude": 32.6014,
@@ -96,8 +136,18 @@
     "eraLabel": "Kemet Rises",
     "eraDescription": "Egypt unifies along the Nile.",
     "rating": 4.9,
-    "bestMonths": [10, 11, 12, 1, 2, 3],
-    "tags": ["unesco", "ancient-kingdoms"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms"
+    ]
   },
   {
     "id": "stone-town",
@@ -106,7 +156,7 @@
     "shortDescription": "Swahili traders bridge oceans",
     "story": "The old part of Zanzibar City, with its winding alleys, mosques, and Arab houses, is a UNESCO World Heritage site. It's a testament to the rich Swahili culture influenced by Arab, Indian, and European traditions.",
     "didYouKnow": "The town is famous for its elaborately carved wooden doors.",
-    "heroImageUrl": "https://www.jambointernationaltour.com/wp-content/uploads/2025/07/Stone-Town-civitatis-1024x704.jpg",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/stone_town.jpg",
     "galleryImages": [],
     "latitude": -6.1659,
     "longitude": 39.1917,
@@ -116,8 +166,17 @@
     "eraLabel": "Zanzibar Coast",
     "eraDescription": "Swahili traders bridge oceans.",
     "rating": 4.9,
-    "bestMonths": [6, 7, 8, 9],
-    "tags": ["unesco", "architecture", "trade-routes"]
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "architecture",
+      "trade-routes"
+    ]
   },
   {
     "id": "tassili-najjer",
@@ -126,9 +185,9 @@
     "shortDescription": "Prehistoric rock art in the Sahara",
     "story": "A vast plateau in the Algerian Sahara holding one of the largest collections of prehistoric rock art in the world, with thousands of paintings and engravings depicting a Sahara that was once green and full of life.",
     "didYouKnow": "Some of the rock art dates back over 10,000 years, showing herds of cattle and wild animals long before the Sahara became desert.",
-    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZXnKWWxUWOWqvfJ7F4qEfkMEtYgWrtabnaZARku_cj9DdqavDVbgudo&s=10",
+    "heroImageUrl": "",
     "galleryImages": [],
-    "latitude": 25.5000,
+    "latitude": 25.5,
     "longitude": 8.8333,
     "category": "ANCIENT",
     "isUnesco": true,
@@ -136,8 +195,19 @@
     "eraLabel": "Green Sahara",
     "eraDescription": "Herders paint the living desert.",
     "rating": 4.8,
-    "bestMonths": [10, 11, 12, 1, 2, 3],
-    "tags": ["unesco", "rock-art", "ancient-kingdoms"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "rock-art",
+      "ancient-kingdoms"
+    ]
   },
   {
     "id": "tichitt-walata",
@@ -146,18 +216,27 @@
     "shortDescription": "Ancient stone-walled caravan towns",
     "story": "A group of fortified stone settlements built by early Saharan communities, later becoming key stops on trans-Saharan caravan routes carrying salt, gold, and manuscripts.",
     "didYouKnow": "Some archaeologists consider Tichitt one of the earliest known urban settlements in West Africa, predating many other Saharan cities by centuries.",
-    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlNR8XnZQ6bKiUwiultG0iWdt1Pj2L4q_l9-lYCCYWFzmrb1fANjTJYE&s=10",
+    "heroImageUrl": "",
     "galleryImages": [],
     "latitude": 18.4667,
-    "longitude": -9.5000,
+    "longitude": -9.5,
     "category": "ANCIENT",
     "isUnesco": false,
     "era": "2000 BC",
     "eraLabel": "Desert Settlements",
     "eraDescription": "Early towns rise from Saharan stone.",
     "rating": 4.4,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["ancient-kingdoms", "trade-routes", "architecture"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "ancient-kingdoms",
+      "trade-routes",
+      "architecture"
+    ]
   },
   {
     "id": "karnak-temple",
@@ -166,7 +245,7 @@
     "shortDescription": "Vast temple city of Amun-Ra",
     "story": "Part of Ancient Thebes, Karnak is one of the largest religious complexes ever built, expanded by generations of pharaohs over two thousand years and dedicated primarily to the god Amun-Ra.",
     "didYouKnow": "The Great Hypostyle Hall at Karnak contains 134 massive columns, some over 21 meters tall.",
-    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHj-x6ObUArn7cz2Gi2R5S0BUiQsMFpJWsodxmvEaGw&s=10",
+    "heroImageUrl": "",
     "galleryImages": [],
     "latitude": 25.7188,
     "longitude": 32.6573,
@@ -176,8 +255,20 @@
     "eraLabel": "Thebes Ascendant",
     "eraDescription": "The New Kingdom builds a temple city.",
     "rating": 4.9,
-    "bestMonths": [10, 11, 12, 1, 2, 3],
-    "tags": ["unesco", "sacred-sites", "ancient-kingdoms", "architecture"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "ancient-kingdoms",
+      "architecture"
+    ]
   },
   {
     "id": "meroe",
@@ -189,15 +280,24 @@
     "heroImageUrl": "",
     "galleryImages": [],
     "latitude": 16.9333,
-    "longitude": 33.7500,
+    "longitude": 33.75,
     "category": "ANCIENT",
     "isUnesco": true,
     "era": "800 BC",
     "eraLabel": "Kingdom of Kush",
     "eraDescription": "Nubian kings raise their own pyramids.",
     "rating": 4.7,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["unesco", "ancient-kingdoms", "architecture"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
   },
   {
     "id": "carthage",
@@ -216,8 +316,19 @@
     "eraLabel": "Phoenician Carthage",
     "eraDescription": "A new power rises on the coast.",
     "rating": 4.6,
-    "bestMonths": [3, 4, 5, 9, 10, 11],
-    "tags": ["unesco", "ancient-kingdoms", "trade-routes"]
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "trade-routes"
+    ]
   },
   {
     "id": "leptis-magna",
@@ -229,15 +340,25 @@
     "heroImageUrl": "",
     "galleryImages": [],
     "latitude": 32.6389,
-    "longitude": 14.2900,
+    "longitude": 14.29,
     "category": "ANCIENT",
     "isUnesco": true,
     "era": "150 AD",
     "eraLabel": "Roman Africa",
     "eraDescription": "An emperor's hometown becomes marble.",
     "rating": 4.7,
-    "bestMonths": [3, 4, 5, 10, 11],
-    "tags": ["unesco", "ancient-kingdoms", "architecture"]
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
   },
   {
     "id": "volubilis",
@@ -256,8 +377,18 @@
     "eraLabel": "Roman Mauretania",
     "eraDescription": "Olive groves and marble columns.",
     "rating": 4.6,
-    "bestMonths": [3, 4, 5, 9, 10],
-    "tags": ["unesco", "ancient-kingdoms", "architecture"]
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
   },
   {
     "id": "el-jem",
@@ -269,15 +400,26 @@
     "heroImageUrl": "",
     "galleryImages": [],
     "latitude": 35.2967,
-    "longitude": 10.7050,
+    "longitude": 10.705,
     "category": "ANCIENT",
     "isUnesco": true,
     "era": "230 AD",
     "eraLabel": "Roman Tunisia",
     "eraDescription": "A colosseum rises in the grain country.",
     "rating": 4.7,
-    "bestMonths": [3, 4, 5, 9, 10, 11],
-    "tags": ["unesco", "ancient-kingdoms", "architecture"]
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
   },
   {
     "id": "aksum",
@@ -296,8 +438,18 @@
     "eraLabel": "Aksumite Empire",
     "eraDescription": "Obelisks mark a trading empire's power.",
     "rating": 4.8,
-    "bestMonths": [10, 11, 12, 1, 2],
-    "tags": ["unesco", "ancient-kingdoms", "trade-routes"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "trade-routes"
+    ]
   },
   {
     "id": "tiya",
@@ -316,8 +468,18 @@
     "eraLabel": "Stelae Builders",
     "eraDescription": "Silent stones guard ancient dead.",
     "rating": 4.4,
-    "bestMonths": [10, 11, 12, 1, 2],
-    "tags": ["unesco", "sacred-sites", "ancient-kingdoms"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "ancient-kingdoms"
+    ]
   },
   {
     "id": "konso",
@@ -328,7 +490,7 @@
     "didYouKnow": "Konso communities erect a new 'generation pole' every 18 years, allowing historians to date settlements with unusual precision.",
     "heroImageUrl": "",
     "galleryImages": [],
-    "latitude": 5.2500,
+    "latitude": 5.25,
     "longitude": 37.4833,
     "category": "ANCIENT",
     "isUnesco": true,
@@ -336,8 +498,18 @@
     "eraLabel": "Konso Highlands",
     "eraDescription": "Terraces climb the mountainside.",
     "rating": 4.5,
-    "bestMonths": [10, 11, 12, 1, 2],
-    "tags": ["unesco", "architecture", "ancient-kingdoms"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "architecture",
+      "ancient-kingdoms"
+    ]
   },
   {
     "id": "harar-jugol",
@@ -356,8 +528,18 @@
     "eraLabel": "Harar Jugol",
     "eraDescription": "A walled city of scholars and saints.",
     "rating": 4.6,
-    "bestMonths": [10, 11, 12, 1, 2],
-    "tags": ["unesco", "sacred-sites", "architecture"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "architecture"
+    ]
   },
   {
     "id": "fasil-ghebbi",
@@ -368,7 +550,7 @@
     "didYouKnow": "Fasil Ghebbi's castles have earned Gondar the nickname 'the Camelot of Africa'.",
     "heroImageUrl": "",
     "galleryImages": [],
-    "latitude": 12.6030,
+    "latitude": 12.603,
     "longitude": 37.4667,
     "category": "ANCIENT",
     "isUnesco": true,
@@ -376,8 +558,18 @@
     "eraLabel": "Gondarine Era",
     "eraDescription": "Emperors raise castles in the highlands.",
     "rating": 4.7,
-    "bestMonths": [10, 11, 12, 1, 2],
-    "tags": ["unesco", "architecture", "ancient-kingdoms"]
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "architecture",
+      "ancient-kingdoms"
+    ]
   },
   {
     "id": "kilwa-kisiwani",
@@ -396,8 +588,17 @@
     "eraLabel": "Kilwa Sultanate",
     "eraDescription": "Gold and ivory flow through the sultanate.",
     "rating": 4.6,
-    "bestMonths": [6, 7, 8, 9],
-    "tags": ["unesco", "trade-routes", "ancient-kingdoms"]
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "trade-routes",
+      "ancient-kingdoms"
+    ]
   },
   {
     "id": "gedi-ruins",
@@ -409,15 +610,23 @@
     "heroImageUrl": "",
     "galleryImages": [],
     "latitude": -3.3097,
-    "longitude": 40.0100,
+    "longitude": 40.01,
     "category": "ANCIENT",
     "isUnesco": false,
     "era": "1300 AD",
     "eraLabel": "Gedi",
     "eraDescription": "A Swahili town swallowed by forest.",
     "rating": 4.4,
-    "bestMonths": [6, 7, 8, 9],
-    "tags": ["trade-routes", "architecture"]
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "trade-routes",
+      "architecture"
+    ]
   },
   {
     "id": "lamu-old-town",
@@ -429,15 +638,26 @@
     "heroImageUrl": "",
     "galleryImages": [],
     "latitude": -2.2717,
-    "longitude": 40.9020,
+    "longitude": 40.902,
     "category": "ANCIENT",
     "isUnesco": true,
     "era": "1370 AD",
     "eraLabel": "Lamu Archipelago",
     "eraDescription": "Dhows sail from a living Swahili town.",
     "rating": 4.7,
-    "bestMonths": [6, 7, 8, 9, 1, 2],
-    "tags": ["unesco", "trade-routes", "architecture"]
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "trade-routes",
+      "architecture"
+    ]
   },
   {
     "id": "mapungubwe",
@@ -456,8 +676,19 @@
     "eraLabel": "Mapungubwe Kingdom",
     "eraDescription": "Gold gleams before Zimbabwe's rise.",
     "rating": 4.6,
-    "bestMonths": [4, 5, 6, 7, 8, 9],
-    "tags": ["unesco", "ancient-kingdoms", "trade-routes"]
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "trade-routes"
+    ]
   },
   {
     "id": "sukur",
@@ -476,8 +707,17 @@
     "eraLabel": "Sukur Chiefdom",
     "eraDescription": "Forges glow atop the highlands.",
     "rating": 4.3,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["unesco", "ancient-kingdoms", "architecture"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
   },
   {
     "id": "benin-city-walls",
@@ -488,7 +728,7 @@
     "didYouKnow": "Some estimates suggest the combined length of Benin's ancient walls and ditches once exceeded 16,000 kilometers.",
     "heroImageUrl": "",
     "galleryImages": [],
-    "latitude": 6.3350,
+    "latitude": 6.335,
     "longitude": 5.6037,
     "category": "ANCIENT",
     "isUnesco": false,
@@ -496,8 +736,16 @@
     "eraLabel": "Kingdom of Benin",
     "eraDescription": "Earthworks encircle a bronze-rich capital.",
     "rating": 4.4,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["ancient-kingdoms", "architecture"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "ancient-kingdoms",
+      "architecture"
+    ]
   },
   {
     "id": "loroperi",
@@ -516,8 +764,17 @@
     "eraLabel": "Gold Route Fortress",
     "eraDescription": "Stone walls guard the gold trade.",
     "rating": 4.3,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["unesco", "trade-routes", "architecture"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "trade-routes",
+      "architecture"
+    ]
   },
   {
     "id": "medina-of-fez",
@@ -536,8 +793,20 @@
     "eraLabel": "Fez Founded",
     "eraDescription": "A labyrinth city of scholars is born.",
     "rating": 4.8,
-    "bestMonths": [3, 4, 5, 9, 10, 11],
-    "tags": ["unesco", "sacred-sites", "architecture", "trade-routes"]
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "architecture",
+      "trade-routes"
+    ]
   },
   {
     "id": "ait-ben-haddou",
@@ -556,8 +825,19 @@
     "eraLabel": "Caravan Kasbahs",
     "eraDescription": "Clay towers rise on the Sahara's edge.",
     "rating": 4.7,
-    "bestMonths": [3, 4, 5, 9, 10, 11],
-    "tags": ["unesco", "trade-routes", "architecture"]
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "trade-routes",
+      "architecture"
+    ]
   },
   {
     "id": "kairouan",
@@ -569,15 +849,26 @@
     "heroImageUrl": "",
     "galleryImages": [],
     "latitude": 35.6786,
-    "longitude": 10.1000,
+    "longitude": 10.1,
     "category": "SACRED",
     "isUnesco": true,
     "era": "670 AD",
     "eraLabel": "Kairouan Founded",
     "eraDescription": "A holy city rises in the interior.",
     "rating": 4.7,
-    "bestMonths": [3, 4, 5, 9, 10, 11],
-    "tags": ["unesco", "sacred-sites", "architecture"]
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "architecture"
+    ]
   },
   {
     "id": "mzab-valley",
@@ -588,7 +879,7 @@
     "didYouKnow": "The M'Zab Valley's stark, geometric architecture is often cited as a direct inspiration for 20th-century modernist design.",
     "heroImageUrl": "",
     "galleryImages": [],
-    "latitude": 32.4900,
+    "latitude": 32.49,
     "longitude": 3.6711,
     "category": "SACRED",
     "isUnesco": true,
@@ -596,8 +887,18 @@
     "eraLabel": "M'Zab Towns",
     "eraDescription": "Five towns rise from desert stone.",
     "rating": 4.5,
-    "bestMonths": [11, 12, 1, 2, 3],
-    "tags": ["unesco", "sacred-sites", "architecture"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "architecture"
+    ]
   },
   {
     "id": "island-of-mozambique",
@@ -616,8 +917,18 @@
     "eraLabel": "Indian Ocean Crossroads",
     "eraDescription": "Trade winds carry new worlds together.",
     "rating": 4.5,
-    "bestMonths": [5, 6, 7, 8, 9],
-    "tags": ["unesco", "trade-routes", "architecture"]
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "trade-routes",
+      "architecture"
+    ]
   },
   {
     "id": "elmina-castle",
@@ -636,8 +947,17 @@
     "eraLabel": "Gold Coast Forts",
     "eraDescription": "A fortress marks a turning point in history.",
     "rating": 4.6,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["unesco", "colonial-history", "architecture"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history",
+      "architecture"
+    ]
   },
   {
     "id": "ashanti-buildings",
@@ -656,8 +976,17 @@
     "eraLabel": "Ashanti Empire",
     "eraDescription": "Shrines guard the Golden Stool's legacy.",
     "rating": 4.3,
-    "bestMonths": [11, 12, 1, 2],
-    "tags": ["unesco", "sacred-sites", "ancient-kingdoms"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "ancient-kingdoms"
+    ]
   },
   {
     "id": "robben-island",
@@ -676,8 +1005,1678 @@
     "eraLabel": "Apartheid Era",
     "eraDescription": "An island holds a nation's struggle for freedom.",
     "rating": 4.8,
-    "bestMonths": [11, 12, 1, 2, 3],
-    "tags": ["unesco", "colonial-history"]
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history"
+    ]
+  },
+  {
+    "id": "abu-simbel",
+    "name": "Abu Simbel",
+    "country": "Egypt",
+    "shortDescription": "Colossal temples carved into a cliff",
+    "story": "Two massive rock-cut temples built by Ramesses II to commemorate his victory at Kadesh and honor his queen Nefertari, later relocated in a 1960s engineering feat to save them from flooding.",
+    "didYouKnow": "The entire temple complex was cut into blocks and moved 65 meters higher and 200 meters back to escape the rising waters of Lake Nasser.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 22.3372,
+    "longitude": 31.6258,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "1264 BC",
+    "eraLabel": "Ramesses the Great",
+    "eraDescription": "A pharaoh carves his legacy into stone.",
+    "rating": 4.9,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "saqqara",
+    "name": "Saqqara",
+    "country": "Egypt",
+    "shortDescription": "Birthplace of the pyramid",
+    "story": "An enormous ancient burial ground for the city of Memphis, home to the Step Pyramid of Djoser, generally regarded as the world's oldest large-scale stone monument.",
+    "didYouKnow": "The Step Pyramid of Djoser, designed by the architect Imhotep, predates the Great Pyramid of Giza by roughly 60 years.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 29.8709,
+    "longitude": 31.2167,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "2650 BC",
+    "eraLabel": "Step Pyramid Era",
+    "eraDescription": "Imhotep builds the first pyramid.",
+    "rating": 4.8,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "philae-temple",
+    "name": "Philae Temple",
+    "country": "Egypt",
+    "shortDescription": "Island sanctuary of Isis",
+    "story": "A temple complex dedicated to the goddess Isis, relocated stone by stone from its original island to Agilkia Island to save it from submersion after the Aswan High Dam was built.",
+    "didYouKnow": "Philae was one of the last places in the ancient world where the traditional worship of Egyptian gods was practiced, continuing into the 6th century AD.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 24.0258,
+    "longitude": 32.8843,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "300 BC",
+    "eraLabel": "Ptolemaic Egypt",
+    "eraDescription": "Isis is worshipped on a Nile island.",
+    "rating": 4.7,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "islamic-cairo",
+    "name": "Historic (Islamic) Cairo",
+    "country": "Egypt",
+    "shortDescription": "One of the world's oldest Islamic cities",
+    "story": "Founded by the Fatimid dynasty, this dense historic core contains hundreds of mosques, madrasas, and mausoleums spanning over a thousand years of Islamic architecture.",
+    "didYouKnow": "Historic Cairo is considered one of the oldest Islamic cities in the world, with its street layout largely unchanged since medieval times.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 30.0459,
+    "longitude": 31.26,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "969 AD",
+    "eraLabel": "Fatimid Cairo",
+    "eraDescription": "A new capital rises for a new dynasty.",
+    "rating": 4.8,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "architecture"
+    ]
+  },
+  {
+    "id": "abydos",
+    "name": "Abydos",
+    "country": "Egypt",
+    "shortDescription": "Sacred city of Osiris",
+    "story": "One of the oldest cities of ancient Egypt and a major cult center for the god Osiris, containing royal tombs of Egypt's earliest pharaohs and the finely carved Temple of Seti I.",
+    "didYouKnow": "The famous Abydos King List, carved into the Temple of Seti I, records the names of dozens of pharaohs in chronological order.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 26.1844,
+    "longitude": 31.9192,
+    "category": "SACRED",
+    "isUnesco": false,
+    "era": "3100 BC",
+    "eraLabel": "Early Dynastic Egypt",
+    "eraDescription": "Egypt's first kings are laid to rest.",
+    "rating": 4.6,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "sacred-sites",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "dougga",
+    "name": "Dougga",
+    "country": "Tunisia",
+    "shortDescription": "Best-preserved Roman town in North Africa",
+    "story": "A remarkably intact Roman-era town built over an earlier Numidian settlement, with a well-preserved theatre, temples, and public baths surrounded by rolling countryside.",
+    "didYouKnow": "Dougga's theatre could seat around 3,500 spectators and is still used for performances today.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 36.4222,
+    "longitude": 9.2189,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "400 BC",
+    "eraLabel": "Numidian Dougga",
+    "eraDescription": "A Berber town later crowned by Rome.",
+    "rating": 4.6,
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "djemila",
+    "name": "Djemila",
+    "country": "Algeria",
+    "shortDescription": "Roman town clinging to the mountains",
+    "story": "A former Roman colony known as Cuicul, remarkable for its dramatic mountain setting and well-preserved forum, temples, and basilicas.",
+    "didYouKnow": "Djemila's name means 'beautiful' in Arabic, a fitting tribute to its scenic setting among the mountains.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 36.3167,
+    "longitude": 5.7333,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "100 AD",
+    "eraLabel": "Roman Numidia",
+    "eraDescription": "A colonia rises among the peaks.",
+    "rating": 4.5,
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "timgad",
+    "name": "Timgad",
+    "country": "Algeria",
+    "shortDescription": "Rome's grid-planned frontier city",
+    "story": "A Roman colonial town founded by Emperor Trajan, laid out on a precise grid plan as a model of Roman urban design on the edge of the empire.",
+    "didYouKnow": "Timgad's street grid is so well preserved from above that it's often used in textbooks as a textbook example of Roman city planning.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 35.4842,
+    "longitude": 6.4681,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "100 AD",
+    "eraLabel": "Roman Timgad",
+    "eraDescription": "A frontier city planned by the grid.",
+    "rating": 4.5,
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "casbah-of-algiers",
+    "name": "Casbah of Algiers",
+    "country": "Algeria",
+    "shortDescription": "Ottoman citadel above the bay",
+    "story": "A dense hillside citadel of narrow lanes and whitewashed houses that formed the heart of Ottoman-era Algiers, later a stronghold of resistance during the Algerian War of Independence.",
+    "didYouKnow": "The Casbah's maze-like streets were designed partly for defense, making it notoriously difficult for outsiders to navigate.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 36.7833,
+    "longitude": 3.06,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1516 AD",
+    "eraLabel": "Ottoman Algiers",
+    "eraDescription": "A citadel rises above the bay.",
+    "rating": 4.5,
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "architecture",
+      "colonial-history"
+    ]
+  },
+  {
+    "id": "ghadames",
+    "name": "Ghadames Old Town",
+    "country": "Libya",
+    "shortDescription": "The pearl of the desert",
+    "story": "An ancient Saharan oasis town known for its distinctive covered streets and multi-story mudbrick houses, built to shelter residents from the desert heat.",
+    "didYouKnow": "Ghadames' rooftops formed a separate 'women's world', a network of terraces where women moved freely above the enclosed streets below.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 30.1333,
+    "longitude": 9.5,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1000 AD",
+    "eraLabel": "Ghadames Oasis",
+    "eraDescription": "A desert pearl shelters its people.",
+    "rating": 4.5,
+    "bestMonths": [
+      3,
+      4,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "trade-routes",
+      "architecture"
+    ]
+  },
+  {
+    "id": "cyrene",
+    "name": "Cyrene",
+    "country": "Libya",
+    "shortDescription": "Greek jewel of North Africa",
+    "story": "One of the principal cities of the ancient Greek world outside Greece itself, Cyrene later flourished under Roman rule and remains one of the finest classical ruin sites in the Mediterranean.",
+    "didYouKnow": "Cyrene was founded by Greek colonists from the island of Thera around 630 BC and became famous for its philosophers and physicians.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 32.825,
+    "longitude": 21.8578,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "630 BC",
+    "eraLabel": "Greek Cyrenaica",
+    "eraDescription": "Greek colonists settle the coast.",
+    "rating": 4.5,
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "jebel-barkal",
+    "name": "Jebel Barkal",
+    "country": "Sudan",
+    "shortDescription": "Sacred mountain of the god Amun",
+    "story": "A sacred mountain and temple complex regarded as the southern home of the god Amun, serving as a religious and royal center for the Napatan and Meroitic kingdoms of Kush.",
+    "didYouKnow": "The distinctive pinnacle of Jebel Barkal was believed by ancient Egyptians and Nubians alike to be the dwelling place of the god Amun.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 18.5333,
+    "longitude": 31.8333,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "900 BC",
+    "eraLabel": "Napatan Kingdom",
+    "eraDescription": "A sacred mountain crowns the Kushite kings.",
+    "rating": 4.6,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "old-dongola",
+    "name": "Old Dongola",
+    "country": "Sudan",
+    "shortDescription": "Capital of Christian Nubia",
+    "story": "Once the capital of the medieval Christian Nubian kingdom of Makuria, Old Dongola contains the remains of churches, a mosque converted from a throne hall, and monastic buildings.",
+    "didYouKnow": "One of Old Dongola's grandest buildings, a former royal throne hall, was later converted into a mosque, reflecting the region's religious transitions.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 18.2167,
+    "longitude": 30.75,
+    "category": "SACRED",
+    "isUnesco": false,
+    "era": "600 AD",
+    "eraLabel": "Christian Nubia",
+    "eraDescription": "A Nubian kingdom embraces a new faith.",
+    "rating": 4.3,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "sacred-sites",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "debre-damo",
+    "name": "Debre Damo Monastery",
+    "country": "Ethiopia",
+    "shortDescription": "Clifftop monastery reached by rope",
+    "story": "One of Ethiopia's oldest monasteries, perched atop a sheer flat-topped mountain and accessible only by climbing a rope up the cliff face, a tradition unchanged for centuries.",
+    "didYouKnow": "Debre Damo is off-limits to women and female animals, a restriction that has been maintained since the monastery's founding.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 14.3833,
+    "longitude": 39.2833,
+    "category": "SACRED",
+    "isUnesco": false,
+    "era": "500 AD",
+    "eraLabel": "Aksumite Christianity",
+    "eraDescription": "Monks climb to a clifftop refuge.",
+    "rating": 4.4,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "sacred-sites",
+      "architecture"
+    ]
+  },
+  {
+    "id": "yeha",
+    "name": "Yeha Temple",
+    "country": "Ethiopia",
+    "shortDescription": "Ethiopia's oldest standing structure",
+    "story": "The ruins of an ancient temple believed to be Ethiopia's oldest standing structure, built with finely cut stones during the era of the D'mt kingdom, showing strong Sabaean influence from across the Red Sea.",
+    "didYouKnow": "The temple's precisely fitted stone blocks were laid without mortar, yet the walls have stood for close to 2,700 years.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 14.2136,
+    "longitude": 38.9925,
+    "category": "SACRED",
+    "isUnesco": false,
+    "era": "700 BC",
+    "eraLabel": "Kingdom of D'mt",
+    "eraDescription": "A temple rises before Aksum's empire.",
+    "rating": 4.3,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "sacred-sites",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "asmara",
+    "name": "Asmara",
+    "country": "Eritrea",
+    "shortDescription": "Africa's Art Deco capital",
+    "story": "A city transformed by Italian colonial planners in the 1930s into a showcase of Modernist and Art Deco architecture, earning it the nickname 'Piccola Roma', or Little Rome.",
+    "didYouKnow": "Asmara has one of the highest concentrations of Modernist architecture anywhere in the world, remarkably preserved due to decades of isolation.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 15.3229,
+    "longitude": 38.9251,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1935 AD",
+    "eraLabel": "Piccola Roma",
+    "eraDescription": "A colonial capital reimagined in concrete.",
+    "rating": 4.5,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history",
+      "architecture"
+    ]
+  },
+  {
+    "id": "mogadishu-old-town",
+    "name": "Mogadishu Old Town",
+    "country": "Somalia",
+    "shortDescription": "Ancient Swahili-Arab port city",
+    "story": "A historic Indian Ocean port that grew wealthy on trade between Arabia, Persia, India, and the African interior, with coral-stone mosques and merchant houses dating back centuries.",
+    "didYouKnow": "Medieval Arab geographers described Mogadishu as one of the wealthiest and most beautiful trading cities on the entire East African coast.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 2.0371,
+    "longitude": 45.3438,
+    "category": "ANCIENT",
+    "isUnesco": false,
+    "era": "900 AD",
+    "eraLabel": "Benadir Coast",
+    "eraDescription": "Dhows crowd a wealthy port city.",
+    "rating": 4.2,
+    "bestMonths": [
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "trade-routes",
+      "architecture"
+    ]
+  },
+  {
+    "id": "fort-jesus",
+    "name": "Fort Jesus",
+    "country": "Kenya",
+    "shortDescription": "Portuguese fortress on the Swahili coast",
+    "story": "A coastal fortress built by the Portuguese to control trade along the Swahili coast, later changing hands repeatedly between Portuguese, Omani, and British powers.",
+    "didYouKnow": "Fort Jesus was designed by an Italian architect and its star-shaped layout was considered cutting-edge military engineering for its time.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -4.0635,
+    "longitude": 39.6739,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1593 AD",
+    "eraLabel": "Swahili Coast Contest",
+    "eraDescription": "Empires battle for control of the coast.",
+    "rating": 4.6,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history",
+      "trade-routes"
+    ]
+  },
+  {
+    "id": "thimlich-ohinga",
+    "name": "Thimlich Ohinga",
+    "country": "Kenya",
+    "shortDescription": "Stone-walled settlement of the Great Lakes",
+    "story": "A complex of massive dry-stone enclosures built by early pastoralist communities as protection for people and livestock, representing an architectural tradition unique to the Lake Victoria region.",
+    "didYouKnow": "Some of Thimlich Ohinga's stone walls stand over four meters thick and were built entirely without mortar.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -0.9667,
+    "longitude": 34.2833,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1400 AD",
+    "eraLabel": "Great Lakes Enclosures",
+    "eraDescription": "Stone walls protect herders and homes.",
+    "rating": 4.2,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "kasubi-tombs",
+    "name": "Kasubi Tombs",
+    "country": "Uganda",
+    "shortDescription": "Royal burial site of the Buganda kings",
+    "story": "The traditional burial ground of the kings of Buganda, centered on a monumental thatched-roof building constructed using traditional materials and techniques passed down through generations.",
+    "didYouKnow": "The main tomb building, Muzibu-Azaala-Mpanga, was largely rebuilt after a fire in 2010 using the same traditional grass-thatching methods as the original.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 0.3346,
+    "longitude": 32.5497,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "1882 AD",
+    "eraLabel": "Buganda Kingdom",
+    "eraDescription": "Kings are laid to rest beneath thatch.",
+    "rating": 4.4,
+    "bestMonths": [
+      12,
+      1,
+      2,
+      6,
+      7,
+      8
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "architecture"
+    ]
+  },
+  {
+    "id": "kings-palace-nyanza",
+    "name": "King's Palace Museum, Nyanza",
+    "country": "Rwanda",
+    "shortDescription": "Reconstructed royal court of Rwanda",
+    "story": "A reconstruction of the traditional royal residence of Rwanda's kings, featuring the distinctive dome-shaped thatched palace and the country's celebrated long-horned Inyambo cattle.",
+    "didYouKnow": "The traditional palace was built entirely without nails, using woven reeds and wooden poles bound together with plant fiber.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -2.35,
+    "longitude": 29.75,
+    "category": "ANCIENT",
+    "isUnesco": false,
+    "era": "1899 AD",
+    "eraLabel": "Kingdom of Rwanda",
+    "eraDescription": "A royal court gathers beneath a woven dome.",
+    "rating": 4.3,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "mbanza-kongo",
+    "name": "Mbanza Kongo",
+    "country": "Angola",
+    "shortDescription": "Capital of the mighty Kongo Kingdom",
+    "story": "The political and spiritual capital of the Kingdom of Kongo, one of the largest and most influential states in precolonial Central Africa, which maintained diplomatic ties with Portugal and the Vatican.",
+    "didYouKnow": "The Kingdom of Kongo's ruler converted to Christianity in the late 15th century, and Mbanza Kongo became home to one of the earliest churches built in sub-Saharan Africa.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -6.2667,
+    "longitude": 14.25,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1390 AD",
+    "eraLabel": "Kingdom of Kongo",
+    "eraDescription": "A capital rises to rule Central Africa.",
+    "rating": 4.4,
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "trade-routes"
+    ]
+  },
+  {
+    "id": "khami-ruins",
+    "name": "Khami Ruins",
+    "country": "Zimbabwe",
+    "shortDescription": "Successor capital to Great Zimbabwe",
+    "story": "Once the capital of the Kingdom of Butua, Khami rose to prominence after the decline of Great Zimbabwe, its terraced stone platforms once supporting the royal residences of its rulers.",
+    "didYouKnow": "Excavations at Khami have uncovered imported Chinese porcelain and Spanish silver, evidence of the kingdom's far-reaching trade networks.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -20.1975,
+    "longitude": 28.4425,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1450 AD",
+    "eraLabel": "Kingdom of Butua",
+    "eraDescription": "A new capital rises after Zimbabwe's fall.",
+    "rating": 4.4,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "trade-routes"
+    ]
+  },
+  {
+    "id": "naletale-ruins",
+    "name": "Naletale Ruins",
+    "country": "Zimbabwe",
+    "shortDescription": "The most decorated stone ruins in Zimbabwe",
+    "story": "A hilltop stone enclosure built by the Rozvi state, known for having some of the finest decorative stone patterning of any Zimbabwe-culture ruin.",
+    "didYouKnow": "Naletale's walls feature elaborate chevron, herringbone, and checkerboard patterns rarely seen elsewhere in the region's stone architecture.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -19.4667,
+    "longitude": 29.4,
+    "category": "ANCIENT",
+    "isUnesco": false,
+    "era": "1700 AD",
+    "eraLabel": "Rozvi State",
+    "eraDescription": "Master masons decorate a hilltop fortress.",
+    "rating": 4.1,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "matobo-hills",
+    "name": "Matobo Hills",
+    "country": "Zimbabwe",
+    "shortDescription": "Sacred granite hills of rock art",
+    "story": "A landscape of ancient granite hills held sacred by local communities for millennia, containing one of the highest concentrations of rock art in southern Africa.",
+    "didYouKnow": "Some of the rock paintings in Matobo Hills are believed to be over 13,000 years old, among the oldest known art in the region.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -20.5333,
+    "longitude": 28.5,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "6000 BC",
+    "eraLabel": "Ancient Rock Artists",
+    "eraDescription": "Sacred hills hold humanity's oldest paintings.",
+    "rating": 4.7,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "rock-art"
+    ]
+  },
+  {
+    "id": "tsodilo-hills",
+    "name": "Tsodilo Hills",
+    "country": "Botswana",
+    "shortDescription": "The Mountain of the Gods",
+    "story": "A remote group of hills in the Kalahari holding one of the densest concentrations of rock art in the world, revered by the San people as a sacred site of ancestral spirits.",
+    "didYouKnow": "Tsodilo Hills is home to more than 4,500 individual rock paintings, earning it the local name 'the Louvre of the Desert'.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -18.75,
+    "longitude": 21.75,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "20000 BC",
+    "eraLabel": "San Ancestral Art",
+    "eraDescription": "Spirits are painted onto desert stone.",
+    "rating": 4.6,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "rock-art"
+    ]
+  },
+  {
+    "id": "twyfelfontein",
+    "name": "Twyfelfontein",
+    "country": "Namibia",
+    "shortDescription": "Engravings of the Namib desert",
+    "story": "One of the largest concentrations of rock engravings in Africa, created by hunter-gatherer communities depicting animals, footprints, and ritual scenes across thousands of years.",
+    "didYouKnow": "Twyfelfontein contains more than 2,000 rock engravings and paintings, some believed to record ancient hunting rituals.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -20.5964,
+    "longitude": 14.3708,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "4000 BC",
+    "eraLabel": "Desert Engravers",
+    "eraDescription": "Ancient hunters carve their world in stone.",
+    "rating": 4.5,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "rock-art",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "cradle-of-humankind",
+    "name": "Cradle of Humankind",
+    "country": "South Africa",
+    "shortDescription": "Where our earliest ancestors lived",
+    "story": "A complex of limestone caves that has yielded some of the richest hominid fossil discoveries on Earth, including the famous 'Little Foot' and 'Mrs. Ples' specimens, reshaping our understanding of human origins.",
+    "didYouKnow": "Fossils found here suggest human ancestors may have lived and evolved in this region for close to three and a half million years.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -25.9333,
+    "longitude": 27.7167,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "2000000 BC",
+    "eraLabel": "Cradle of Humankind",
+    "eraDescription": "The earliest human ancestors emerge.",
+    "rating": 4.7,
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "castle-of-good-hope",
+    "name": "Castle of Good Hope",
+    "country": "South Africa",
+    "shortDescription": "Oldest colonial building in South Africa",
+    "story": "A star-shaped fort built by the Dutch East India Company to resupply ships rounding the Cape, marking the beginning of centuries of European settlement in southern Africa.",
+    "didYouKnow": "The Castle of Good Hope is the oldest surviving colonial building in South Africa, completed in 1679.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -33.9275,
+    "longitude": 18.4267,
+    "category": "ANCIENT",
+    "isUnesco": false,
+    "era": "1679 AD",
+    "eraLabel": "Cape Colony",
+    "eraDescription": "A fort rises to guard the sea route east.",
+    "rating": 4.3,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "colonial-history",
+      "architecture"
+    ]
+  },
+  {
+    "id": "chongoni-rock-art",
+    "name": "Chongoni Rock Art Area",
+    "country": "Malawi",
+    "shortDescription": "Living rock art tradition",
+    "story": "A dense collection of rock shelters decorated by both hunter-gatherer BaTwa communities and later farming societies, representing one of the richest rock art traditions in Central Africa.",
+    "didYouKnow": "Some of Chongoni's rock art traditions were still being practiced by local women into the 20th century as part of initiation ceremonies.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": -14.0,
+    "longitude": 34.1667,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1500 BC",
+    "eraLabel": "Chongoni Painters",
+    "eraDescription": "Generations paint the granite hills.",
+    "rating": 4.2,
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "rock-art",
+      "sacred-sites"
+    ]
+  },
+  {
+    "id": "ile-ife",
+    "name": "Ile-Ife",
+    "country": "Nigeria",
+    "shortDescription": "Spiritual birthplace of the Yoruba",
+    "story": "Regarded by the Yoruba people as the site of the world's creation, Ile-Ife flourished as an artistic and spiritual center famous for its extraordinarily naturalistic bronze and terracotta sculptures.",
+    "didYouKnow": "Ile-Ife's bronze and brass sculptures, created using the lost-wax casting technique, are considered among the finest examples of naturalistic art from the medieval world.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 7.4833,
+    "longitude": 4.5667,
+    "category": "SACRED",
+    "isUnesco": false,
+    "era": "900 AD",
+    "eraLabel": "Ife Civilization",
+    "eraDescription": "Bronze casters shape a sacred city.",
+    "rating": 4.5,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "sacred-sites",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "osun-osogbo",
+    "name": "Osun-Osogbo Sacred Grove",
+    "country": "Nigeria",
+    "shortDescription": "Living shrine to the river goddess Osun",
+    "story": "A dense forest sanctuary along the Osun River dedicated to the Yoruba goddess of fertility, still an active site of pilgrimage and annual festival today.",
+    "didYouKnow": "The annual Osun-Osogbo Festival draws hundreds of thousands of devotees and visitors, making it one of the largest traditional festivals in West Africa.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 7.7667,
+    "longitude": 4.5667,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "1600 AD",
+    "eraLabel": "Osun's Sacred Forest",
+    "eraDescription": "A river goddess is honored in the trees.",
+    "rating": 4.6,
+    "bestMonths": [
+      8,
+      11,
+      12,
+      1
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites"
+    ]
+  },
+  {
+    "id": "kano-old-city-walls",
+    "name": "Kano Old City Walls",
+    "country": "Nigeria",
+    "shortDescription": "Ramparts of a Hausa trading empire",
+    "story": "Massive earthen ramparts that once encircled the ancient Hausa city-state of Kano, a major terminus of trans-Saharan trade routes and center of Islamic scholarship.",
+    "didYouKnow": "At their peak, Kano's city walls stretched over 14 kilometers and stood up to 30 feet tall in places.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 12.0,
+    "longitude": 8.5167,
+    "category": "ANCIENT",
+    "isUnesco": false,
+    "era": "1100 AD",
+    "eraLabel": "Hausa City-States",
+    "eraDescription": "Earthen walls guard a trading capital.",
+    "rating": 4.2,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "ancient-kingdoms",
+      "trade-routes",
+      "architecture"
+    ]
+  },
+  {
+    "id": "cape-coast-castle",
+    "name": "Cape Coast Castle",
+    "country": "Ghana",
+    "shortDescription": "A gateway of sorrow on the Gold Coast",
+    "story": "A coastal fortress that changed hands among Swedish, Danish, Dutch, and British traders, later becoming one of the largest holding points in the transatlantic slave trade, with its 'Door of No Return' still standing as a memorial.",
+    "didYouKnow": "The dungeons of Cape Coast Castle held thousands of enslaved people at a time before they were forced through the castle's infamous 'Door of No Return'.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 5.1053,
+    "longitude": -1.2466,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1653 AD",
+    "eraLabel": "Gold Coast Trade",
+    "eraDescription": "A fortress bears witness to a painful history.",
+    "rating": 4.7,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history",
+      "architecture"
+    ]
+  },
+  {
+    "id": "larabanga-mosque",
+    "name": "Larabanga Mosque",
+    "country": "Ghana",
+    "shortDescription": "Mecca of West Africa",
+    "story": "One of the oldest mosques in West Africa, built in the distinctive Sudano-Sahelian mudbrick style, and a revered pilgrimage site for local Muslim communities.",
+    "didYouKnow": "Larabanga Mosque is sometimes called the 'Mecca of West Africa' due to its age and religious significance to the surrounding region.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 9.2167,
+    "longitude": -1.85,
+    "category": "SACRED",
+    "isUnesco": false,
+    "era": "1421 AD",
+    "eraLabel": "Sudano-Sahelian Islam",
+    "eraDescription": "Mudbrick minarets rise in the savanna.",
+    "rating": 4.3,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "sacred-sites",
+      "architecture"
+    ]
+  },
+  {
+    "id": "goree-island",
+    "name": "Gorée Island",
+    "country": "Senegal",
+    "shortDescription": "Memorial to the transatlantic slave trade",
+    "story": "A small island off Dakar that served for centuries as a major departure point in the transatlantic slave trade, today standing as a solemn memorial and museum to that history.",
+    "didYouKnow": "Gorée Island's House of Slaves, with its 'Door of No Return', has become one of the most visited memorial sites in Africa, drawing visitors including numerous heads of state.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 14.6667,
+    "longitude": -17.4,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1444 AD",
+    "eraLabel": "Atlantic Trade Era",
+    "eraDescription": "An island bears the weight of history.",
+    "rating": 4.7,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history"
+    ]
+  },
+  {
+    "id": "saint-louis",
+    "name": "Saint-Louis Island",
+    "country": "Senegal",
+    "shortDescription": "Former capital of French West Africa",
+    "story": "A former French colonial trading post and later capital of French West Africa, known for its distinctive colonial architecture, colorful facades, and iconic Faidherbe Bridge.",
+    "didYouKnow": "Saint-Louis was the capital of French West Africa until 1902, and it was also the birthplace of Senegalese poet and statesman Léopold Sédar Senghor's political career.",
+    "heroImageUrl": "",
+    "galleryImages": [],
+    "latitude": 16.0333,
+    "longitude": -16.5,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1659 AD",
+    "eraLabel": "French West Africa",
+    "eraDescription": "A colonial capital forms on the river's mouth.",
+    "rating": 4.4,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history",
+      "architecture"
+    ]
+  },
+  {
+    "id": "maasai-boma-ngorongoro",
+    "name": "Maasai Boma of Ngorongoro",
+    "country": "Tanzania",
+    "shortDescription": "Living Maasai homesteads inside a UNESCO reserve",
+    "story": "Inside the Ngorongoro Conservation Area (a mixed UNESCO World Heritage Site since 1979), traditional Maasai homesteads called manyattas or bomas — Nkang (multiple villages: nkoos), made of mud, sticks and cow-dung, encircled by a thorn fence (oleng) — still shelter semi-nomadic herders alongside one of Africa's densest wildlife populations. This rare pastoralist-wildlife coexistence has been practiced for centuries on the highland grasslands near the Seneto descent road and the Embulbul depression.",
+    "didYouKnow": "The Maasai word for a homestead is 'enkang' (plural 'nkoos'); 'boma' is the Swahili term adopted by visitors. The Ngorongoro Conservation Area remains one of the few places in the world where Maasai still share land with the great wildebeest migration corridors.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/maasai_boma.jpg",
+    "galleryImages": [],
+    "latitude": -3.1842,
+    "longitude": 35.5876,
+    "category": "LIVING",
+    "isUnesco": true,
+    "era": "1850 AD",
+    "eraLabel": "Pastoralist Coexistence",
+    "eraDescription": "Cattle keepers share land with the migration.",
+    "rating": 4.7,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "living-culture",
+      "traditions",
+      "architecture"
+    ]
+  },
+  {
+    "id": "giza-pyramids",
+    "name": "Giza Pyramid Plateau",
+    "country": "Egypt",
+    "shortDescription": "The last wonder of the ancient world",
+    "story": "The plateau on the west bank of the Nile holds the Great Pyramid of Khufu (c. 2550 BC), the slightly smaller pyramids of Khafre and Menkaure, the iconic Great Sphinx, and a network of mortuary temples and causeways that define the canonical image of Old Kingdom Egypt. Inscribed as a World Heritage Site in 1979 as part of the Memphis Necropolis.",
+    "didYouKnow": "The Great Pyramid of Khufu is the only one of the Seven Wonders of the Ancient World still largely intact, and its original polished limestone casing reportedly gleamed like white stone under the sun.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/giza.jpg",
+    "galleryImages": [],
+    "latitude": 29.9792,
+    "longitude": 31.1342,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "2550 BC",
+    "eraLabel": "Pyramid Age",
+    "eraDescription": "Old Kingdom pharaohs build for eternity.",
+    "rating": 4.9,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture"
+    ]
+  },
+  {
+    "id": "medina-essaouira",
+    "name": "Medina of Essaouira",
+    "country": "Morocco",
+    "shortDescription": "Late-18th-century fortified seaport",
+    "story": "Built in the 1760s by Sultan Mohammed ben Abdallah with the help of French engineers, Essaouira (formerly Mogador) is a textbook example of a fortified late-18th-century town built to contemporary European Enlightenment military principles, blending North African and European influences along the Atlantic coast. Inscribed by UNESCO in 2001.",
+    "didYouKnow": "Essaouira's blue-and-white ramparts doubled as the entrance to the fictional 'Austrian town' in Orson Welles' 1952 film Othello, which he directed on location here.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/essaouira.jpg",
+    "galleryImages": [],
+    "latitude": 31.5125,
+    "longitude": -9.77,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "1760 AD",
+    "eraLabel": "Mogador Reborn",
+    "eraDescription": "An Atlantic port redesigned for trade.",
+    "rating": 4.6,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "architecture",
+      "trade-routes",
+      "sacred-sites"
+    ]
+  },
+  {
+    "id": "rabat-modern-capital",
+    "name": "Rabat, Modern Capital and Historic City",
+    "country": "Morocco",
+    "shortDescription": "Shared heritage on two eras",
+    "story": "From the Almohad 12th-century Hassan Tower and the partly Roman ruins of Chellah to the early 20th-century Ville Nouvelle designed under the French Protectorate, Rabat layers medieval Islamic and Art Deco planning along the Bou Regreg estuary. Inscribed in 2012 as a shared heritage site.",
+    "didYouKnow": "Rabat is one of the few Moroccan sites inscribed by UNESCO for its layered dialogue between medieval Islamic and modern European architecture.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/rabat.jpg",
+    "galleryImages": [],
+    "latitude": 34.0209,
+    "longitude": -6.8416,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1147 AD",
+    "eraLabel": "Almohad Rabat",
+    "eraDescription": "Two eras of a capital share one bank.",
+    "rating": 4.7,
+    "bestMonths": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "architecture",
+      "sacred-sites"
+    ]
+  },
+  {
+    "id": "royal-palaces-abomey",
+    "name": "Royal Palaces of Abomey",
+    "country": "Benin",
+    "shortDescription": "Earthen palaces of the Kingdom of Dahomey",
+    "story": "Spread across 47 hectares in the heart of Abomey, ten earthen palaces served as the seat of twelve successive kings of the Kingdom of Dahomey from 1625 to 1900. Their earthen walls, bas-reliefs, and wooden royal statuary depict the wars and customs of one of West Africa's most powerful precolonial kingdoms, including the famous Dahomey Mino (the 'Amazon' women-warrior regiment). Inscribed 1985; removed from Danger List in 2007.",
+    "didYouKnow": "In 1892 King Béhanzin resisted the French columns with the Dahomey Amazons — one of the few confirmed all-female frontline regiments in modern military history.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/abomey.jpg",
+    "galleryImages": [],
+    "latitude": 7.1864,
+    "longitude": 1.994,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1625 AD",
+    "eraLabel": "Dahomey Rises",
+    "eraDescription": "Twelve kings build a palace-city of earth.",
+    "rating": 4.6,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture",
+      "traditions"
+    ]
+  },
+  {
+    "id": "koutammakou",
+    "name": "Koutammakou, Land of the Batammariba",
+    "country": "Togo",
+    "shortDescription": "Mud tower-houses of the Batammariba",
+    "story": "The cultural landscape in north-eastern Togo (extending into neighbouring Benin) is home to the Batammariba, whose two-storey earth tower-houses — called takienta — are still built using traditional techniques of clay, wood and straw, layered symbolically between earth (the dead) and sky (the living). Inscribed 2004.",
+    "didYouKnow": "Koutammakou's takienta towers inspired West African architecture and appear on the historical emblem of ECOWAS.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/koutammakou.jpg",
+    "galleryImages": [],
+    "latitude": 10.067,
+    "longitude": 1.133,
+    "category": "LIVING",
+    "isUnesco": true,
+    "era": "1600 AD",
+    "eraLabel": "Batammariba Builders",
+    "eraDescription": "Earth-and-straw towers bind earth and sky.",
+    "rating": 4.7,
+    "bestMonths": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "living-culture",
+      "architecture",
+      "traditions"
+    ]
+  },
+  {
+    "id": "ambo-imanga",
+    "name": "Royal Hill of Ambohimanga",
+    "country": "Madagascar",
+    "shortDescription": "Sacred hill of the Merina kings",
+    "story": "About 20 km north of Antananarivo, the fortified hill of Ambohimanga was the spiritual and political seat of the Merina kingdom. The site includes the royal Antemoro city, sacred palatial and funerary buildings, the 'enclosures of the living' and 'enclosures of the dead', and a sacred fig-tree grove that still anchors Malagasy national identity. Inscribed 2001.",
+    "didYouKnow": "Legend holds that King Andrianjaka had the sacred Ambohimanga fig-tree wrapped in silk before moving his capital south to Antananarivo in the late 16th century — a ritual still performed today.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/ambo_imanga.jpg",
+    "galleryImages": [],
+    "latitude": -18.7592,
+    "longitude": 47.5628,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "1490 AD",
+    "eraLabel": "Merina Sacred Hill",
+    "eraDescription": "A forest cradles Merina royal memory.",
+    "rating": 4.7,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "cidade-velha",
+    "name": "Cidade Velha, Historic Centre of Ribeira Grande",
+    "country": "Cape Verde",
+    "shortDescription": "First European city in the tropics",
+    "story": "On the south coast of Santiago island, Ribeira Grande (renamed Cidade Velha in the late 18th century) was the first European-built town in the tropics and the launch pad of the Atlantic slave trade between West Africa and the Americas. Its 16th-century fortifications, churches, and pillory remain as a monument to both European colonial reach and the origin of Cape Verdean Creole culture. Inscribed 2009.",
+    "didYouKnow": "Cidade Velha's pillory ('pelourinho') was raised in 1516 and serves as Cape Verde's national symbol — and as a symbol of the wider African diaspora.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/cidade_velha.jpg",
+    "galleryImages": [],
+    "latitude": 14.9163,
+    "longitude": -23.6041,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1466 AD",
+    "eraLabel": "Atlantic Outpost",
+    "eraDescription": "Europe's first tropical city opens the Atlantic era.",
+    "rating": 4.5,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history",
+      "architecture",
+      "trade-routes"
+    ]
+  },
+  {
+    "id": "stone-circles-senegambia",
+    "name": "Stone Circles of Senegambia",
+    "country": "Senegal & The Gambia",
+    "shortDescription": "A 1,500-year megalithic tradition",
+    "story": "Spread in four groups along the River Gambia, more than 1,000 stone circles (with associated burial mounds, tumuli and stone pillars) were erected over more than 1,500 years by communities whose identities are still debated but are believed to have been linked to the ancestors of the Jola, Mandinka and Bassari peoples. Inscribed 2006.",
+    "didYouKnow": "The Wassu circles use up to 24 laterite pillars per circle, some weighing several tonnes and aligned with surprising precision over distances of kilometres.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/senegambia_circles.jpg",
+    "galleryImages": [],
+    "latitude": 13.727,
+    "longitude": -15.226,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "300 AD",
+    "eraLabel": "Megalith Builders",
+    "eraDescription": "Stones stand tall along the River Gambia.",
+    "rating": 4.6,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "architecture",
+      "rock-art"
+    ]
+  },
+  {
+    "id": "bassari-country",
+    "name": "Bassari, Fula and Bedik Cultural Landscapes",
+    "country": "Senegal",
+    "shortDescription": "Living sacred groves and terraces",
+    "story": "Inscribed in 2012 in south-east Senegal, this cultural landscape of villages, terraces, sacred groves and initiation sites belongs to three distinct communities — the Bedik, the Fula and the Bassari — whose centuries-old adaptation to the foothills is one of Africa's most distinctive living landscapes.",
+    "didYouKnow": "Bassari Country is one of the few African UNESCO sites inscribed explicitly for its ongoing living cultural traditions rather than for excavated ruins.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/bassari_country.jpg",
+    "galleryImages": [],
+    "latitude": 12.71,
+    "longitude": -12.61,
+    "category": "LIVING",
+    "isUnesco": true,
+    "era": "1100 AD",
+    "eraLabel": "Bassari Foothills",
+    "eraDescription": "Hill terraces shape life, ritual and memory.",
+    "rating": 4.4,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "living-culture",
+      "traditions",
+      "sacred-sites"
+    ]
+  },
+  {
+    "id": "kondoa-rock-art",
+    "name": "Kondoa Rock-Art Sites",
+    "country": "Tanzania",
+    "shortDescription": "Painted caves of the central Rift",
+    "story": "Around 450 rock-art sites across the Kondoa and Irangi hills in central Tanzania preserve paintings spanning thousands of years. Hunting, ritual and rain-making scenes — and the distinctive elongated 'Sandawe' figures — give a unique visual record of the hunter-gatherer and agro-pastoral communities living along the Rift escarpment. Inscribed 2006.",
+    "didYouKnow": "Kondoa includes both 'naturalistic' early paintings (depicting long-vanished giraffes and elephants) and more symbolic later panels attributed to incoming herding communities — a visible transition in artistic style.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/kondoa.jpg",
+    "galleryImages": [],
+    "latitude": -4.55,
+    "longitude": 35.8333,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "6000 BC",
+    "eraLabel": "Rift Painters",
+    "eraDescription": "Hunters and herders paint a green Rift.",
+    "rating": 4.5,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "tags": [
+      "unesco",
+      "rock-art",
+      "sacred-sites"
+    ]
+  },
+  {
+    "id": "olduvai-gorge",
+    "name": "Olduvai Gorge",
+    "country": "Tanzania",
+    "shortDescription": "The cradle of human evolution",
+    "story": "A 48 km ravine in the eastern Serengeti, whose exposed sedimentary layers document nearly two million years of hominin evolution — including Paranthropus boisei (1959) and Homo habilis (1960) discovered by Mary and Louis Leakey, and the celebrated Laetoli hominin footprints nearby. Lies within the Ngorongoro Conservation Area UNESCO property.",
+    "didYouKnow": "Olduvai is sometimes called the 'Cradle of Mankind'; the oldest hominin stone tools (Oldowan industry) found here date to roughly 1.8 million years ago.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/olduvai.jpg",
+    "galleryImages": [],
+    "latitude": -2.9936,
+    "longitude": 35.3512,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1500000 BC",
+    "eraLabel": "Stone Age Toolmakers",
+    "eraDescription": "Hominins chip the first stone tools.",
+    "rating": 4.8,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms"
+    ]
+  },
+  {
+    "id": "kunta-kinteh-island",
+    "name": "Kunta Kinteh Island and Related Sites",
+    "country": "The Gambia",
+    "shortDescription": "River-island fortress of the slave trade",
+    "story": "Originally named 'St Andrew's' by the Portuguese (who built the first fortifications here in 1584), the island was later held by the Dutch (James Fort, 1651), the Courlanders, the British and the French, becoming one of the largest embarkation points on the upper River Gambia for enslaved West Africans. Inscribed 2003.",
+    "didYouKnow": "In 2011 the island was renamed in honour of Kunta Kinteh — Alex Haley's ancestor and central character of his novel Roots — making it one of the rare UNESCO sites named after a real person.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/kunta_kinteh.jpg",
+    "galleryImages": [],
+    "latitude": 13.3333,
+    "longitude": -14.6667,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1584 AD",
+    "eraLabel": "Gambian Forts",
+    "eraDescription": "Trade forts anchor the upper River Gambia.",
+    "rating": 4.5,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "unesco",
+      "colonial-history",
+      "trade-routes",
+      "architecture"
+    ]
+  },
+  {
+    "id": "cliff-of-bandiagara",
+    "name": "Cliff of Bandiagara (Land of the Dogons)",
+    "country": "Mali",
+    "shortDescription": "Cliffside villages of the Dogon",
+    "story": "A 150-km sandstone cliff running along the Upper Yiré valley hosts 289 villages and hamlets of the Dogon people, whose tiered granaries, cliff-face shrines and mask rituals have been a continuing cultural tradition for more than 700 years. Inscribed 1989.",
+    "didYouKnow": "Dogon cosmology is famously associated with knowledge of the Sirius B white-dwarf companion — a tradition that has fuelled long-running (and contested) academic debate about pre-telescopic astronomy in West Africa.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/bandiagara.jpg",
+    "galleryImages": [],
+    "latitude": 14.333,
+    "longitude": -3.417,
+    "category": "LIVING",
+    "isUnesco": true,
+    "era": "1300 AD",
+    "eraLabel": "Dogon Cliff Dwellers",
+    "eraDescription": "Villagers and masks cling to a sandstone cliff.",
+    "rating": 4.8,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "tags": [
+      "unesco",
+      "living-culture",
+      "ancient-kingdoms",
+      "traditions",
+      "architecture"
+    ]
+  },
+  {
+    "id": "medinas-comoros",
+    "name": "Medinas of the Historic Sultanates of the Comoros",
+    "country": "Comoros",
+    "shortDescription": "Swahili-Arab sultanate towns of the Indian Ocean",
+    "story": "Six historic towns — Domoni, Fomboni, Iconi, Moroni, Mtsamdou and Séléa — preserve the layered urban fabric of the Comorian sultanates, blending African coastal and Arab-Omani influences through coral-stone medinas, Friday mosques, royal tombs and craft workshops that flourished from the 12th to 17th centuries. The inscription is on the tentative list and gazetted as a UNESCO cultural heritage site subject to final approval.",
+    "didYouKnow": "Each medina preserves traces of an Arabic-based script (Arabic-Comorian) that was developed locally and lasted into the 20th century.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/comoros.jpg",
+    "galleryImages": [],
+    "latitude": -11.7047,
+    "longitude": 43.2302,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "1500 AD",
+    "eraLabel": "Sultanate Medinas",
+    "eraDescription": "Coral-stone towns rise between Africa and Arabia.",
+    "rating": 4.4,
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "tags": [
+      "unesco",
+      "sacred-sites",
+      "trade-routes",
+      "architecture"
+    ]
+  },
+  {
+    "id": "lope-okanda",
+    "name": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
+    "country": "Gabon",
+    "shortDescription": "Gorilla forest with prehistoric rock engravings",
+    "story": "A 4,910 km² protected area in central Gabon that documents a 400,000-year record of human occupation (in rock engravings of gorillas, antelopes and other fauna) layered onto a tropical rainforest still home to forest elephants and western lowland gorillas. Inscribed 2007.",
+    "didYouKnow": "Some of the engraved stones at Lopé-Okanda show realistic depictions of gorillas as much as 3,500 years old — among the earliest figurative depictions of great apes anywhere.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/lope.jpg",
+    "galleryImages": [],
+    "latitude": -0.4394,
+    "longitude": 11.5247,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "400000 BC",
+    "eraLabel": "Forest Engravers",
+    "eraDescription": "Hominins carve gorillas in tropical stone.",
+    "rating": 4.4,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "ancient-kingdoms",
+      "rock-art"
+    ]
+  },
+  {
+    "id": "mosi-oa-tunya",
+    "name": "Mosi-oa-Tunya / Victoria Falls",
+    "country": "Zambia",
+    "shortDescription": "The smoke that thunders",
+    "story": "The 1,708-m wide waterfall on the Zambezi River marks one of Africa's great natural borders and is the basis of two trans-frontier parks (Mosi-oa-Tunya in Zambia and Victoria Falls in Zimbabwe). The mist from the falls can rise over 400 m and is visible from more than 30 km away. Inscribed 1989.",
+    "didYouKnow": "David Livingstone was the first European to see the falls in 1855 and named them after Queen Victoria — yet the local Tonga/Toka-leya name 'Shungu-na-mutitima' predates him by centuries.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/mosi_oa_tunya.jpg",
+    "galleryImages": [],
+    "latitude": -17.9243,
+    "longitude": 25.8572,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "100 AD",
+    "eraLabel": "River Born",
+    "eraDescription": "The Zambezi carves Africa's curtain of water.",
+    "rating": 4.9,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tags": [
+      "unesco",
+      "trade-routes"
+    ]
+  },
+  {
+    "id": "lake-abbe-afar",
+    "name": "Lake Abbé and the Afar Cultural Landscape",
+    "country": "Djibouti",
+    "shortDescription": "Otherworldly chimneys of the Afar Triangle",
+    "story": "Lake Abbé — on the border between Djibouti and Ethiopia — is the easternmost and best known of a chain of six connected salt lakes whose spectacular limestone 'chimneys' (some up to 50 m tall) define one of the most surreal landscapes on Earth. The surrounding Afar lowlands are home to the Afar people, one of the Horn's most ancient pastoral cultures.",
+    "didYouKnow": "The chimneys at Lake Abbé are still active: when mineral-charged groundwater erupts beneath the crust, it can build a 1-m tall chimney in days while older chimneys slowly erode away.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/refs/heads/main/images/heritage/lake_abbe.jpg",
+    "galleryImages": [],
+    "latitude": 11.2,
+    "longitude": 41.8333,
+    "category": "ANCIENT",
+    "isUnesco": false,
+    "era": "1500 BC",
+    "eraLabel": "Afar Pastoralists",
+    "eraDescription": "Salt, steam and stone chimneys of the Afar.",
+    "rating": 4.6,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "traditions",
+      "living-culture"
+    ]
   }
 ]
-
