@@ -469,7 +469,7 @@
     "longitude": 57.5522,
     "seasonalScores": {"jan": 0.58, "feb": 0.55, "mar": 0.65, "apr": 0.80, "may": 0.92, "jun": 0.96, "jul": 1.0, "aug": 0.96, "sep": 0.90, "oct": 0.78, "nov": 0.68, "dec": 0.60}
   },
-    {
+  {
     "id": "table_mountain_031",
     "name": "Table Mountain",
     "country": "South Africa",
@@ -520,7 +520,7 @@
     "id": "bwindi_032",
     "name": "Bwindi Impenetrable National Park",
     "country": "Uganda",
-    "https://www.bwindinationalparkuganda.com/wp-content/uploads/2019/02/gorilla-trekking-700x450.jpg",
+    "heroImageUrl": "https://www.bwindinationalparkuganda.com/wp-content/uploads/2019/02/gorilla-trekking-700x450.jpg",
     "galleryImages": [
       "https://www.bwindinationalparkuganda.com/wp-content/uploads/2019/02/gorilla-trekking-700x450.jpg",
       "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=800&q=80",
