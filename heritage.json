@@ -1,63 +1,256 @@
-{
-  "id": "great-zimbabwe",
-  "name": "Great Zimbabwe",
-  "country": "Zimbabwe",
-  "shortDescription": "Medieval city of dry-stone majesty",
-  "story": "A ruined city that served as the capital of the Kingdom of Zimbabwe during the country's Late Iron Age. It's a testament to the powerful and prosperous Shona civilization that existed from the 11th to 15th centuries.",
-  "didYouKnow": "The stone walls of the Great Enclosure were built without mortar and are still standing today.",
-  "heroImageUrl": "https://www.kanaga-at.com/wp-content/uploads/2021/07/zimbabwe_rovine_great_zimbabwe.jpg",
-  "galleryImages": [
-    "https://www.kanaga-at.com/wp-content/uploads/2021/07/zimbabwe_rovine_great_zimbabwe.jpg",
-    "https://d2g6byanrj0o4m.cloudfront.net/images/64701/great_zimbabwe_guide__schema.jpg"
-  ],
-  "latitude": -20.268,
-  "longitude": 30.9337,
-  "category": "ANCIENT",
-  "isUnesco": true,
-  "era": "1000 AD",
-  "eraLabel": "Great Zimbabwe",
-  "eraDescription": "The stone city awakens.",
-  "rating": 4.9,
-  "bestMonths": [4, 5, 6, 7, 8, 9, 10],
-  "tags": ["unesco", "ancient-kingdoms", "architecture"],
+[
+  {
+    "id": "great-zimbabwe",
+    "name": "Great Zimbabwe",
+    "country": "Zimbabwe",
+    "shortDescription": "Medieval city of dry-stone majesty",
+    "story": "A ruined city that served as the capital of the Kingdom of Zimbabwe during the country's Late Iron Age. It's a testament to the powerful and prosperous Shona civilization that existed from the 11th to 15th centuries.",
+    "didYouKnow": "The stone walls of the Great Enclosure were built without mortar and are still standing today.",
+    "heroImageUrl": "https://www.kanaga-at.com/wp-content/uploads/2021/07/zimbabwe_rovine_great_zimbabwe.jpg",
+    "galleryImages": [
+      "https://www.kanaga-at.com/wp-content/uploads/2021/07/zimbabwe_rovine_great_zimbabwe.jpg",
+      "https://d2g6byanrj0o4m.cloudfront.net/images/64701/great_zimbabwe_guide__schema.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3uD0EmVyao6BkP3Rb-C2wsECP0stD0PEtOdxYh2mxgDqq8xDbHfy1gON&s=10"
+    ],
+    "latitude": -20.268,
+    "longitude": 30.9337,
+    "category": "ANCIENT",
+    "isUnesco": true,
+    "era": "1000 AD",
+    "eraLabel": "Great Zimbabwe",
+    "eraDescription": "The stone city awakens.",
+    "rating": 4.9,
+    "bestMonths": [4, 5, 6, 7, 8, 9, 10],
+    "tags": ["unesco", "ancient-kingdoms", "architecture"],
 
-  "badges": ["UNESCO", "HISTORICAL", "FAMILY FRIENDLY", "PHOTOGRAPHY"],
-  "weatherTempC": 27,
-  "weatherCondition": "CLEAR",
-  "visitInfo": {
-    "openingHours": "8:00 - 17:30 daily",
-    "entryFee": "$18 · Free under 12",
-    "bestMonthsLabel": "May - August",
-    "visitDuration": "2 - 3 hours",
-    "crowdLevel": "MEDIUM",
-    "accessibilityNote": "Partial · main path"
+    "badges": ["UNESCO", "HISTORICAL", "FAMILY FRIENDLY", "PHOTOGRAPHY"],
+    "weatherTempC": 27,
+    "weatherCondition": "CLEAR",
+    "visitInfo": {
+      "openingHours": "8:00 - 17:30 daily",
+      "entryFee": "$18 · Free under 12",
+      "bestMonthsLabel": "May - August",
+      "visitDuration": "2 - 3 hours",
+      "crowdLevel": "MEDIUM",
+      "accessibilityNote": "Partial · main path"
+    },
+    "etiquetteTips": [
+      {"category": "WHAT TO WEAR", "tip": "Cover shoulders and knees near the sacred enclosure."},
+      {"category": "PHOTOGRAPHY", "tip": "Allowed — but always ask before photographing people."},
+      {"category": "RESPECT", "tip": "Do not climb on the ancient walls."},
+      {"category": "LOCAL CUSTOMS", "tip": "Greet elders first — a smile carries far."}
+    ],
+    "localVoice": {
+      "name": "Tendai",
+      "role": "Local heritage guide",
+      "quote": "Come at sunrise. Sit on the eastern wall and listen — you'll hear the wind carry the same songs the ancestors knew."
+    },
+    "travelerPhotoUrls": [
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/great_zimbabwe/traveler_1.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/great_zimbabwe/traveler_2.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/great_zimbabwe/traveler_3.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/great_zimbabwe/traveler_4.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/great_zimbabwe/traveler_5.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/great_zimbabwe/traveler_6.jpg"
+    ],
+    "timeline": [
+      {"year": "1100", "title": "Origins", "description": "First settlers arrive in the highveld."},
+      {"year": "1300", "title": "Golden Age", "description": "Trade with Kilwa and China at its peak."},
+      {"year": "1450", "title": "Great Migration", "description": "The kingdom shifts north."},
+      {"year": "1986", "title": "UNESCO Recognition", "description": "Inscribed as World Heritage."},
+      {"year": "TODAY", "title": "Living Heritage", "description": "A destination of pilgrimage and study."}
+    ],
+    "nearbyExperiences": [
+      {"title": "Traditional Feast", "subtitle": "Sadza & mapane", "iconKey": "food"},
+      {"title": "Craft Village", "subtitle": "Soapstone carving", "iconKey": "craft"},
+      {"title": "Sunset Trail", "subtitle": "Guided hilltop walk", "iconKey": ""}
+    ],
+    "storyAudio": [
+      {
+        "language": "English",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/great_zimbabwe/en.mp3",
+        "durationSeconds": 20,
+        "transcript": "Welcome to Great Zimbabwe. More than 800 years ago, this was the capital of a powerful African kingdom whose trade reached India and China."
+      },
+      {
+        "language": "Swahili",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/great_zimbabwe/sw.mp3",
+        "durationSeconds": 22,
+        "transcript": "Karibu Great Zimbabwe. Zaidi ya miaka 800 iliyopita, hapa palikuwa mji mkuu wa ufalme wenye nguvu barani Afrika."
+      },
+      {
+        "language": "Français",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/great_zimbabwe/fr.mp3",
+        "durationSeconds": 21,
+        "transcript": "Bienvenue au Grand Zimbabwe. Il y a plus de 800 ans, c'était la capitale d'un puissant royaume africain."
+      }
+    ],
+    "tourOperatorCategoryId": "ancient-kingdoms-guides",
+    "hotelSearchQuery": "Masvingo Zimbabwe hotels near Great Zimbabwe",
+    "restaurantSearchQuery": "Masvingo Zimbabwe traditional restaurants"
   },
-  "etiquetteTips": [
-    {"category": "WHAT TO WEAR", "tip": "Cover shoulders and knees near the sacred enclosure."},
-    {"category": "PHOTOGRAPHY", "tip": "Allowed — but always ask before photographing people."},
-    {"category": "RESPECT", "tip": "Do not climb on the ancient walls."},
-    {"category": "LOCAL CUSTOMS", "tip": "Greet elders first — a smile carries far."}
-  ],
-  "localVoice": {
-    "name": "Tendai",
-    "role": "Local heritage guide",
-    "quote": "Come at sunrise. Sit on the eastern wall and listen — you'll hear the wind carry the same songs the ancestors knew."
+  {
+    "id": "lalibela",
+    "name": "Lalibela",
+    "country": "Ethiopia",
+    "shortDescription": "11 rock-hewn churches",
+    "story": "A town in northern Ethiopia famous for its monolithic rock-hewn churches. The churches were carved out of a single piece of rock from the ground downward in the 12th century, a truly remarkable feat of engineering and faith.",
+    "didYouKnow": "The most famous church, Bet Giyorgis (St. George's Church), is shaped like a cross.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lalibela/hero.jpg",
+    "galleryImages": [
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lalibela/gallery_1.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lalibela/gallery_2.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lalibela/gallery_3.jpg"
+    ],
+    "latitude": 12.0316,
+    "longitude": 39.0473,
+    "category": "SACRED",
+    "isUnesco": true,
+    "era": "1200 AD",
+    "eraLabel": "Lalibela",
+    "eraDescription": "Rock churches carved in faith.",
+    "rating": 4.9,
+    "bestMonths": [10, 11, 12, 1, 2],
+    "tags": ["unesco", "sacred-sites", "architecture"],
+
+    "badges": ["UNESCO", "HISTORICAL", "PHOTOGRAPHY"],
+    "weatherTempC": 19,
+    "weatherCondition": "MILD",
+    "visitInfo": {
+      "openingHours": "6:00 - 18:00 daily",
+      "entryFee": "$50 · valid 5 days",
+      "bestMonthsLabel": "October - February",
+      "visitDuration": "Half day - full day",
+      "crowdLevel": "HIGH",
+      "accessibilityNote": "Limited · uneven rock-cut steps"
+    },
+    "etiquetteTips": [
+      {"category": "WHAT TO WEAR", "tip": "Remove shoes before entering any church interior."},
+      {"category": "PRAYER TIMES", "tip": "Move quietly and step aside during active services."},
+      {"category": "PHOTOGRAPHY", "tip": "No flash photography inside the churches."},
+      {"category": "RESPECT", "tip": "Do not touch priests' crosses or manuscripts without invitation."}
+    ],
+    "localVoice": {
+      "name": "Selamawit",
+      "role": "Lalibela heritage guide",
+      "quote": "We say the angels helped carve these churches at night. Stand in Bet Giyorgis at dawn and you will understand why."
+    },
+    "travelerPhotoUrls": [
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lalibela/traveler_1.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lalibela/traveler_2.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lalibela/traveler_3.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lalibela/traveler_4.jpg"
+    ],
+    "timeline": [
+      {"year": "1137", "title": "Zagwe Dynasty", "description": "King Lalibela begins his reign."},
+      {"year": "1181", "title": "Church Carving Begins", "description": "Work starts on the rock-hewn churches."},
+      {"year": "1221", "title": "Completion", "description": "The eleven churches are finished."},
+      {"year": "1978", "title": "UNESCO Recognition", "description": "Inscribed as World Heritage."},
+      {"year": "TODAY", "title": "Living Pilgrimage", "description": "Still an active site of Ethiopian Orthodox worship."}
+    ],
+    "nearbyExperiences": [
+      {"title": "Genna Festival", "subtitle": "Ethiopian Christmas", "iconKey": ""},
+      {"title": "Weaving Village", "subtitle": "Traditional shemma cloth", "iconKey": "craft"},
+      {"title": "Highland Coffee", "subtitle": "Traditional ceremony", "iconKey": "food"}
+    ],
+    "storyAudio": [
+      {
+        "language": "English",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/lalibela/en.mp3",
+        "durationSeconds": 24,
+        "transcript": "Welcome to Lalibela. In the 12th century, King Lalibela ordered eleven churches carved from solid rock, from the ground down."
+      },
+      {
+        "language": "Amharic",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/lalibela/am.mp3",
+        "durationSeconds": 25,
+        "transcript": "እንኳን ደህና መጡ ወደ ላሊበላ። በ12ኛው ክፍለ ዘመን ንጉስ ላሊበላ አስራ አንድ አብያተ ክርስቲያናትን ከአለት ጠረቡ።"
+      }
+    ],
+    "tourOperatorCategoryId": "sacred-sites-guides",
+    "hotelSearchQuery": "Lalibela Ethiopia hotels",
+    "restaurantSearchQuery": "Lalibela Ethiopia traditional restaurants"
   },
-  "travelerPhotoUrls": [],
-  "timeline": [
-    {"year": "1100", "title": "Origins", "description": "First settlers arrive in the highveld."},
-    {"year": "1300", "title": "Golden Age", "description": "Trade with Kilwa and China at its peak."},
-    {"year": "1450", "title": "Great Migration", "description": "The kingdom shifts north."},
-    {"year": "1986", "title": "UNESCO Recognition", "description": "Inscribed as World Heritage."},
-    {"year": "TODAY", "title": "Living Heritage", "description": "A destination of pilgrimage and study."}
-  ],
-  "nearbyExperiences": [
-    {"title": "Traditional Feast", "subtitle": "Sadza & mapane", "iconKey": "food"},
-    {"title": "Craft Village", "subtitle": "Soapstone carving", "iconKey": "craft"},
-    {"title": "Sunset Trail", "subtitle": "Guided hilltop walk", "iconKey": ""}
-  ],
-  "storyAudio": [],
-  "tourOperatorCategoryId": "ancient-kingdoms-guides",
-  "hotelSearchQuery": "Masvingo Zimbabwe hotels near Great Zimbabwe",
-  "restaurantSearchQuery": "Masvingo Zimbabwe traditional restaurants"
-}
+  {
+    "id": "lake-abbe-afar",
+    "name": "Lake Abbé and the Afar Cultural Landscape",
+    "country": "Djibouti",
+    "shortDescription": "Otherworldly chimneys of the Afar Triangle",
+    "story": "Lake Abbé — on the border between Djibouti and Ethiopia — is the easternmost and best known of a chain of six connected salt lakes whose spectacular limestone 'chimneys' (some up to 50 m tall) define one of the most surreal landscapes on Earth. The surrounding Afar lowlands are home to the Afar people, one of the Horn's most ancient pastoral cultures.",
+    "didYouKnow": "The chimneys at Lake Abbé are still active: when mineral-charged groundwater erupts beneath the crust, it can build a 1-m tall chimney in days while older chimneys slowly erode away.",
+    "heroImageUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/hero.jpg",
+    "galleryImages": [
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/gallery_1.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/gallery_2.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/gallery_3.jpg"
+    ],
+    "latitude": 11.2,
+    "longitude": 41.8333,
+    "category": "LIVING",
+    "isUnesco": false,
+    "era": "1500 BC",
+    "eraLabel": "Afar Pastoralists",
+    "eraDescription": "Salt, steam and stone chimneys of the Afar.",
+    "rating": 4.6,
+    "bestMonths": [11, 12, 1, 2, 3],
+    "tags": ["traditions", "living-culture"],
+
+    "badges": ["NATURAL WONDER", "PHOTOGRAPHY", "OFF THE BEATEN PATH"],
+    "weatherTempC": 34,
+    "weatherCondition": "HOT & ARID",
+    "visitInfo": {
+      "openingHours": "Open access · guided 4x4 recommended",
+      "entryFee": "$15 conservation fee",
+      "bestMonthsLabel": "November - March",
+      "visitDuration": "Full day (overnight camping popular)",
+      "crowdLevel": "LOW",
+      "accessibilityNote": "None · uneven volcanic terrain, 4x4 only"
+    },
+    "etiquetteTips": [
+      {"category": "WHAT TO WEAR", "tip": "Light, full-coverage clothing and sturdy shoes for sharp limestone."},
+      {"category": "PHOTOGRAPHY", "tip": "Always ask before photographing Afar herders or their camels."},
+      {"category": "RESPECT", "tip": "Do not climb or lean on active chimney formations — they are fragile."},
+      {"category": "LOCAL CUSTOMS", "tip": "Carry extra water to share; hospitality is reciprocal in Afar culture."}
+    ],
+    "localVoice": {
+      "name": "Ahmed",
+      "role": "Afar pastoralist and guide",
+      "quote": "My grandfather grazed his camels here, and so do I. The chimneys grow while we sleep — the lake is always becoming something new."
+    },
+    "travelerPhotoUrls": [
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/traveler_1.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/traveler_2.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/traveler_3.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/traveler_4.jpg",
+      "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/images/heritage/lake_abbe_afar/traveler_5.jpg"
+    ],
+    "timeline": [
+      {"year": "1500 BC", "title": "Afar Settlement", "description": "Pastoralist communities establish routes across the Afar Triangle."},
+      {"year": "1928", "title": "First Western Survey", "description": "European explorers document the limestone chimneys."},
+      {"year": "1968", "title": "Djibouti Independence", "description": "Lake Abbé becomes part of independent Djibouti's protected landscape."},
+      {"year": "TODAY", "title": "Living Landscape", "description": "Afar herders still graze camels along the lake shore."}
+    ],
+    "nearbyExperiences": [
+      {"title": "Camel Trek", "subtitle": "With Afar herders", "iconKey": ""},
+      {"title": "Stargazing Camp", "subtitle": "Overnight under the chimneys", "iconKey": ""},
+      {"title": "Salt Caravan Route", "subtitle": "Traditional trading path", "iconKey": "craft"}
+    ],
+    "storyAudio": [
+      {
+        "language": "English",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/lake_abbe_afar/en.mp3",
+        "durationSeconds": 23,
+        "transcript": "Welcome to Lake Abbé. These limestone chimneys, some fifty meters tall, rise from an ancient lakebed shared by Djibouti and Ethiopia."
+      },
+      {
+        "language": "Français",
+        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/lake_abbe_afar/fr.mp3",
+        "durationSeconds": 24,
+        "transcript": "Bienvenue au lac Abbé. Ces cheminées calcaires, hautes parfois de cinquante mètres, s'élèvent d'un lit lacustre ancien."
+      }
+    ],
+    "tourOperatorCategoryId": "natural-wonders-guides",
+    "hotelSearchQuery": "Dikhil Djibouti camps near Lake Abbe",
+    "restaurantSearchQuery": "Dikhil Djibouti Afar cuisine"
+  }
+]
