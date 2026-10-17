@@ -863,7 +863,7 @@
     "ultraLuxuryPrice": 8200.0,
     "popularityScore": 0.83,
     "trendGrowth": 24.6,
-    "bestMonths": [0, 1, 2, 6, 7, 8, 9, 11],
+    "bestMonths": [0, 1, 2, 6, 7, 8, 9,10, 11],
     "activities": ["Kitesurfing", "Coral Reef Snorkeling", "Colobus Monkey Walks", "Dhow Sunset Cruises"],
     "topExperiences": [
       {
@@ -1225,7 +1225,7 @@
     "id": "kruger_017",
     "name": "Kruger National Park",
     "country": "South Africa",
-    "heroImageUrl": "https://www.arebbusch.com/wp-content/uploads/2022/04/Kruger-National-Park.jpg",
+    "heroImageUrl": "https://www.lukimbi.com/wp-content/uploads/2020/08/IMG_1859.jpg",
     "galleryImages": [
       "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1518715303843-586e350756cb?auto=format&fit=crop&w=800&q=80",
@@ -1272,11 +1272,11 @@
     "id": "kilimanjaro_018",
     "name": "Mount Kilimanjaro",
     "country": "Tanzania",
-    "heroImageUrl": "https://images.unsplash.com/photo-1589825743636-94e75b25773e?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvhPDuD-eU4_r7LAXU2Z4sbLhILGM3t2E75fpOV9EuA&s=10",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1609185534588-c0b4e7012e0d?auto=format&fit=crop&w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjT_muk0KhgoXRu3awqbAEpQpGeQjfa0Nhbvq9kZg2Ig&s=10",
       "https://images.unsplash.com/photo-1489493887464-892be6d1daae?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1522010793854-13b5c3b27cc2?auto=format&fit=crop&w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTppxTqMexihZINQkWVhCyN3FAOpEqQvt8L1SyX7nU7OWoHwOUa87JLY&s=10"
     ],
     "description": "Africa's highest peak and the world's tallest freestanding mountain. Trekkers of varying fitness levels ascend through five distinct ecological zones to reach Uhuru Peak at 5,895 m.",
     "shortDescription": "Africa's roof — a bucket-list trek through five climate zones.",
