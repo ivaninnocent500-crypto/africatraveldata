@@ -1817,11 +1817,11 @@
     "id": "sahara_020",
     "name": "Sahara Desert",
     "country": "Morocco / Algeria / Tunisia",
-    "heroImageUrl": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://th-thumbnailer.cdn-si-edu.com/L9US3FsxuAosj7PcDD1R-zaQ06k=/1280x1280/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/f2/94/f294516b-db3d-4f7b-9a60-ca3cd5f3d9b2/fbby1h_1.jpg",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1530533718754-001d2668365a?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/51/47/98/getlstd-property-photo.jpg?w=1000&h=800&s=1",
+      "https://i.pinimg.com/736x/56/4e/cf/564ecfcb56c530cbb4861a0e314be29b.jpg",
+      "https://lebleuresort.com/wp-content/uploads/2025/07/Luxury-desert-camp.jpg"
     ],
     "description": "The world's largest hot desert stretching across 11 countries, offering camel treks through golden dunes of Erg Chebbi, stargazing under unpolluted skies, and authentic Berber camp experiences.",
     "shortDescription": "Camel treks, towering dunes, and a billion stars at night.",
@@ -2040,8 +2040,8 @@
     "heroImageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=1600&q=80",
     "galleryImages": [
       "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1583422409516-2895a77efde9?auto=format&fit=crop&w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfGYYUETtuYHFaw9yu-rWotMeFrcFgI1DyQFSHCqPJ59baSIwwF2bSp8f&s=10",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/281617/2000x2000-0-70-7f45cf29570eff4140886e919d7c0987.jpg"
     ],
     "description": "The world's greatest open-air museum, where the Valley of the Kings, Karnak Temple, and Luxor Temple sit along the Nile, offering an unmatched concentration of pharaonic monuments.",
     "shortDescription": "Valley of the Kings, Karnak Temple, and Nile felucca cruises.",
@@ -2110,11 +2110,11 @@
     "id": "pyramids_giza_024",
     "name": "Pyramids of Giza",
     "country": "Egypt",
-    "heroImageUrl": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://cdn.britannica.com/39/155939-159-C83534D3/Pyramids-Giza-Cairo-Egypt.jpg",
     "galleryImages": [
       "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1553416519-e9edb01e6b36?auto=format&fit=crop&w=800&q=80"
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/8a/2b/f3.jpg"
     ],
     "description": "The last surviving wonder of the ancient world. The Great Pyramid of Khufu, the Sphinx, and the Giza Necropolis deliver an incomparable encounter with human civilisation's most ambitious construction.",
     "shortDescription": "The last ancient wonder \u2014 pyramids, Sphinx, and desert mystique.",
@@ -2621,11 +2621,11 @@
     "id": "lalibela_046",
     "name": "Lalibela Rock Churches",
     "country": "Ethiopia",
-    "heroImageUrl": "https://images.unsplash.com/photo-1588195540875-63c2a0ee0a3c?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVt7aEJ_ho1PwuT36Z-FaNjkNdywqXLcFnqe7XjYMdIsCvrmfl7JyBSmH&s=10",
     "galleryImages": [
       "https://images.unsplash.com/photo-1572888195250-3037a59d3578?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1588195540875-63c2a0ee0a3c?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArgrKKfUd2cIsl8BQVs5FNa4trQKuDX2PFwT7ttHaRuDpHSoJu2ObYws&s=10"
     ],
     "description": "Eleven medieval monolithic churches carved downward from solid red volcanic rock in the 12th century, connected by tunnels and trenches. A living pilgrimage site and one of Africa's most extraordinary architectural achievements.",
     "shortDescription": "Eleven churches carved from solid rock, still in worship today.",
@@ -2653,17 +2653,17 @@
       {
         "title": "Bete Giyorgis (St. George)",
         "subtitle": "The Cross-Shaped Masterpiece",
-        "imageUrl": "https://images.unsplash.com/photo-1588195540875-63c2a0ee0a3c?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk14rqU3bIq6nqmVTjIfEnVjYsIJd6-_OI_xQaEIIbsUlTZ2nIYP5HlyB4&s=10"
       },
       {
         "title": "Bete Medhane Alem",
         "subtitle": "Largest Monolithic Church",
-        "imageUrl": "https://images.unsplash.com/photo-1572888195250-3037a59d3578?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cwidth=400%2Cheight=265%2Cdpr=2/tour_img/0a2d6d55a44989a16d1b493bcc491c9833f052b64d75ec8690087eead9773f55.jpeg"
       },
       {
         "title": "Genna Festival",
         "subtitle": "Ethiopian Christmas Pilgrimage",
-        "imageUrl": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArgrKKfUd2cIsl8BQVs5FNa4trQKuDX2PFwT7ttHaRuDpHSoJu2ObYws&s=10"
       }
     ],
     "visaRequired": true,
@@ -2840,7 +2840,7 @@
     "id": "cape_coast_049",
     "name": "Cape Coast & Elmina Castles",
     "country": "Ghana",
-    "heroImageUrl": "https://images.unsplash.com/photo-1611348586840-ea9872d33411?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXzE7qatkWFMyQm_jQyfuns6eKwCEXO7775lMZRQZCUO0qdgtsWKV3wy3&s=10",
     "galleryImages": [
       "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1614531341773-3bff8b7cb3fc?auto=format&fit=crop&w=800&q=80",
@@ -2872,17 +2872,17 @@
       {
         "title": "Cape Coast Castle",
         "subtitle": "Door of No Return",
-        "imageUrl": "https://images.unsplash.com/photo-1611348586840-ea9872d33411?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5OFrMzKKW9lVE3wdKPBgKsHNahFdslg5d2CLgn6zBx8OHv5r_znEyF3F&s=10"
       },
       {
         "title": "Elmina Castle",
         "subtitle": "Oldest European Building in Sub-Saharan Africa",
-        "imageUrl": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://res.cloudinary.com/tourhq/image/upload/fl_progressive,f_auto,h_507,w_900,g_auto,c_fill,q_auto/onkooaptevaxssg383hx"
       },
       {
         "title": "Kakum Canopy Walk",
         "subtitle": "Rainforest Treetop Bridge",
-        "imageUrl": "https://images.unsplash.com/photo-1614531341773-3bff8b7cb3fc?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/11/b0/a3/caption.jpg?w=720&h=480&s=1"
       }
     ],
     "visaRequired": true,
@@ -2912,7 +2912,7 @@
     "id": "virunga_050",
     "name": "Virunga National Park",
     "country": "DR Congo",
-    "heroImageUrl": "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8DKGNPlSfA3KloEpy28yR8WuDCrqS5mM1zhA11w24KyVbRne0SpoOwP0&s=10",
     "galleryImages": [
       "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=800&q=80",
@@ -2944,17 +2944,17 @@
       {
         "title": "Nyiragongo Lava Lake",
         "subtitle": "World's Largest Active Lava Lake",
-        "imageUrl": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://virungaparkcongo.com/wp-content/uploads/2020/03/Mount-Nyiragongo-eruptions-750x450.jpg"
       },
       {
         "title": "Mountain Gorilla Trek",
         "subtitle": "Cheapest Permits in the Virungas",
-        "imageUrl": "https://images.unsplash.com/photo-1547424878-dab8e8f99ad5?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nVSfDQWskvxw4meBA1zD9OkgZLtsmaAnR430X8t3X-FgX06hBRPicIk&s=10"
       },
       {
         "title": "Senkwekwe Orphanage",
         "subtitle": "World's Only Gorilla Orphanage",
-        "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://schoolfor.africa/wp-content/uploads/2021/06/virunga-park-rangers-protecting-orphaned-mountain-gorillas1-1.jpg"
       }
     ],
     "visaRequired": true,
@@ -2984,7 +2984,7 @@
     "id": "comoros_051",
     "name": "Comoros Islands",
     "country": "Comoros",
-    "heroImageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://triplook.me/media/countries/photo/d/4/t2.jpg",
     "galleryImages": [
       "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
@@ -3017,17 +3017,17 @@
       {
         "title": "Karthala Volcano Hike",
         "subtitle": "Active Volcano Summit",
-        "imageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkdfr0o39pfL46x9lYvaGqLSVpJSFhnZPGAm7FZ8gTxJ-YvgOiTFTjeanw&s=10"
       },
       {
         "title": "Moh\u00e9li Marine Park",
         "subtitle": "Turtles, Dolphins & Whales",
-        "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHxeinV1Q5_3RnZEfENHrRCOU1-l9UIs6lYQEF2YH6jEsEXM9KdFpLrfIQ&s=10"
       },
       {
         "title": "Itsandra Beach",
         "subtitle": "Black Sand & Volcanic Cliffs",
-        "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=600&q=80"
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxrlOnDJrHPRJpNk8TEfiNOuHbLwXu02qrL9-icauKEGhut1jOLJ1uXpK&s=10"
       }
     ],
     "visaRequired": true,
