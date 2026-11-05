@@ -1309,11 +1309,11 @@
     "id": "simien_mountains_041",
     "name": "Simien Mountains National Park",
     "country": "Ethiopia",
-    "heroImageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?auto=format&fit=crop&w=1600&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOBMLpFIi1MtPUS1E6KlzbwtID45Ko07V4ZbxDFGJ47cjEpLAOQFDurU-&s=10",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80"
+      "https://imgix.brilliant-ethiopia.com/simien-mountains-viewpoint.jpg?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=1200&h=720&q=50",
+      "https://media.sciencephoto.com/c0/40/77/20/c0407720-800px-wm.jpg",
+      "https://www.trekandmountain.com/wp-content/uploads/simien-590x273.jpg"
     ],
     "description": "A dramatic UNESCO World Heritage highland of jagged escarpments and deep gorges, home to troops of endemic Gelada baboons and the trek up Ras Dashen, Ethiopia's highest peak.",
     "shortDescription": "Jagged highland escarpments and endemic Gelada baboon troops.",
