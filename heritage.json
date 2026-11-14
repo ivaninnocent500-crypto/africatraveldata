@@ -271,18 +271,30 @@
         "iconKey": "food"
       }
     ],
-    "storyAudio": [
+   "storyAudio": [
       {
         "language": "English",
-        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/lalibela/en.mp3",
-        "durationSeconds": 24,
-        "transcript": "Welcome to Lalibela. In the 12th century, King Lalibela ordered eleven churches carved from solid rock, from the ground down."
+        "audioUrl": "https://fphaxcfimqusdobdjxpf.supabase.co/storage/v1/object/public/heritage-audio/lalibela/lalibela_en.mp3",
+        "durationSeconds": 50,
+        "transcript": "Welcome to Lalibela, the holy heart of Ethiopia. About eight hundred years ago, during the Zagwe dynasty, King Lalibela ordered eleven churches carved from solid volcanic rock, working from the top down. He dreamed of a New Jerusalem in the highlands, and even the stream that runs through the site is called the River Jordan. Local tradition says angels helped the masons at night. Bet Medhane Alem is among the largest monolithic churches in the world, and Bet Giyorgis is carved in the shape of a cross. As you walk through the trenches and tunnels, please remove your shoes and step softly. These churches are not museums. Priests and pilgrims still pray here every day. Lalibela is not only stone. It is living faith."
       },
       {
         "language": "Amharic",
-        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/lalibela/am.mp3",
-        "durationSeconds": 25,
-        "transcript": "እንኳን ደህና መጡ ወደ ላሊበላ። በ12ኛው ክፍለ ዘመን ንጉስ ላሊበላ አስራ አንድ አብያተ ክርስቲያናትን ከአለት ጠረቡ።"
+        "audioUrl": "https://fphaxcfimqusdobdjxpf.supabase.co/storage/v1/object/public/heritage-audio/lalibela/lalibela_am.mp3",
+        "durationSeconds": 50,
+        "transcript": "እንኳን ደህና መጡ ወደ ላሊበላ፤ የኢትዮጵያ ቅዱስ ምድር። ከስምንት መቶ ዓመታት በፊት፣ በዛጉዌ ሥርወ መንግሥት ዘመን፣ ንጉሥ ላሊበላ አሥራ አንድ አብያተ ክርስቲያናትን ከአንድ ጠንካራ አለት ላይ ከላይ ወደ ታች እንዲጠረቡ አደረገ። ንጉሡ በደጋው ላይ «አዲስ ኢየሩሳሌም» ለመመሥረት አልሞ ነበር፤ በቦታው የሚፈሰው ወንዝም ዮርዳኖስ ተብሎ ይጠራል። በአፈ ታሪክ መሠረት መላእክት በሌሊት ሠራተኞቹን ረድተዋቸዋል። ቤተ መድኃኔ ዓለም በዓለም ካሉ ትልልቅ ከአንድ አለት የተጠረቡ አብያተ ክርስቲያናት አንዱ ነው፤ ቤተ ጊዮርጊስ ደግሞ የመስቀል ቅርጽ አለው። ወደ ቤተ ክርስቲያኖቹ ሲገቡ ጫማዎን ያውልቁ፤ በጸጥታም ይራመዱ። እነዚህ ቦታዎች ሙዚየሞች አይደሉም፤ ዛሬም ካህናትና ምዕመናን በየቀኑ ይጸልያሉ። ላሊበላ ድንጋይ ብቻ ሳይሆን ሕያው እምነት ነው።"
+      },
+      {
+        "language": "हिन्दी",
+        "audioUrl": "https://fphaxcfimqusdobdjxpf.supabase.co/storage/v1/object/public/heritage-audio/lalibela/lalibela_hi.mp3",
+        "durationSeconds": 52,
+        "transcript": "लालिबेला में आपका स्वागत है, जो इथियोपिया का पवित्र हृदय है। लगभग आठ सौ साल पहले, ज़ाग्वे राजवंश के समय, राजा लालिबेला ने ग्यारह चर्चों को ठोस ज्वालामुखीय चट्टान को ऊपर से नीचे की ओर तराशकर बनवाया। उनका सपना था कि इथियोपिया के पहाड़ी इलाके में एक नया येरुशलम बसाया जाए, और यहाँ बहने वाली धारा को आज भी जॉर्डन नदी कहा जाता है। स्थानीय मान्यता है कि रात में फ़रिश्तों ने कारीगरों की मदद की थी। बेत मेधाने आलेम दुनिया के सबसे बड़े एकल-चट्टान चर्चों में से एक है, और बेत गिओरगिस क्रॉस के आकार में तराशा गया है। चर्चों के अंदर जाने से पहले कृपया जूते उतार दें और धीमे कदमों से चलें। ये चर्च संग्रहालय नहीं हैं, यहाँ आज भी पादरी और तीर्थयात्री हर दिन प्रार्थना करते हैं। लालिबेला सिर्फ़ पत्थर नहीं, जीवित आस्था है।"
+      },
+      {
+        "language": "中文",
+        "audioUrl": "https://fphaxcfimqusdobdjxpf.supabase.co/storage/v1/object/public/heritage-audio/lalibela/lalibela_zh.mp3",
+        "durationSeconds": 45,
+        "transcript": "欢迎来到拉利贝拉，埃塞俄比亚的神圣之心。大约八百年前，在扎格维王朝时期，拉利贝拉国王下令从整块火山岩上自上而下凿出十一座教堂。他梦想在高原上建起一座“新耶路撒冷”，遗址中流过的小溪至今仍被称为约旦河。当地传说，夜晚有天使帮助工匠们劳作。美达尼阿勒姆教堂是世界上最大的整体岩凿教堂之一，圣乔治教堂则被凿成十字架的形状。进入教堂前，请脱鞋并放轻脚步。这里不是博物馆，神父和朝圣者至今每天仍在此祈祷。拉利贝拉不只是石头，它是活着的信仰。"
       }
     ],
     "tourOperatorCategoryId": "sacred-sites-guides",
