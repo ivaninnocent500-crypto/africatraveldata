@@ -134,23 +134,22 @@
       },
       {
         "language": "Swahili",
-        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/great_zimbabwe/sw.mp3",
+        "audioUrl": "https://fphaxcfimqusdobdjxpf.supabase.co/storage/v1/object/public/heritage-audio/great-zimbabwe/great_zimbabwe_en.mp3",
         "durationSeconds": 50,
-        "transcript": "Karibu Great Zimbabwe, mojawapo ya hazina kubwa na za kipekee za kihistoria barani Afrika. Zaidi ya miaka 800 iliyopita, mji huu wa kuvutia ulikuwa kitovu cha ufalme wenye nguvu barani Afrika. Kati ya karne ya 11 na 15, ulikuwa kituo muhimu cha utawala, utamaduni na biashara ya kimataifa. Kuta zake kubwa za mawe zilijengwa bila kutumia saruji, jambo linaloonyesha ustadi mkubwa wa usanifu na uhandisi wa watu wa wakati huo. Wakazi wa Great Zimbabwe walifanya biashara ya dhahabu, pembe za ndovu na bidhaa nyingine zenye thamani. Mitandao yao ya biashara iliunganisha maeneo ya ndani ya Afrika na pwani ya Bahari ya Hindi pamoja na masoko ya kimataifa. Leo, magofu haya ya kihistoria yanatukumbusha utajiri wa historia, maarifa ya uhandisi na ustaarabu wa Afrika. Great Zimbabwe si magofu ya mawe tu. Ni ushahidi wa historia ya ufalme mkubwa wa Kiafrika.
-."
+        "transcript": "Karibu Great Zimbabwe, mojawapo ya hazina kubwa na za kipekee za kihistoria barani Afrika. Zaidi ya miaka 800 iliyopita, mji huu wa kuvutia ulikuwa kitovu cha ufalme wenye nguvu barani Afrika. Kati ya karne ya 11 na 15, ulikuwa kituo muhimu cha utawala, utamaduni na biashara ya kimataifa. Kuta zake kubwa za mawe zilijengwa bila kutumia saruji, jambo linaloonyesha ustadi mkubwa wa usanifu na uhandisi wa watu wa wakati huo. Wakazi wa Great Zimbabwe walifanya biashara ya dhahabu, pembe za ndovu na bidhaa nyingine zenye thamani. Mitandao yao ya biashara iliunganisha maeneo ya ndani ya Afrika na pwani ya Bahari ya Hindi pamoja na masoko ya kimataifa. Leo, magofu haya ya kihistoria yanatukumbusha utajiri wa historia, maarifa ya uhandisi na ustaarabu wa Afrika. Great Zimbabwe si magofu ya mawe tu. Ni ushahidi wa historia ya ufalme mkubwa wa Kiafrika."
       },
       {
         "language": "Français",
-        "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/great_zimbabwe/fr.mp3",
+        "audioUrl": "https://fphaxcfimqusdobdjxpf.supabase.co/storage/v1/object/public/heritage-audio/great-zimbabwe/great_zimbabwe_fr.mp3",
         "durationSeconds": 49,
-        "transcript": "Bienvenue au Grand Zimbabwe, l'un des trésors historiques les plus remarquables d'Afrique. Il y a plus de 800 ans, cette impressionnante cité de pierre était le cœur d'un puissant royaume africain. Entre le XIe et le XVe siècle, elle est devenue un centre majeur de pouvoir politique, de culture et de commerce international. Ses impressionnants murs de pierre ont été construits sans mortier, témoignant du remarquable savoir-faire architectural et technique de ses habitants. Les habitants du Grand Zimbabwe échangeaient de l'or, de l'ivoire et d'autres marchandises précieuses grâce à de vastes réseaux commerciaux reliant l'intérieur du continent africain à la côte de l'océan Indien et aux marchés internationaux. Aujourd'hui, ces ruines anciennes témoignent de la richesse de l'histoire africaine, de son génie architectural et de ses grandes civilisations. Le Grand Zimbabwe n'est pas simplement un ensemble de vieilles pierres. C'est le témoignage d'un royaume africain extraordinaire.
-."
+        "transcript": "Bienvenue au Grand Zimbabwe, l'un des trésors historiques les plus remarquables d'Afrique. Il y a plus de 800 ans, cette impressionnante cité de pierre était le cœur d'un puissant royaume africain. Entre le XIe et le XVe siècle, elle est devenue un centre majeur de pouvoir politique, de culture et de commerce international. Ses impressionnants murs de pierre ont été construits sans mortier, témoignant du remarquable savoir-faire architectural et technique de ses habitants. Les habitants du Grand Zimbabwe échangeaient de l'or, de l'ivoire et d'autres marchandises précieuses grâce à de vastes réseaux commerciaux reliant l'intérieur du continent africain à la côte de l'océan Indien et aux marchés internationaux. Aujourd'hui, ces ruines anciennes témoignent de la richesse de l'histoire africaine, de son génie architectural et de ses grandes civilisations. Le Grand Zimbabwe n'est pas simplement un ensemble de vieilles pierres. C'est le témoignage d'un royaume africain extraordinaire."
       }
     ],
     "tourOperatorCategoryId": "ancient-kingdoms-guides",
     "hotelSearchQuery": "Masvingo Zimbabwe hotels near Great Zimbabwe",
     "restaurantSearchQuery": "Masvingo Zimbabwe traditional restaurants"
   },
+
   {
     "id": "lalibela",
     "name": "Lalibela",
