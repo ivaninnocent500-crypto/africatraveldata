@@ -129,20 +129,22 @@
       {
         "language": "English",
         "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/great_zimbabwe/en.mp3",
-        "durationSeconds": 20,
-        "transcript": "Welcome to Great Zimbabwe. More than 800 years ago, this was the capital of a powerful African kingdom whose trade reached India and China."
+        "durationSeconds": 48,
+        "transcript": "Welcome to Great Zimbabwe, one of Africa's most remarkable historical treasures. More than 800 years ago, this magnificent stone city was the heart of a powerful African kingdom. Between the 11th and 15th centuries, it became an important centre of political power, culture and international trade. Its impressive stone walls were built without mortar, using remarkable architectural skills passed down through generations. The people of Great Zimbabwe traded gold, ivory and other valuable goods through extensive commercial networks connecting the African interior with the Indian Ocean coast and international markets. Today, these ancient ruins stand as a powerful reminder of Africa's rich history, engineering knowledge and civilisation. Great Zimbabwe is not simply a collection of ancient stones. It is the story of an extraordinary African kingdom."
       },
       {
         "language": "Swahili",
         "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/great_zimbabwe/sw.mp3",
-        "durationSeconds": 22,
-        "transcript": "Karibu Great Zimbabwe. Zaidi ya miaka 800 iliyopita, hapa palikuwa mji mkuu wa ufalme wenye nguvu barani Afrika."
+        "durationSeconds": 50,
+        "transcript": "Karibu Great Zimbabwe, mojawapo ya hazina kubwa na za kipekee za kihistoria barani Afrika. Zaidi ya miaka 800 iliyopita, mji huu wa kuvutia ulikuwa kitovu cha ufalme wenye nguvu barani Afrika. Kati ya karne ya 11 na 15, ulikuwa kituo muhimu cha utawala, utamaduni na biashara ya kimataifa. Kuta zake kubwa za mawe zilijengwa bila kutumia saruji, jambo linaloonyesha ustadi mkubwa wa usanifu na uhandisi wa watu wa wakati huo. Wakazi wa Great Zimbabwe walifanya biashara ya dhahabu, pembe za ndovu na bidhaa nyingine zenye thamani. Mitandao yao ya biashara iliunganisha maeneo ya ndani ya Afrika na pwani ya Bahari ya Hindi pamoja na masoko ya kimataifa. Leo, magofu haya ya kihistoria yanatukumbusha utajiri wa historia, maarifa ya uhandisi na ustaarabu wa Afrika. Great Zimbabwe si magofu ya mawe tu. Ni ushahidi wa historia ya ufalme mkubwa wa Kiafrika.
+."
       },
       {
         "language": "Français",
         "audioUrl": "https://raw.githubusercontent.com/ivaninnocent500-crypto/africatraveldata/main/audio/heritage/great_zimbabwe/fr.mp3",
-        "durationSeconds": 21,
-        "transcript": "Bienvenue au Grand Zimbabwe. Il y a plus de 800 ans, c'était la capitale d'un puissant royaume africain."
+        "durationSeconds": 49,
+        "transcript": "Bienvenue au Grand Zimbabwe, l'un des trésors historiques les plus remarquables d'Afrique. Il y a plus de 800 ans, cette impressionnante cité de pierre était le cœur d'un puissant royaume africain. Entre le XIe et le XVe siècle, elle est devenue un centre majeur de pouvoir politique, de culture et de commerce international. Ses impressionnants murs de pierre ont été construits sans mortier, témoignant du remarquable savoir-faire architectural et technique de ses habitants. Les habitants du Grand Zimbabwe échangeaient de l'or, de l'ivoire et d'autres marchandises précieuses grâce à de vastes réseaux commerciaux reliant l'intérieur du continent africain à la côte de l'océan Indien et aux marchés internationaux. Aujourd'hui, ces ruines anciennes témoignent de la richesse de l'histoire africaine, de son génie architectural et de ses grandes civilisations. Le Grand Zimbabwe n'est pas simplement un ensemble de vieilles pierres. C'est le témoignage d'un royaume africain extraordinaire.
+."
       }
     ],
     "tourOperatorCategoryId": "ancient-kingdoms-guides",
